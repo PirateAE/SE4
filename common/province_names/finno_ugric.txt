@@ -1,0 +1,24 @@
+#Suggested by ComposMentis
+35 = "Saaremaa"
+3231 = "Hiiumaa"
+
+
+
+#Arga's Work
+
+#2017 Jul 25
+
+#scandinavia
+1 = "Tukholma"
+11 = "Länsipohja"
+33 = "Pähkinälinna"
+34 = "Inkeri"
+309 = "Aunus"
+315 = "Vesisaari"			#kven
+1776 = "Karjala"			#or "Vienan-Karjala" for white karelia
+1777 = "Kuola"			#Or "Kuolan niemimaa"
+3119 = "Tromssa"
+3123 = "Uplanti"
+
+#adjustment
+4124 = "Pohjois-Karjala"			#according to wiki the name of northkarelia, which is the province (?). the name change is needed if you want to represent both this and 1776 which is also named karelia.

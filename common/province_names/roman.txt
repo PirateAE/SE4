@@ -1,0 +1,23 @@
+#By Arga
+
+#2017 May 24
+#Iberia
+3103 = "Pontem Vetris"
+5095 = "Flavia Augusta" #Or "Ebesus"
+
+#France
+202 = "Avenio" #Or "Avennionis"
+
+#switzerland 
+3055 = "Basilia"
+3056 = "Genava"
+
+#italy
+3043 = "Ticinum"
+3047 = "Bergomum"
+
+
+#2017 Jun 10
+
+#caucasus
+1856 = "Sebastopolis"

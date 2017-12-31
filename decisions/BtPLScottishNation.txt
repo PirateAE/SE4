@@ -1,0 +1,85 @@
+country_decisions = {
+
+	btpl_scottish_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			NOT = { has_country_flag = formed_scotland_flag_bt }
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { tag = PAP }
+			NOT = { tag = HLR }
+			NOT = { tag = CEL }
+			NOT = { tag = GBR }			#Scottish gbr shouldn't see this
+			NOT = { tag = TNA }			#Prevent any possible exploit of tag switching
+			NOT = { tag = SCO }			#Hide this decision for Scotland... duh....
+			OR = {
+				primary_culture = scottish
+				primary_culture = gallgaidheil
+				primary_culture = highland_scottish
+			}	#One of the Scottish cultures
+			OR = {
+				tag = ILE
+				tag = HSC
+				num_of_cities = 8
+			}	#Either one of the two primary culture tags or a medium tag with the right culture
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		allow = {
+			is_free_or_tributary_trigger = yes
+			is_nomad = no
+			is_at_war = no
+			NOT = { exists = SCO }
+			custom_trigger_tooltip = {
+				tooltip = two_thirds_of_scotland_tooltip
+				num_of_owned_provinces_with = {
+					value = 12
+					OR = {
+						area = lowlands_area
+						area = western_lowlands_area
+						area = highlands_area
+						area = southern_isles_area
+					}
+					is_core = ROOT
+				}	#2/3 of Scotland's 17 provinces
+			}
+		}
+		effect = {
+			change_tag = SCO
+			remove_non_electors_emperors_from_empire_effect = yes
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			if = {
+				limit = { NOT = { has_dlc = "Common Sense" } }
+				capital_scope = {
+					add_base_tax = 1
+					add_base_production = 1
+					add_base_manpower = 1
+				}
+			}	#I decided to remove the development bonus from forming altogether, unless one doesn't have common sense. With the ability to build up provinces already there, this isn't really needed and can get out of hand quickly.
+			add_prestige = 10
+			set_country_flag = formed_scotland_flag_bt
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+}

@@ -1,0 +1,10 @@
+########################################
+# Events for Nubia
+#
+# written by Johan Andersson
+########################################
+
+namespace = flavor_nub
+normal_or_historical_nations = yes
+
+#Going for a different approach along the Upper Nile, so clearing these events and replacing with new ones in BtPLegacyUpperNileEvents

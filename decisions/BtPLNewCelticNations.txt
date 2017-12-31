@@ -1,0 +1,262 @@
+country_decisions = {
+
+	tir_na_ngael_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			NOT = { has_country_flag = formed_tir_na_ngael_flag_bt }
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}	#Custom Ai will not form this
+			NOT = { tag = CEL }
+			NOT = { tag = PAP }
+			NOT = { tag = HLR }
+			NOT = { tag = GBR }
+			NOT = { tag = TNA }
+			culture_group = gaelic
+			OR = {
+				tag = IRE
+				tag = KOI
+				tag = SCO
+				tag = IOM
+				AND = {
+					government_rank = 2			#Don't want Irish OPMs to be able to see this too early. First goal should be forming provincial kingdoms and then Ireland, or for the Isles, overthrowing Scotland.
+					num_of_cities = 8
+				}
+			}
+			OR = {
+				ai = no
+				NOT = { exists = TNA }
+			}	#Copied from France. Player will still see the option if it already exists, but cannot form it unless they topple the current one.
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}	#Normal no colonial stuff
+		}
+		allow = {
+			NOT = { exists = TNA }
+			is_free_or_tributary_trigger = yes
+			is_nomad = no
+			is_at_war = no
+			custom_trigger_tooltip = {
+				tooltip = three_quarters_of_ireland_tooltip
+				num_of_owned_provinces_with = {
+					value = 13
+					region = ireland_area
+					is_core = ROOT
+				}	#3/4 of Ireland's 17 provinces
+			}
+			custom_trigger_tooltip = {
+				tooltip = three_quarters_of_scotland_tooltip
+				num_of_owned_provinces_with = {
+					value = 13
+					OR = {
+						area = lowlands_area
+						area = western_lowlands_area
+						area = highlands_area
+						area = southern_isles_area
+					}
+					is_core = ROOT
+				}	#3/4 of Scotland's 17 provinces
+			}
+			total_development = 150			#Normal requirement for rank 2 is 300 dev, so this is 50 percent discounted. Note base dev in 1444 if Scotland 82 (+6 from Northern Isles) and Ireland 90, 172/178 total
+			prestige = 25			#Normal requirement for rank 2 is 50 prestige, so this is 50 percent discounted
+			}
+		effect = {
+			change_tag = TNA
+			remove_non_electors_emperors_from_empire_effect = yes
+			custom_tooltip = permanent_claim_on_all_gaelic_lands_tooltip
+			hidden_effect = {
+				ireland_area = {
+					limit = { NOT = { owned_by = ROOT } }
+					add_permanent_claim = TNA
+				}
+				lowlands_area = {
+					limit = { NOT = { owned_by = ROOT } }
+					add_permanent_claim = TNA
+				}
+				western_lowlands_area = {
+					limit = { NOT = { owned_by = ROOT } }
+					add_permanent_claim = TNA
+				}
+				highlands_area = {
+					limit = { NOT = { owned_by = ROOT } }
+					add_permanent_claim = TNA
+				}
+				southern_isles_area = {
+					limit = { NOT = { owned_by = ROOT } }
+					add_permanent_claim = TNA
+				}
+			}
+			if = {
+				limit = {
+					NOT = {
+						OR = {
+							primary_culture = irish
+							accepted_culture = irish
+						}
+					}
+				}
+				add_accepted_culture = irish
+			}
+			if = {
+				limit = {
+					NOT = {
+						OR = {
+							primary_culture = highland_scottish
+							accepted_culture = highland_scottish
+						}
+					}
+				}
+				add_accepted_culture = highland_scottish
+			}
+			if = {
+				limit = {
+					NOT = {
+						OR = {
+							primary_culture = gallgaidheil
+							accepted_culture = gallgaidheil
+						}
+					}
+				}
+				add_accepted_culture = gallgaidheil
+			}
+			if = {
+				limit = { NOT = { government_rank = 2 } }
+				set_government_rank = 2
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 10
+			country_event = { id = ideagroups.1 } #Swap Ideas
+			set_country_flag = formed_tir_na_ngael_flag_bt
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	albion_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			NOT = { has_country_flag = formed_ynys_y_cedyrn_flag_bt }
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}	#Custom Ai will not form this
+			NOT = { tag = CEL }
+			NOT = { tag = PAP }
+			NOT = { tag = HLR }
+			NOT = { tag = GBR }
+			NOT = { tag = YYK }
+			culture_group = brythonic
+			OR = {
+				tag = WLS
+				tag = CRN
+				AND = {
+					num_of_cities = 8			#Doesn't have the rank requirements of TnG above, because there are no minors in 1444 and because this culture group doesn't have so many mid level minor kingdoms and provincial kingdoms.
+					NOT = { tag = BRE }
+				}
+				AND = {
+					tag = BRE
+					num_of_owned_provinces_with = {
+						value = 6
+						region = british_isles_region
+					}
+				}			#Little detail to encourage Brittany to go for Gaul/Gall/Bro C'hall (not done yet) or France unless it owns equal land in Britain to the size of Brittany.
+			}
+			OR = {
+				ai = no
+				NOT = { exists = YYK }
+			}	#Copied from France. Player will still see the option if it already exists, but cannot form it unless they topple the current one.
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}	#Normal no colonial stuff
+		}
+		allow = {
+			NOT = { exists = YYK }
+			is_free_or_tributary_trigger = yes
+			is_nomad = no
+			is_at_war = no
+			custom_trigger_tooltip = {
+				tooltip = half_of_britain_tooltip
+				num_of_owned_provinces_with = {
+					value = 24
+					region = british_isles_region
+					is_core = ROOT
+				}	#Just over 1/2 of Britain's 46 provinces
+			}
+			total_development = 150			#Normal requirement for rank 2 is 300 dev, so this is 50 percent discounted. Note base dev in 1444 is Wales 19, Cornwall 9, Brittany 54, 82 total. England is another 181 or Scotland 82/88, so by the time a tag has the provinces, dev shouldn't be a problem.
+			prestige = 25			#Normal requirement for rank 2 is 50 prestige, so this is 50 percent discounted
+			}
+		effect = {
+			change_tag = YYK
+			remove_non_electors_emperors_from_empire_effect = yes
+			british_isles_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+					NOT = { area = southern_isles_area }
+				}
+				add_permanent_claim = YYK
+			}
+			if = {
+				limit = {
+					NOT = {
+						OR = {
+							primary_culture = welsh
+							accepted_culture = welsh
+						}
+					}
+				}
+				add_accepted_culture = welsh
+			}
+			if = {
+				limit = {
+					NOT = {
+						OR = {
+							primary_culture = breton
+							accepted_culture = breton
+						}
+					}
+				}
+				add_accepted_culture = breton
+			}
+			if = {
+				limit = {
+					NOT = {
+						OR = {
+							primary_culture = cornish
+							accepted_culture = cornish
+						}
+					}
+				}
+				add_accepted_culture = cornish
+			}
+			if = {
+				limit = { NOT = { government_rank = 2 } }
+				set_government_rank = 2
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 20		#Extra prestige for Albion. Long live King Arthur!
+			set_country_flag = formed_ynys_y_cedyrn_flag_bt
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+}

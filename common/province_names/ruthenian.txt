@@ -1,0 +1,7 @@
+#Some localised naming for Ruthenians on the request of a SE sub named Kiki who doesn't like Russian =P Seriously though, I love localised naming and would love to see more of these suggestions, I might even do some myself if I get the time. -Draiocht
+282 = "Ochakiv"
+291 = "Kharkiv"
+2406 = "Mikolaiv"
+2961 = "Lviv"
+2962 = "Rivne"
+3242 = "Oleksandria"

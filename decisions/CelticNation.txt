@@ -1,0 +1,389 @@
+country_decisions = {
+
+	celtic_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			NOT = { has_country_flag = formed_tir_na_gceilteach_btp }
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}	#Custom Ai will not form this
+			#NOT = { exists = CEL }			#moved to allow
+			NOT = { tag = CEL }			#Added when moving above condition to allow
+			NOT = { tag = PAP }
+			NOT = { tag = HLR }
+			NOT = { tag = GBR }
+			OR = {
+				culture_group = gaelic
+				culture_group = brythonic
+			}
+			#To appear, must own at least one provinces in all the major Celtic countries or already be a cultural union
+			OR = {
+				tag = TNA
+				tag = YYK
+				AND = {
+					num_of_owned_provinces_with = {
+						value = 1
+						region = ireland_area
+					}
+					OR = {
+						num_of_owned_provinces_with = {
+							value = 1
+							area = lowlands_area
+						}
+						num_of_owned_provinces_with = {
+							value = 1
+							area = western_lowlands_area
+						}
+						num_of_owned_provinces_with = {
+							value = 1
+							area = highlands_area
+						}
+						num_of_owned_provinces_with = {
+							value = 1
+							area = southern_isles_area
+						}
+					}
+					num_of_owned_provinces_with = {
+						value = 1
+						area = wales_area
+					}
+					num_of_owned_provinces_with = {
+						value = 1
+						area = cornwall_area
+					}
+					num_of_owned_provinces_with = {
+						value = 1
+						area = brittany_area
+					}
+				}
+			}
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}	#Normal no colonial stuff
+		}
+		allow = {
+			NOT = { exists = CEL }
+			is_free_or_tributary_trigger = yes
+			is_nomad = no
+			is_at_war = no
+			government_rank = 2			#Replaces the government specific Nots, as all Irish minors are rank 1. Also useful because we dont want a rank 1 jumping to rank 3 in one go
+			custom_trigger_tooltip = {
+				tooltip = celtic_nation_required_provinces_tooltip_a
+				num_of_owned_provinces_with = {
+					value = 9
+					region = ireland_area
+					is_core = ROOT
+				}	#at least half of Ireland
+			}
+			custom_trigger_tooltip = {
+				tooltip = celtic_nation_required_provinces_tooltip_b
+				num_of_owned_provinces_with = {
+					value = 9
+					OR = {
+						area = highlands_area
+						area = lowlands_area
+						area = western_lowlands_area
+						area = southern_isles_area
+					}
+					is_core = ROOT
+				}	#at least half of Scotland
+			}
+			owns_core_province = 3016			#Owns the Isle of Man
+			custom_trigger_tooltip = {
+				tooltip = celtic_nation_required_provinces_tooltip_c
+				num_of_owned_provinces_with = {
+					value = 3
+					area = wales_area
+					is_core = ROOT
+				}	#at least half of Wales
+			}
+			custom_trigger_tooltip = {
+				tooltip = celtic_nation_required_provinces_tooltip_d
+				num_of_owned_provinces_with = {
+					value = 1
+					area = cornwall_area
+					is_core = ROOT
+				}	#at least half of Cornwall
+			}
+			custom_trigger_tooltip = {
+				tooltip = celtic_nation_required_provinces_tooltip_e
+				num_of_owned_provinces_with = {
+					value = 3
+					area = brittany_area
+					is_core = ROOT
+				}	#at least half of Brittany
+			}
+			num_of_cities = 40			#Additonally, must have at least 14 more provinces than the minimum, located anywhere. That is roughly all of any 3 of the 4 major Celtic countries, or minimum above plus about half of England. Ireland - 17, Scotland - 17, Wales - 6, Brittany - 6, Cornwall - 2, Mann - 1, England - 24
+			total_development = 333			#Normal requirement for rank 3 is 1000 dev, so this is 67 percent discounted. It was 50 percent, but I'm feeling generous today. Note base dev in 1444 of all Celtic countries is around 254 (and England is another 181).
+			prestige = 25			#Normal requirement for rank 3 is 75 prestige, so this is 67 percent discounted. It was 50 percent, but I'm feeling generous today.
+			#Organised all below, may use later
+			#Ireland Vanilla
+			#owns_core_province = 372
+			#owns_core_province = 373
+			#owns_core_province = 374
+			#owns_core_province = 375
+			#owns_core_province = 376
+			#owns_core_province = 4118
+			#owns_core_province = 4119
+			#owns_core_province = 4120
+			#owns_core_province = 4121
+			#Ireland BtP
+			#owns_core_province = 3004
+			#owns_core_province = 3005
+			#owns_core_province = 3006
+			#owns_core_province = 3007
+			#owns_core_province = 3009
+			#owns_core_province = 3010
+			#owns_core_province = 3012
+			#Scotland Vanilla
+			#owns_core_province = 248
+			#owns_core_province = 249
+			#owns_core_province = 250
+			#owns_core_province = 251
+			#owns_core_province = 252
+			#owns_core_province = 253
+			#owns_core_province = 4110
+			#Scotland BtP
+			#owns_core_province = 3008
+			#owns_core_province = 3018
+			#owns_core_province = 3019
+			#owns_core_province = 3020
+			#owns_core_province = 3021
+			#owns_core_province = 3037
+			#owns_core_province = 3038
+			#owns_core_province = 3039
+			#owns_core_province = 5099
+			#Wales Vanilla
+			#owns_core_province = 240
+			#owns_core_province = 241
+			#owns_core_province = 242
+			#Wales BtP
+			#owns_core_province = 3033
+			#owns_core_province = 3034
+			#owns_core_province = 3035
+			#owns_core_province = 3036
+			#Cornwall Vanilla
+			#owns_core_province = 233
+			#owns_core_province = 4130
+			#Brittany Vanilla
+			#owns_core_province = 169
+			#owns_core_province = 170
+			#owns_core_province = 171
+			#owns_core_province = 172
+			#Brittany BtP
+			#owns_core_province = 3037
+			#owns_core_province = 3038
+			#Isle of Man BtP
+			#owns_core_province = 3016
+			}
+		effect = {
+			change_tag = CEL
+			remove_non_electors_emperors_from_empire_effect = yes
+			if = {
+				limit = {
+					NOT = { government_rank = 3 }
+				}
+				set_government_rank = 3
+			}
+			custom_tooltip = permanent_claim_on_all_celtic_lands_tooltip			#Cleaning things up with two custom tooltips, and hiding the various claims
+			hidden_effect = {
+				ireland_area = {
+					limit = { NOT = { owned_by = ROOT } }
+					add_permanent_claim = CEL
+				}
+				lowlands_area = {
+					limit = { NOT = { owned_by = ROOT } }
+					add_permanent_claim = CEL
+				}
+				western_lowlands_area = {
+					limit = { NOT = { owned_by = ROOT } }
+					add_permanent_claim = CEL
+				}
+				highlands_area = {
+					limit = { NOT = { owned_by = ROOT } }
+					add_permanent_claim = CEL
+				}
+				southern_isles_area = {
+					limit = { NOT = { owned_by = ROOT } }
+					add_permanent_claim = CEL
+				}
+				wales_area = {
+					limit = { NOT = { owned_by = ROOT } }
+					add_permanent_claim = CEL
+				}
+				cornwall_area = {
+					limit = { NOT = { owned_by = ROOT } }
+					add_permanent_claim = CEL
+				}
+				brittany_area = {
+					limit = { NOT = { owned_by = ROOT } }
+					add_permanent_claim = CEL
+				}
+			}
+			custom_tooltip = temp_claim_on_all_britain_tooltip			#Cleaning things up with two custom tooltips, and hiding the various claims
+			hidden_effect = {
+				mercia_area = {
+					limit = { NOT = { owned_by = ROOT } }
+					add_claim = CEL
+				}
+				wessex_area = {
+					limit = { NOT = { owned_by = ROOT } }
+					add_claim = CEL
+				}
+				east_anglia_area = {
+					limit = { NOT = { owned_by = ROOT } }
+					add_claim = CEL
+				}
+				northern_england_area = {
+					limit = { NOT = { owned_by = ROOT } }
+					add_claim = CEL
+				}
+				essex_area = {
+					limit = { NOT = { owned_by = ROOT } }
+					add_claim = CEL
+				}
+				yorkshire_area = {
+					limit = { NOT = { owned_by = ROOT } }
+					add_claim = CEL
+				}
+				lancashire_area = {
+					limit = { NOT = { owned_by = ROOT } }
+					add_claim = CEL
+				}
+			}
+			#############################
+			#Merging of the Celtic cultures code
+			#############################
+			custom_tooltip = merges_celtic_cultures_tooltip
+			set_global_flag = gaels_and_britons_reunited_into_one_group
+			#Primary Culture
+			hidden_effect = {
+				every_country = {
+					limit = { primary_culture = irish }
+					change_primary_culture = celtic_irish_culture
+				}
+				every_country = {
+					limit = { primary_culture = highland_scottish }
+					change_primary_culture = celtic_highland_scottish_culture
+				}
+				every_country = {
+					limit = { primary_culture = gallgaidheil }
+					change_primary_culture = celtic_highland_scottish_culture
+				}
+				#every_country = {
+				#	limit = { primary_culture = manx }
+				#	change_primary_culture = celtic_manx_culture
+				#}
+				every_country = {
+					limit = { primary_culture = welsh }
+					change_primary_culture = celtic_welsh_culture
+				}
+				every_country = {
+					limit = { primary_culture = breton }
+					change_primary_culture = celtic_breton_culture
+				}
+				every_country = {
+					limit = { primary_culture = cornish }
+					change_primary_culture = celtic_cornish_culture
+				}
+			}
+			#Accepted Cultures
+			hidden_effect = {
+				every_country = {
+					limit = { accepted_culture = irish }
+					remove_accepted_culture = irish
+					add_accepted_culture = celtic_irish_culture
+				}
+				every_country = {
+					limit = { accepted_culture = highland_scottish }
+					remove_accepted_culture = highland_scottish
+					add_accepted_culture = celtic_highland_scottish_culture
+				}
+				every_country = {
+					limit = { accepted_culture = gallgaidheil }
+					remove_accepted_culture = gallgaidheil
+					add_accepted_culture = celtic_highland_scottish_culture
+				}
+				#every_country = {
+				#	limit = { accepted_culture = manx }
+				#	remove_accepted_culture = manx
+				#	add_accepted_culture = celtic_manx_culture
+				#}
+				every_country = {
+					limit = { accepted_culture = welsh }
+					remove_accepted_culture = welsh
+					add_accepted_culture = celtic_welsh_culture
+				}
+				every_country = {
+					limit = { accepted_culture = breton }
+					remove_accepted_culture = breton
+					add_accepted_culture = celtic_breton_culture
+				}
+				every_country = {
+					limit = { accepted_culture = cornish }
+					remove_accepted_culture = cornish
+					add_accepted_culture = celtic_cornish_culture
+				}
+			}
+			#Provinces
+			hidden_effect = {
+				every_province = {
+					limit = { culture = irish }
+					change_culture = celtic_irish_culture
+				}
+				every_province = {
+					limit = { culture = highland_scottish }
+					change_culture = celtic_highland_scottish_culture
+				}
+				every_province = {
+					limit = { culture = gallgaidheil }
+					change_culture = celtic_highland_scottish_culture
+				}
+				#every_province = {
+				#	limit = { culture = manx }
+				#	change_culture = celtic_manx_culture
+				#}
+				every_province = {
+					limit = { culture = welsh }
+					change_culture = celtic_welsh_culture
+				}
+				every_province = {
+					limit = { culture = breton }
+					change_culture = celtic_breton_culture
+				}
+				every_province = {
+					limit = { culture = cornish }
+					change_culture = celtic_cornish_culture
+				}
+			}
+			#############################
+			#End Merging of the Celtic cultures
+			#############################
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			if = {
+				limit = { NOT = { has_dlc = "Common Sense" } }
+				capital_scope = {
+					add_base_tax = 1
+					add_base_production = 1
+					add_base_manpower = 1
+				}
+			}	#I decided to remove the development bonus altogether, unless one doesn't have common sense and therefor cannot increase dev any other way.
+			add_prestige = 25
+			country_event = { id = ideagroups.1 } #Swap Ideas
+			set_country_flag = formed_tir_na_gceilteach_btp
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+}

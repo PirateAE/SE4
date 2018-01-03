@@ -2,13 +2,19 @@ trade_company_west_africa = {
 	color = { 50 0 200 }
 	
 	provinces = {
-		1164 1165 1166 1096 1793 2241 1466 1097 1098 1118 1119 1151 1163 2242 1168 1306 4078 4079 4080 
+		1164 1165 1166 1096 2241 1466 1097 1098 1118 1119 1151 1163 2242 1168 1306 4078 4079 4080 
 		1111
 		1126 1139 1141 2257 2258 #West Africa Coast
 		1147 2289 2290 2294 #Benin
-		1112 1113 1116 2239 #Jolof
-		1114 1117 2238 #Futa Jalon
+		1112 1113 2239 #Jolof
+		1114 #Futa Jalon
 		1167 1171 1172 1174 #Angola
+		
+		#Shattered
+		#1793 Wasteland, ejected, no longer connected to rest of TC -Pirate -2018-01-03
+		#1116 2238 1117, ejected, restricting this TC to coastal only - Pirate -2018-01-03
+		3734 3798 3838 3840 
+		
 	}
 	
 	# Specific
@@ -26,6 +32,9 @@ trade_company_south_africa = {
 	
 	provinces = {
 		789 833 1175 1176 1177 1178 1179 1180 1181 1182 1801 1173 1800 2856 2864 2880 
+		
+		#Shattered -Pirate -2018-01-03
+		3842
 	}
 	
 	# Specific
@@ -60,6 +69,8 @@ trade_company_west_india = {
 	
 	provinces = {
 		503 504 505 512 513 514 515 518 521 528 576 577 2051 2052 2053 2054 2056 2058 2066 2067 2068 2072 2087 2088
+		#Shattered -Adding one cleaning its edges a bit... -Pirate -2018-01-03
+		2231
 	}
 	
 	# Generic
@@ -200,6 +211,8 @@ trade_company_moluccas = {
 	
 	provinces = {
 		646 2687 2688 2689 2690 2718 2724 1357 1245 647 645 2717 648 649 650 2725 2696 2695 635 633 634 643 2713 2714 642 2715 641 2716 632 627 2691 631 2693 629 2692 628 626 625 630 624 644 2723
+		#Shattered -extended to rest of island of New Guinea -Pirate -2018-01-03
+		2722 2721 1237 2720 2719
 	}
 
 	# Generic

@@ -140,8 +140,7 @@ europe = {
 	#3249 3252 3259 3258 3257 3260  #BT provinces replaced by vanilla in 1.23 - Caucasus
 	
 	#Shattered Europa
-	3707 3708 3709 3710 3711 3712 3713 3714 3715 3716 3717 3718 3719 3720 3721 3722 3723 3724 3725 3726
-	3727 3728 3729 3730 3731
+	3700 3701 3702 3703
 }
    
 asia = {
@@ -251,8 +250,7 @@ asia = {
 	#5230 5234 5237 5253 5260 5254 5252 5257 5248 5247 5245 5236 5258 5242 5238 5259 5240  #BT provinces replaced by vanilla in 1.23 - Arabia
 	
 	#Shattered Europa
-	3707 3708 3709 3710 3711 3712 3713 3714 3715 3716 3717 3718 3719 3720 3721 3722 3723 3724 3725 3726
-	3727 3728 3729 3730 3731
+	3707 3708 3709 3710 3711 3712 3713 3714 3715 3716
 }
 
 africa = {
@@ -429,10 +427,10 @@ oceania = {
 	3907 3908 3909 3910 3911 3912 3913 3914 3915 3916 3917 3918 3919 3920 3921 3922 3923 3924 3925 3926 3927 3928 3929 3930 3931 
 	3932 3933 3934
 
-	#Shattered Europa Missing (These came up in the error log as bug, and need to be placed in a continent. Putting them here for now so you can work on it without crashes. - Driaocht)
-	3699 3700 3701 3702 3703 3704 3705 3706 3935 3936 3937 3938 3939 3940 3941
-	#Shattered Europa Doubled Up (These are placed in multiple continents, and should be removed from at least one. - Draiocht)
-	#3707 3708 3709 3710 3711 3712 3713 3714 3715 3716 3717 3718 3719 3720 3721 3722 3723 3724 3725 3726 3727 3728 3729 3730 3731
+	#Shattered Europa related -Got the Siberian ones in Europe and Asia, ones below aren't on map at all -Pirate -2018-01-03 removed from above and enabled only here
+	3699 3704 3705 3706 3717 3718 3719 3720 3721 3722 3723 3724 3725 3726 3727 3728 3729 3730 3731
+	#Aussie lakes probably
+	3935 3936 3937 3938 3939 3940 3941
 }
 
 # Used for RNW

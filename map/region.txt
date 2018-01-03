@@ -526,6 +526,9 @@ sahel_region = {
 		east_azbin_area
 		#BTADDITIONS
 		southeast_sahara_area
+		#Shattered
+		west_desert_inland_area
+		sahel_wastelands
 	}
 }
 

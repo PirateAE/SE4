@@ -493,7 +493,7 @@ niger_region = {
 		kong_area
 		massina_area
 		manding_area
-		tekrur_area
+		#tekrur_area #Shattered, -sent off to sahel
 		jenne_area
 	}
 }
@@ -528,7 +528,22 @@ sahel_region = {
 		southeast_sahara_area
 		#Shattered
 		west_desert_inland_area
-		sahel_wastelands
+		sahel_wastelands1_area
+		sahel_wastelands2_area
+		sahel_wastelands3_area
+		sahel_wastelands4_area
+		sahel_wastelands5_area
+		sahel_wastelands6_area
+		sahel_wastelands7_area
+		sahel_wastelands8_area
+		sahel_wastelands9_area
+		sahel_wastelands10_area
+		sahel_nameless_area
+		sahel_nameless2_area
+		sahel_nameless3_area
+		sahel_nameless4_area
+		sahel_nameless5_area
+		tekrur_area
 	}
 }
 
@@ -574,6 +589,9 @@ east_africa_region = {
 		#east_african_islands_area			#Cut in 1.20
 		shire_area
 		mombasa_area
+		#Shattered from South africa
+		zimbabwe_area
+		butua_area
 	}
 }
 
@@ -603,6 +621,8 @@ kongo_region = {
 		matamba_area
 		lower_kasai
 		kasai_area
+		#Shattered
+		sa_nameless_area2
 	}
 }
 
@@ -631,10 +651,14 @@ south_africa_region = {
 	areas = {
 		south_african_plateau_area
 		cape_of_good_hope_area
-		zimbabwe_area
+		#zimbabwe_area #Shattered, sent to east africa
 		quelimane_area
-		butua_area
+		#butua_area #Shattered, sent to east africa
 		limpopo_area
+		#Shattered
+		sa_nameless_area
+		sa_nameless_area1
+		sa_nameless_area3
 	}
 }
 

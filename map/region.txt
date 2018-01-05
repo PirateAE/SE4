@@ -592,6 +592,7 @@ east_africa_region = {
 		#Shattered from South africa
 		zimbabwe_area
 		butua_area
+		quelimane_area
 	}
 }
 
@@ -608,7 +609,7 @@ central_africa_region = {
 		buzinza_area
 		uganda_area
 		rwanda_area
-		chokwe_area
+		#chokwe_area #Shattered sent to kongo
 		bunyoro_area
 	}
 }
@@ -623,6 +624,7 @@ kongo_region = {
 		kasai_area
 		#Shattered
 		sa_nameless_area2
+		chokwe_area #pulled form central Africa to clean edge
 	}
 }
 
@@ -652,7 +654,7 @@ south_africa_region = {
 		south_african_plateau_area
 		cape_of_good_hope_area
 		#zimbabwe_area #Shattered, sent to east africa
-		quelimane_area
+		#quelimane_area #Shattered, sent to east africa
 		#butua_area #Shattered, sent to east africa
 		limpopo_area
 		#Shattered

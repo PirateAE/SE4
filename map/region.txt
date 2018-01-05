@@ -685,6 +685,8 @@ west_siberia_region = {
 		irkutsk_area
 		ishim_area
 		kara_area
+		#shattered
+		sibera_nameless_area
 	}
 }
 
@@ -697,6 +699,8 @@ east_siberia_region = {
 		kamchatka_area
 		buryatia_area
 		kolyma_area
+		#Shattered
+		sibera_nameless2_area
 	}
 }
 
@@ -926,7 +930,11 @@ brazil_region = {
 		guapore_area
 		ceara_area
 		west_sao_paolo_area
-	}
+		#shattered
+		brazil_nameless_area
+		brazil_nameless2_area
+		brazil_nameless3_area
+		brazil_nameless4_area
 }
 
 la_plata_region = {

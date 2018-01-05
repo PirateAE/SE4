@@ -596,7 +596,7 @@ east_africa_region = {
 	}
 }
 
-central_africa_region = {
+african_great_lakes_region = { #Shattered, Repurposed into African Great lakes
 	areas = {
 		ngonde_area
 		buha_area
@@ -611,6 +611,18 @@ central_africa_region = {
 		rwanda_area
 		#chokwe_area #Shattered sent to kongo
 		bunyoro_area
+		central_nameless_area
+	}
+}
+central_africa_region = {
+	areas = {
+	central_nameless2_area
+	central_nameless3_area
+	central_nameless4_area
+	central_nameless5_area
+	central_nameless6_area
+	central_nameless7_area
+	central_nameless8_area
 	}
 }
 

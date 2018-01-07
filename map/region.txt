@@ -1555,6 +1555,9 @@ unused_region = {
 		north_korea_area
 		straits_of_georgia_area
 		east_alaska_area
+		
+		#Shattered, ausi lakes
+		Ausie_lakes_area
 	}
 }
 #Shattered rebuild of Australia region

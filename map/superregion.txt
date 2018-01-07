@@ -89,6 +89,13 @@ persia_superregion = {
 	khorasan_region
 	persia_region
 }
+#Shattered, if Australia is mostly cononizable, stand to reason it should have its own super region
+Australia_superregion = {
+	western_australia_region
+	eastern_australia_region
+	nothern_australia_region
+	southern_australia_region
+}
 
 new_world_superregion ={
 }

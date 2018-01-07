@@ -851,17 +851,17 @@ japan_region = {
 		northern_kyushu
 	}
 }
-
-australia_region = {
-	areas = {
-		western_australia_area
-		northern_australia_area
-		eastern_australia_area
-		southern_australia_area
-		top_end_area
-		murray_river_area
-	}
-}
+#Shattered, #ing out and remaking at bottom
+#australia_region = {
+#	areas = {
+#		western_australia_area
+#		northern_australia_area
+#		eastern_australia_area
+#		southern_australia_area
+#		top_end_area
+#		murray_river_area
+#	}
+#}
 
 
 south_china_region = {
@@ -1555,5 +1555,43 @@ unused_region = {
 		north_korea_area
 		straits_of_georgia_area
 		east_alaska_area
+	}
+}
+#Shattered rebuild of Australia region
+western_australia_region = {
+	areas = {
+		Waus_nameless_area1
+		Waus_nameless_area2
+		Waus_nameless_area3
+		Waus_nameless_area4
+		Waus_nameless_area5
+	}
+}	
+eastern_australia_region = {
+	areas = {
+		Eaus_nameless_area1
+		Eaus_nameless_area2
+		Eaus_nameless_area3
+		Eaus_nameless_area4
+		Eaus_nameless_area5
+	}
+}
+nothern_australia_region = {
+	areas = {
+		Naus_nameless_area1
+		Naus_nameless_area2
+		Naus_nameless_area3
+		Naus_nameless_area4
+		Naus_nameless_area5
+	}	
+}
+southern_australia_region = {
+	areas = {
+		Saus_nameless_area1
+		Saus_nameless_area2
+		Saus_nameless_area3
+		Saus_nameless_area4
+		Saus_nameless_area5
+		Saus_nameless_area6
 	}
 }

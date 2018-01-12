@@ -1764,6 +1764,8 @@ azbin_area = { #5 #Shattered +1
 
 east_azbin_area = { #3
 	2275 2277 2475
+	#Shattered
+	3967
 }
 
 atacora_oueme_area = { #5
@@ -2927,7 +2929,9 @@ beni_area = { #3 - Beni Savannah
 
 
 moxos_area = { #3
-	803 2832 2833
+	803 2832 2833 
+	#Shattered
+	3968
 }
 
 upper_peru = { #4
@@ -4135,10 +4139,6 @@ Naus_nameless_area4 = {
 Naus_nameless_area5 = {
 3884 3885 3886
 }
-#only here on this page
-#Ausie_lakes_area = {
-#3935 3936 3937 3938 3939 3940 3941
-#}				#Lakes don't need an area.
 
 ##################################################################################
 #####Unused Area, placeholder to prevent crashes when testing, and to prevent error log entries#####

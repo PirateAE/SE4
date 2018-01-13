@@ -545,18 +545,22 @@ Oceania={
 	outgoing={
 		name="south_west_australia"
 		path={
-			1423 1425 1425
+			1423 1425 1424
 		}
 		control={
 		}
 	}
+	outgoing={
+		name="the_moluccas"
+		path={
+			1423 1429 1412 1407 1410 1409 1401 1357
 	members={
 		1246 5597 1109 5598 5599 5600 5601 5601 5603 2738 5610 1107 5604 5605 2737 5607 1108 5606 2739 5608 5609 1106 5022 1986 1242 1239 1238 1236 1237 1989 1243 5023 1987 5026 5025 5024 1244 1988 5029 1240 1241 1235 1996 1995 1993 1994 5602 1990 1991 1676
 	}
 }
 #Ausie mainland 
 north_west_australia={
-	location=3876
+	location=2727
 		outgoing={
 		name="south_west_australia"
 		path={

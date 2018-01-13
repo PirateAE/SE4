@@ -540,10 +540,10 @@ canton={
 #	}
 #}
 #Ausie mainland 
-North_west_australia={
+north_west_australia={
 	location=3876
 		outgoing={
-		name="South_west_australia"
+		name="south_west_australia"
 		path={
 			1416 1415 1414 1424
 		}
@@ -556,7 +556,7 @@ North_west_australia={
 		3930 3831 3932 3933
 	}
 }
-South_west_australia={
+south_west_australia={
 	location=1090
 	outgoing={
 		name="the_moluccas"

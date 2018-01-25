@@ -1,4 +1,4 @@
-NDefines.NGame.START_DATE = "1356.11.1"
+NDefines.NGame.START_DATE = "1444.11.1"
 NDefines.NGame.END_DATE = "3017.01.01"
 NDefines.NNationDesigner.POINTS_AVAILABLE = 500000
 NDefines.NNationDesigner.RULER_MIN_AGE = 1

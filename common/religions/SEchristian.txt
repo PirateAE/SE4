@@ -357,4 +357,408 @@ christian = {
 	harmonized_modifier = harmonized_christian
 	
 	crusade_name = CRUSADE
+	#Hauled out of main file
+		cathar = {
+		#color = { 0.5 0.5 0.7 }
+		color = { 0.5 0.5 0.9 }
+		icon = 31
+		
+		allowed_conversion = {
+			#catholic
+			protestant
+			reformed
+			hussite
+			nestorian
+		}
+		allowed_center_conversion = {
+			catholic
+		}
+		province = {
+			local_missionary_strength = -0.01#.02 ?
+		}
+		hre_heretic_religion = yes	
+		uses_church_power = yes				# Uses church power/aspect mechanics
+		aspects = {
+			organised_through_bishops_aspect
+			translated_bibles_aspect
+			cathar_castles_aspect
+			sacrement_consolament_aspect
+			regle_justice_verite_aspect
+			vegetarian_aspect
+			propagation_textes_cathares_aspect
+			connaissance_salvatrice_aspect
+		}
+		country = {
+			tolerance_own = 2
+			stability_cost_modifier = -0.1
+			may_recruit_female_generals = yes
+			female_advisor_chance = 0.2
+		}
+		country_as_secondary = {
+			yearly_corruption = -0.1
+			advisor_pool = 1
+		}
+		will_get_center = {
+			any_owned_province = {
+				religion_group = christian
+				NOT = { religion = orthodox }
+				not = { province_id = 118 }
+				is_in_capital_area = yes
+				is_reformation_center = no
+				development = 10
+				NOT = { has_climate = arctic }
+				NOT = { has_climate = arid }
+				NOT = { has_terrain = coastline }
+				NOT = { has_terrain = coastal_desert }
+				NOT = { has_terrain = steppe }
+				NOT = { has_terrain = desert }
+				NOT = { has_terrain = glacier }
+				NOT = { has_climate = tropical }
+			}
+			any_neighbor_country = { NOT = { has_friendly_reformation_center = yes } }
+		}
+		
+		on_convert = {
+			change_religion = cathar
+			add_prestige = -100
+			add_stability = -1
+			remove_country_modifier = the_test_act
+			remove_country_modifier = superintendent_office
+			remove_country_modifier = the_popery_act
+			remove_church_aspect = random
+			remove_church_aspect = random
+			remove_church_aspect = random
+			
+			if = {
+				limit = {
+					NOT = { has_country_flag = reformation_money }
+				}
+				add_years_of_income = 1.0
+			}
+			
+			if = {
+				random_owned_province = {
+					limit = {
+						religion_group = christian
+						NOT = { religion = orthodox }
+						not = { province_id = 118 }
+						is_in_capital_area = yes
+							is_reformation_center = no
+							development = 10
+							NOT = {
+								any_neighbor_province = {
+									is_reformation_center = yes
+								}
+							}
+							NOT = { has_climate = arctic }
+							NOT = { has_climate = arid }
+							NOT = { has_terrain = coastline }
+							NOT = { has_terrain = coastal_desert }
+							NOT = { has_terrain = steppe }
+							NOT = { has_terrain = desert }
+							NOT = { has_terrain = glacier }
+							NOT = { has_climate = tropical }
+					}
+					change_religion = cathar
+					#add_reform_center = cathar
+				}
+			}
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+			set_country_flag = "reformation_money"
+			every_known_country = {
+				limit = {
+					reverse_has_opinion_modifier = {
+						who = ROOT
+						modifier = opinion_demote_pope
+					}
+				}
+				reverse_remove_opinion = {
+					who = ROOT
+					modifier = opinion_demote_pope
+				}
+			}
+		}
+		
+		heretic = { BOGOMILIST WALDENSIAN FRATICELLI HUSSITE LOLLARD SOCINIAN }
+
+		date = 1536.5.1
+	}
+	
+	hussite = {
+		color = { 0.3 0.0 0.4 }
+		icon = 22
+		allowed_conversion = {
+			reformed
+			protestant
+			catholic
+			cathar
+			nestorian
+		}
+		province = {
+			local_missionary_strength = -0.01
+		}
+		allowed_center_conversion = {
+			catholic
+		}
+		country = {
+			prestige_from_land = 0.2
+			infantry_power = 0.1
+		}
+		country_as_secondary = {
+			prestige_from_land = 0.1
+			global_tax_modifier = 0.1
+		}
+		
+		will_get_center = {
+			any_owned_province = {
+				religion_group = christian
+				NOT = { religion = orthodox }
+				not = { province_id = 118 }
+				is_in_capital_area = yes
+				is_reformation_center = no
+				development = 10
+				NOT = { has_climate = arctic }
+				NOT = { has_climate = arid }
+				NOT = { has_terrain = coastline }
+				NOT = { has_terrain = coastal_desert }
+				NOT = { has_terrain = steppe }
+				NOT = { has_terrain = desert }
+				NOT = { has_terrain = glacier }
+				NOT = { has_climate = tropical }
+			}
+			any_neighbor_country = { NOT = { has_friendly_reformation_center = yes } }
+		}
+		
+		on_convert = {
+			change_religion = hussite
+			add_prestige = -100
+			add_stability = -1
+			remove_country_modifier = counter_reformation
+			remove_country_modifier = the_statue_in_restraint_of_appeals
+			remove_country_modifier = bavarian_jesuits
+			remove_country_modifier = the_societas_jesu
+			remove_country_modifier = the_declaration_of_indulgence
+			remove_country_modifier = de_heretico_comburendo
+			remove_country_modifier = the_conventicle_act
+		
+			if = {
+				limit = {
+					NOT = { has_country_flag = reformation_money }
+				}
+				add_years_of_income = 1.0
+			}
+		
+			if = {
+				random_owned_province = {
+					limit = {
+						religion_group = christian
+						NOT = { religion = orthodox }
+						NOT = { province_id = 118 }
+						is_in_capital_area = yes
+						is_reformation_center = no
+						development = 10
+						NOT = {
+							any_neighbor_province = {
+								is_reformation_center = yes
+							}
+						}
+						NOT = { has_climate = arctic }
+						NOT = { has_climate = arid }
+						NOT = { has_terrain = coastline }
+						NOT = { has_terrain = coastal_desert }
+						NOT = { has_terrain = steppe }
+						NOT = { has_terrain = desert }
+						NOT = { has_terrain = glacier }
+						NOT = { has_climate = tropical }
+					}
+					change_religion = hussite
+					#add_reform_center = hussite
+				}
+			}
+			add_country_modifier = { name = "conversion_zeal" duration = 3650 }			
+			set_country_flag = reformation_money
+			every_known_country = {
+				limit = { reverse_has_opinion_modifier = { who = ROOT modifier = opinion_demote_pope } }
+				reverse_remove_opinion = { who = ROOT modifier = opinion_demote_pope }
+			}
+		}
+		
+		heretic = { PAPIST }
+		
+		date = 1536.5.1
+		
+		fervor = yes
+	}
+	
+	apostolic = {
+	
+		flags_with_emblem_percentage = 20
+		flag_emblem_index_range = { 1 4 }
+	
+		#color = { 0.65 0.55 0 }
+		color = { 0.8 0.4 0.1 }
+		icon = 33
+		allowed_conversion = {
+			nestorian
+			coptic
+		}
+		country = {
+  			legitimacy = 1
+  			global_missionary_strength = 0.02 #was.03
+		}
+		country_as_secondary = {
+			tolerance_heathen = 2
+			global_missionary_strength = 0.015
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		on_convert = {
+			change_religion = apostolic
+			add_prestige = -100
+			add_stability = -1
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { ZAMIKAELITES STEPHANITES EUSTATHIANS }
+		
+		has_patriarchs = yes		# Uses patriarch authority
+		misguided_heretic = yes		# Other christians hate them less (?)
+	}
+	
+	nestorian = {
+		#color = { 0.40 0.00 0.60 }
+		color = { 0.8 0.3 0.5 }
+		icon = 84
+		allowed_conversion = {
+			apostolic
+			coptic
+		}
+		country = {
+			tolerance_own = 2
+			adm_tech_cost_modifier = -0.1
+		}
+		country_as_secondary = {
+			adm_tech_cost_modifier = -0.1
+			tolerance_own = 1
+		}
+		province = {
+			local_missionary_strength = -0.02 #.01 ?
+		}
+		on_convert = {
+			change_religion = nestorian
+			add_prestige = -100
+			add_stability = -1
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+
+		heretic = { ZAMIKAELITES STEPHANITES EUSTATHIANS }
+
+		has_patriarchs = yes		# Uses patriarch authority
+		misguided_heretic = yes		# Other christians hate them less (?)
+	}
+	
+	bogomilist = {
+		#color = { 0.86 0.59 0.36 }
+		color = { 0.7 0 0.2 }
+		icon = 80
+		allowed_conversion = {
+			nestorian
+			orthodox
+		}
+		province = { 
+            local_missionary_strength = -0.02
+            local_unrest = -1
+        }
+		country = {
+			stability_cost_modifier = -0.1
+			land_morale = 0.1
+		}
+		country_as_secondary = {
+			stability_cost_modifier = -0.10
+			tolerance_own = 1
+		}
+		on_convert = {
+			change_religion = bogomilist
+			add_prestige = -100
+			add_stability = -1
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+			remove_church_aspect = random
+			remove_church_aspect = random
+			remove_church_aspect = random
+		}
+		uses_church_power = yes				# Uses church power/aspect mechanics
+		aspects = {
+			organised_through_bishops_aspect
+			priests_may_marry_aspect
+			adult_baptism_aspect
+			holy_sacraments_aspect
+			saints_accept_prayers_aspect
+			icons_images_aspect
+			legalised_divorces_aspect
+			heretics_deported_aspect
+			parish_registers_aspect
+			individual_creeds_aspect
+			allow_usury_aspect
+			translated_bibles_aspect
+		}
+		misguided_heretic = yes		# Other christians hate them less
+		heretic = { OLD_BELIEVER MOLOKAN DUKHOBOR KHLYST SKOPTSY ICONOCLAST }
+	}
+	
+	waldensian = {
+		#color = { 0.91 0.84 0.42 } Nepnep
+		color = { 0.4 0.4 0.7 }
+		icon = 81
+		allowed_conversion = {
+			reformed
+			protestant
+			cathar #nn
+			nestorian #nn
+		}
+		province = {
+			local_missionary_strength = -0.01
+		}
+		country = {
+			tolerance_heretic = 2
+			technology_cost = -0.1
+		}
+		country_as_secondary = {
+			global_unrest = -1
+			technology_cost = -0.1
+		}
+		on_convert = {
+			change_religion = waldensian
+			add_prestige = -100
+			
+			remove_country_modifier = the_test_act
+			remove_country_modifier = superintendent_office
+			remove_country_modifier = the_popery_act
+			
+			add_stability = -1
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		hre_heretic_religion = yes
+		fervor = yes
+		heretic = { BOGOMILIST FRATICELLI HUSSITE LOLLARD SOCINIAN }
+	}	
+	
+	harmonized_modifier = harmonized_christian
+	
+	crusade_name = CRUSADE
 }

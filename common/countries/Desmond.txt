@@ -57,7 +57,7 @@ monarch_names = {
 leader_names = {
 	Fitzgerald Carew Condon Barry Supple Walsh Nugent
 	Galway Hodnett Fleming Roche Nagle Downing Hyde Terry
-	Wall Synan Lombard Stapleton "de Cogan" Barrett Fant Maunsell
+	Wall Synan Lombard Stapleton "de Cogan" Barrett Maunsell
 	Baggott Brown "de Lacey" Fant Burke Daly Gunning Finniter
 	Purcell Hewson Courtenay Fitzmaurice Cantillon Hussey Ferriter
 	Bunyan Mulvihill Barry Boyle "Mac Sheehy" Cotter Daly
@@ -67,12 +67,12 @@ leader_names = {
 }	#custom by Driaocht based on historical castles and family holdings
 
 ship_names = {
-	Fitzgerald Carew Condon Barry Supple Walsh Nugent
+	Fitzgerald Carew Condon Supple Walsh Nugent
 	Galway Hodnett Fleming Roche Nagle Downing Hyde Terry
 	Wall Synan Lombard Stapleton "de Cogan" Barrett Fant Maunsell
-	Baggott Brown "de Lacey" Fant Burke Daly Gunning Finniter
+	Baggott Brown "de Lacey" Burke Daly Gunning Finniter
 	Purcell Hewson Courtenay Fitzmaurice Cantillon Hussey Ferriter
-	Bunyan Mulvihill Barry Boyle "Mac Sheehy" Cotter Daly
+	Bunyan Mulvihill Barry Boyle "Mac Sheehy" Cotter
 	"O'Hanley" "O'Casey" "O'Donovan" "O'Mahony" "O'Hynes"
 	Coppinger MacSweeney
 	"mac an Oirchinnigh"

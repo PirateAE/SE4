@@ -1,6 +1,6 @@
 christian = {
 	fraticelli = {
-		color = { 0.7 0.7 0.4 }
+		color = { 179 179 10 }
 		icon = 85
 		allowed_conversion = {
 			reformed
@@ -212,7 +212,7 @@ christian = {
 	}
 	
 	messalian = {
-		color = { 0.6 0.1 0.4 }
+		color = { 153 26 102 }
 		icon = 22
 		country = {
 			global_missionary_strength = 0.01
@@ -235,7 +235,7 @@ christian = {
 	}
 	
 	lollard = {
-		color = { 0.5 0.8 0.8 }
+		color = { 128 204 204 }
 		icon = 86
 		allowed_conversion = {
 			reformed
@@ -274,7 +274,7 @@ christian = {
 	}
 	
 	monophysite = {
-		color = { 0.8 0.4 0.1 }
+		color = { 204 102 26 }
 		icon = 33
 		country = {
 			global_tax_modifier = 0.1
@@ -293,7 +293,7 @@ christian = {
 	}
 	
 	monothelite = {
-		color = { 0.5 0 0.3 }
+		color = { 128 0 77 }
 		icon = 87
 		country = {
 			tolerance_own = 2
@@ -314,7 +314,7 @@ christian = {
 	}
 	
 	iconoclast = {
-		color = { 0.5 0.2 0.4 }
+		color = { 128 51 102 }
 		icon = 88
 		country = {
 			tolerance_heretic = -2
@@ -335,7 +335,7 @@ christian = {
 	}
 	
 	paulician = {
-		color = { 0.5 0 0.3 }
+		color = { 128 0 77 }
 		icon = 89
 		country = {
 			stability_cost_modifier = -0.2
@@ -359,8 +359,7 @@ christian = {
 	crusade_name = CRUSADE
 	#Hauled out of main file
 		cathar = {
-		#color = { 0.5 0.5 0.7 }
-		color = { 0.5 0.5 0.9 }
+		color = { 128 128 230 }
 		icon = 31
 		
 		allowed_conversion = {
@@ -488,7 +487,7 @@ christian = {
 	}
 	
 	hussite = {
-		color = { 0.3 0.0 0.4 }
+		color = { 77 0 102 }
 		icon = 22
 		allowed_conversion = {
 			reformed
@@ -597,9 +596,8 @@ christian = {
 	
 		flags_with_emblem_percentage = 20
 		flag_emblem_index_range = { 1 4 }
-	
-		#color = { 0.65 0.55 0 }
-		color = { 0.8 0.4 0.1 }
+
+		color = { 204 102 26 }
 		icon = 33
 		allowed_conversion = {
 			nestorian
@@ -633,8 +631,7 @@ christian = {
 	}
 	
 	nestorian = {
-		#color = { 0.40 0.00 0.60 }
-		color = { 0.8 0.3 0.5 }
+		color = { 204 77 128 }
 		icon = 84
 		allowed_conversion = {
 			apostolic
@@ -668,8 +665,7 @@ christian = {
 	}
 	
 	bogomilist = {
-		#color = { 0.86 0.59 0.36 }
-		color = { 0.7 0 0.2 }
+		color = { 179 0 51 }
 		icon = 80
 		allowed_conversion = {
 			nestorian
@@ -719,8 +715,7 @@ christian = {
 	}
 	
 	waldensian = {
-		#color = { 0.91 0.84 0.42 } Nepnep
-		color = { 0.4 0.4 0.7 }
+		color = { 232 214 107 } #Nepnep
 		icon = 81
 		allowed_conversion = {
 			reformed

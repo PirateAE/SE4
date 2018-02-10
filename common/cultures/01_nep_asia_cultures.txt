@@ -127,7 +127,7 @@ jewish_culture_group = {
 	ashkenazi = {
 		dynasty_names = {
 			Abiatarid Akabonid Amitid Amramid Boazid Dorid Dovid Eiranid Eleazid Heroid Honioid Hillelid Joazid Kahanid Nahumid Nirid Nogahid 
-			Oferid Omrid Pinchasid Raananid Shemidid Yairid
+			Oferid Omrid Pinchasid Raananid Shemidid Shemidid Yairid
 		}
 		male_names = {
 			Abba Abbaye Acha Achai Achunai Aharon Alechsandri Ammi Amram Amunah Ashi Asher Avomai Avraham Azariah Baboi Baruch
@@ -148,7 +148,7 @@ jewish_culture_group = {
 	sephardi = {
 		dynasty_names = {
 			Abiatarid Akabonid Amitid Amramid Boazid Dorid Dovid Eiranid Eleazid Heroid Honioid Hillelid Joazid Kahanid Nahumid Nirid Nogahid 
-			Oferid Omrid Pinchasid Raananid Shemidid Yairid
+			Oferid Omrid Pinchasid Raananid Shemidid Shemidid Yairid
 		}
 		male_names = {
 			Abba Abbaye Acha Achai Achunai Aharon Alechsandri Ammi Amram Amunah Ashi Asher Avomai Avraham Azariah Baboi Baruch
@@ -165,11 +165,10 @@ jewish_culture_group = {
 			Shluida Shoinlin Shonlin Tziporah Yehudis Yeintil
 		}
 	}
-	
 	mizrahi = {
 		dynasty_names = {
 			Abiatarid Akabonid Amitid Amramid Boazid Dorid Dovid Eiranid Eleazid Heroid Honioid Hillelid Joazid Kahanid Nahumid Nirid Nogahid 
-			Oferid Omrid Pinchasid Raananid Shemidid Yairid
+			Oferid Omrid Pinchasid Raananid Shemidid Shemidid Yairid
 		}
 		male_names = {
 			Abba Abbaye Acha Achai Achunai Aharon Alechsandri Ammi Amram Amunah Ashi Asher Avomai Avraham Azariah Baboi Baruch
@@ -190,7 +189,7 @@ jewish_culture_group = {
 	beta_israeli = {
 		dynasty_names = {
 			Abiatarid Akabonid Amitid Amramid Boazid Dorid Dovid Eiranid Eleazid Heroid Honioid Hillelid Joazid Kahanid Nahumid Nirid Nogahid 
-			Oferid Omrid Pinchasid Raananid Shemidid Yairid
+			Oferid Omrid Pinchasid Raananid Shemidid Shemidid Yairid
 		}
 		male_names = {
 			Abba Abbaye Acha Achai Achunai Aharon Alechsandri Ammi Amram Amunah Ashi Asher Avomai Avraham Azariah Baboi Baruch
@@ -242,6 +241,37 @@ malay = {
 			Puatea Puaura Ra’ihau Ra’imere Ra’inui Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Taurua Tautiare Tehani 
 			Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea 
 			Vaite Vaitiare
+		}
+	}
+	#new ByT cultures
+	hawaiian = {
+		female_names = {
+			Alamea Alaula Alika Elikapeka Halia Iokina Iolana Kailani Kalea Kamaile Kamea Kanoa Kawena Keala Keola Keona Kiele Kina 
+			Kinipela Konane Lahela Lanai Lani Leiko Leilani Liliha Lilo Luana Mahina Maile Makana Makelina Malana Maleah Malia Mana
+			Miliani Moana Moanna Nalanie Napua Noelani Nohealani Okalani Onaona Palila Pilialoha Ulani
+		}
+		male_names = {
+			Akamu Aloha Alohilani Analu Aolani Aulani Aulii Feleti Inoke Iolani Ipo Iwalani Kai Kaili Kaipo Kalani Kale Kalei Kapena 
+			Kapono Keahi Kealii Keani Keanu Keiki Kelii Keon Keoni Kimo Konala Liko Loe Lulani Makaio  Makani Malo Mauli Mele Moke 
+			Nalani Oke Palani Pekelo
+		}
+		dynasty_names = {
+			"Rajasanagara" "Saktirai" "P'an-Lo" "Cheng" "Gunungjati"
+		}
+	}
+	maori_culture = {
+		female_names = {
+			Alamea Alaula Alika Elikapeka Halia Iokina Iolana Kailani Kalea Kamaile Kamea Kanoa Kawena Keala Keola Keona Kiele Kina 
+			Kinipela Konane Lahela Lanai Lani Leiko Leilani Liliha Lilo Luana Mahina Maile Makana Makelina Malana Maleah Malia Mana
+			Miliani Moana Moanna Nalanie Napua Noelani Nohealani Okalani Onaona Palila Pilialoha Ulani
+		}
+		male_names = {
+			Akamu Aloha Alohilani Analu Aolani Aulani Aulii Feleti Inoke Iolani Ipo Iwalani Kai Kaili Kaipo Kalani Kale Kalei Kapena 
+			Kapono Keahi Kealii Keani Keanu Keiki Kelii Keon Keoni Kimo Konala Liko Loe Lulani Makaio  Makani Malo Mauli Mele Moke 
+			Nalani Oke Palani Pekelo
+		}
+		dynasty_names = {
+			"Rajasanagara" "Saktirai" "P'an-Lo" "Cheng" "Gunungjati"
 		}
 	}
 }

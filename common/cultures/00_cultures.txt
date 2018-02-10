@@ -3508,11 +3508,72 @@ araucanian = {
 	}
 }
 
-#All vanilla cultures from this group moved to more appropriate groups, but recycling this group for pre-Arawakan Caribbean cultures (4-5 of them). All added in bt cultures file.
-#carribean = {
-#	graphical_culture = northamericagfx
-#
-#}
+carribean = {	#Nope yanked back to main file, but all are new, normal were reclocated to other groups
+	graphical_culture = northamericagfx
+
+	guanahatabey = {
+		#primary = YZY
+		male_names = {
+			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
+			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+		}
+		female_names = {
+			Hayá Isani Takuiba Twengga
+		}
+		dynasty_names = {
+			Eregu Heliya Nenege Waricha Kapongong Makushi Korobahado Panapi Muritaro Fararinno Kafotay Mudaukaho Waia Madinina
+		}
+	}
+	macoris = {
+		male_names = {
+			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
+			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+		}
+		female_names = {
+			Hayá Isani Takuiba Twengga
+		}
+		dynasty_names = {
+			Eregu Heliya Nenege Waricha Kapongong Makushi Korobahado Panapi Muritaro Fararinno Kafotay Mudaukaho Waia Madinina
+		}
+	}
+	ciguayo = {
+		male_names = {
+			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
+			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+		}
+		female_names = {
+			Hayá Isani Takuiba Twengga
+		}
+		dynasty_names = {
+			Eregu Heliya Nenege Waricha Kapongong Makushi Korobahado Panapi Muritaro Fararinno Kafotay Mudaukaho Waia Madinina
+		}
+	}
+	warao = {			#A real life OSV language... quirky
+		male_names = {
+			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
+			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+		}
+		female_names = {
+			Hayá Isani Takuiba Twengga
+		}
+		dynasty_names = {
+			Eregu Heliya Nenege Waricha Kapongong Makushi Korobahado Panapi Muritaro Fararinno Kafotay Mudaukaho Waia Madinina
+		}
+	}
+	waikeri = {			#'According to Alexander von Humboldt, the Waikerí said that their language and that of the Warao were related.' - per wiki... well... I can't say I've done things with less evidence, but sure, why not.
+		#primary = YZV
+		male_names = {
+			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
+			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+		}
+		female_names = {
+			Hayá Isani Takuiba Twengga
+		}
+		dynasty_names = {
+			Eregu Heliya Nenege Waricha Kapongong Makushi Korobahado Panapi Muritaro Fararinno Kafotay Mudaukaho Waia Madinina
+		}
+	}
+}
 
 eskaleut = {
 	graphical_culture = northamericagfx
@@ -7578,6 +7639,133 @@ lost_cultures_group = {
 		}
 		female_names = {
 			Amage Ghadani Opoin Polemakratia
+		}
+	}
+}
+#new ByT culture groups
+arawakan_g = {
+	graphical_culture = southamericagfx
+	
+	arawak = { #Taino
+		male_names = {
+			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
+			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+		}
+		female_names = {
+			Hayá Isani Takuiba Twengga
+		}
+		dynasty_names = {
+			Eregu Heliya Nenege Waricha Kapongong Makushi Korobahado Panapi Muritaro Fararinno Kafotay Mudaukaho Waia Madinina
+		}
+	}
+	west_taino = {
+		male_names = {
+			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
+			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+		}
+		female_names = {
+			Hayá Isani Takuiba Twengga
+		}
+		dynasty_names = {
+			Eregu Heliya Nenege Waricha Kapongong Makushi Korobahado Panapi Muritaro Fararinno Kafotay Mudaukaho Waia Madinina
+		}
+	}
+	east_taino = {
+		male_names = {
+			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
+			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+		}
+		female_names = {
+			Hayá Isani Takuiba Twengga
+		}
+		dynasty_names = {
+			Eregu Heliya Nenege Waricha Kapongong Makushi Korobahado Panapi Muritaro Fararinno Kafotay Mudaukaho Waia Madinina
+		}
+	}
+	ineri = {
+		male_names = {
+			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
+			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+		}
+		female_names = {
+			Hayá Isani Takuiba Twengga
+		}
+		dynasty_names = {
+			Eregu Heliya Nenege Waricha Kapongong Makushi Korobahado Panapi Muritaro Fararinno Kafotay Mudaukaho Waia Madinina
+		}
+	}
+	shebaya = {
+		male_names = {
+			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
+			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+		}
+		female_names = {
+			Hayá Isani Takuiba Twengga
+		}
+		dynasty_names = {
+			Eregu Heliya Nenege Waricha Kapongong Makushi Korobahado Panapi Muritaro Fararinno Kafotay Mudaukaho Waia Madinina
+		}
+	}
+	guajiro = { #	Lokono / Northern Mainland Arawak
+		primary = ARW
+		male_names = {
+			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+		}
+		female_names = {
+			Takuiba Twengga
+		}
+		dynasty_names = {
+			Eregu Heliya Nenege Waricha Kapongong Makushi Korobahado Panapi Muritaro Fararinno Kafotay Mudaukaho Waia Madinina
+		}
+	}
+	maipurean = {
+		male_names = {
+			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
+			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+		}
+		female_names = {
+			Hayá Isani Takuiba Twengga
+		}
+		dynasty_names = {
+			Eregu Heliya Nenege Waricha Kapongong Makushi Korobahado Panapi Muritaro Fararinno Kafotay Mudaukaho Waia Madinina
+		}
+	}
+}
+cariban_g = {
+	graphical_culture = southamericagfx
+	
+	carib = {
+		primary = CAB
+		male_names = {
+			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
+		}
+		female_names = {
+			Hayá Isani
+		}
+		dynasty_names = {
+			Eregu Heliya Nenege Waricha Kapongong Makushi Korobahado Panapi Muritaro Fararinno Kafotay Mudaukaho Waia Madinina
+		}
+	}
+	karina = {
+		male_names = {
+			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
+		}
+		female_names = {
+			Hayá Isani
+		}
+		dynasty_names = {
+			Eregu Heliya Nenege Waricha Kapongong Makushi Korobahado Panapi Muritaro Fararinno Kafotay Mudaukaho Waia Madinina
+		}
+	}
+	yao_carib = {			#Poorly attested, might or might not Carib, but whatever... best info we have says it probably is
+		male_names = {
+			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
+		}
+		female_names = {
+			Hayá Isani
+		}
+		dynasty_names = {
+			Eregu Heliya Nenege Waricha Kapongong Makushi Korobahado Panapi Muritaro Fararinno Kafotay Mudaukaho Waia Madinina
 		}
 	}
 }

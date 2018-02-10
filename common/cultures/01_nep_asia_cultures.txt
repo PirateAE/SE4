@@ -84,6 +84,7 @@ japanese_g = {
 
 miao_g = {
 	graphical_culture = asiangfx
+
 	miao = {
 		primary = CMI
 		dynasty_names = {

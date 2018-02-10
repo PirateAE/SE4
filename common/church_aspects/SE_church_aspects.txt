@@ -3,7 +3,7 @@ cathar_castles_aspect = {
 		defensiveness = 0.2
 	}
 	ai_will_do = {
-		factor = 10
+		factor = 1
 		modifier = {
 			factor = 2
 			is_at_war = yes
@@ -16,9 +16,9 @@ sacrement_consolament_aspect = {
 		land_morale = 0.15 #was .2
 	}
 	ai_will_do = {
-		factor = 15
+		factor = 1
 		modifier = {
-			factor = 1
+			factor = 3
 			is_at_war = yes
 		}
 	}
@@ -29,7 +29,7 @@ regle_justice_verite_aspect = {
 		stability_cost_modifier = -0.10
 	}
 	ai_will_do = {
-		factor = 10
+		factor = 0.8
 		modifier = {
 			factor = 2
 			NOT = { religious_unity = 0.8 }
@@ -47,7 +47,7 @@ vegetarian_aspect = {
 		production_efficiency = 0.1
 	}
 	ai_will_do = {
-		factor = 14
+		factor = 0.85
 	}
 }
 
@@ -56,7 +56,7 @@ propagation_textes_cathares_aspect = {
 		global_missionary_strength = 0.01
 	}
 	ai_will_do = {
-		factor = 12
+		factor = 0.75
 		modifier = {
 			factor = 2
 			NOT = { religious_unity = 0.8 }
@@ -66,9 +66,9 @@ propagation_textes_cathares_aspect = {
 
 connaissance_salvatrice_aspect = {
 	effect = { 
-		advisor_cost = -0.5
+		advisor_cost = -0.15 #.5 was seriously OP
 	}
 	ai_will_do = {
-		factor = 11
+		factor = 0.70
 	}
 }

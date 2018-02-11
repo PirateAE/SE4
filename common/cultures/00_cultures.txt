@@ -3445,8 +3445,6 @@ mataco = {	#Matacoan
 	chacoan = {
 		male_names = {
 			Sopa Cayo Topa Coyllas Cusichaca Huachuri Huaypalcon Luyes Marcavilca
-		}
-		male_names = {
 			Kantuta Nina Ana Maiara
 		}
 		dynasty_names = {
@@ -3508,14 +3506,14 @@ araucanian = {
 	}
 }
 
-carribean = {	#Nope yanked back to main file, but all are new, normal were reclocated to other groups
+carribean = {	#Nope yanked back to main file, but all are new, normal were relocated to other groups
 	graphical_culture = northamericagfx
 
 	guanahatabey = {
 		#primary = YZY
 		male_names = {
 			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
-			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+			Wiwakaleme Toratora Amorotahe Haubariria Shoko Laliwa Arah Arata Toruí Mbicy  
 		}
 		female_names = {
 			Hayá Isani Takuiba Twengga
@@ -3527,7 +3525,7 @@ carribean = {	#Nope yanked back to main file, but all are new, normal were reclo
 	macoris = {
 		male_names = {
 			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
-			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+			Wiwakaleme Toratora Amorotahe Haubariria Shoko Laliwa Arah Arata Toruí Mbicy 
 		}
 		female_names = {
 			Hayá Isani Takuiba Twengga
@@ -3539,7 +3537,7 @@ carribean = {	#Nope yanked back to main file, but all are new, normal were reclo
 	ciguayo = {
 		male_names = {
 			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
-			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+			Wiwakaleme Toratora Amorotahe Haubariria Shoko Laliwa Arah Arata Toruí Mbicy  
 		}
 		female_names = {
 			Hayá Isani Takuiba Twengga
@@ -3551,7 +3549,7 @@ carribean = {	#Nope yanked back to main file, but all are new, normal were reclo
 	warao = {			#A real life OSV language... quirky
 		male_names = {
 			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
-			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+			Wiwakaleme Toratora Amorotahe Haubariria Shoko Laliwa Arah Arata Toruí Mbicy 
 		}
 		female_names = {
 			Hayá Isani Takuiba Twengga
@@ -3564,7 +3562,7 @@ carribean = {	#Nope yanked back to main file, but all are new, normal were reclo
 		#primary = YZV
 		male_names = {
 			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
-			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+			Wiwakaleme Toratora Amorotahe Haubariria Shoko Laliwa Arah Arata Toruí Mbicy 
 		}
 		female_names = {
 			Hayá Isani Takuiba Twengga
@@ -3598,8 +3596,8 @@ eskaleut = {
 			Ujurak Ukiuk Unnuk Usuiituk
 		}
 		female_names = {
-			Ahnah Akna Chena Corazon Desna Kaskae Kaya Kirima Koko Malina Adlartok Ahnah Akiak Anana Anernerk Annakpok Aput 
-			Ataciare Atka Aukaneck Biisaiyowaq Buniq Chulyin Cikup Corazon Cupun Hey Iluak Iluq Imnek Ipiktok Iqniq Kakrayok 
+			Akna Chena Corazon Desna Kaskae Kaya Kirima Koko Malina Adlartok Ahnah Akiak Anana Anernerk Annakpok Aput 
+			Ataciare Atka Aukaneck Biisaiyowaq Buniq Chulyin Cikup Cupun Hey Iluak Iluq Imnek Ipiktok Iqniq Kakrayok 
 		}
 	}
 	dynasty_names = {
@@ -3707,7 +3705,7 @@ central_algonquian = {
 	cheyenne = {
 		primary = CHY
 		dynasty_names = {
-			Mohe Diwali Waya Tsiyi Onacona Atagulkalu Degataga Cheasequah Adahy Atagulkalu
+			Mohe Diwali Waya Tsiyi Onacona Atagulkalu Degataga Cheasequah Adahy
 		}
 		male_names = {
 			Wechegalla Tatoncapa Japu Takchesca Chahpacpahha Tatoncahooohcalehpaha Matewashena Shonggemoneto 
@@ -3723,10 +3721,10 @@ central_algonquian = {
 		primary = BLA
 		dynasty_names = {			
 			Aisikstukiks Apikaiyikis Emitahpahksaiyiks Motahtosiks Puhksinahmahyiks Saiyiks Siksinokaks Tsiniktsistsoyiks 
-			Ahkaisumiks Ahkaipokaks Ahkotahshiks Anepo Apikaiyiks Aputosikainah Inuhksoyistamiks Isissokasimiks Istsikaihan 
+			Ahkaisumiks Ahkaipokaks Ahkotahshiks Anepo Aputosikainah Inuhksoyistamiks Isissokasimiks Istsikaihan 
 			Mameoya Nitikskiks Saksinahmahyiks Sikahpuniks Sikinokaks Ahahpitape Ahkaiyikokakiniks Apikaiyiks Esksinaitupiks 
 			Inuksikahpowaiks Inuksiks Ipoksimaiks Kahmitaiks Kiyis Kutaiimiks Kutaisotsiman Miahwahpitsiks Miawkinaiyiks 
-			Mokumiks Motahtosiks Motwainaiks Nitakoskitsipupiks Niwayiks Nitikskiks Nitotsiksistaniks Sikokitsimiks 
+			Mokumiks Motwainaiks Nitakoskitsipupiks Niwayiks Nitotsiksistaniks Sikokitsimiks 
 			Sikopoksimaiks Sikutsipumaiks Susksoyiks Tsiniksistsoyiks
 		}
 		male_names = {
@@ -3737,7 +3735,7 @@ central_algonquian = {
 		}
 		female_names = {
 			Peta Hanata Alsoomse Hausis Hurit Kanti Keegsquaw Kimi Makkitotosimew Nadie Nijlon Nittawosew Numees Nuna Nuttah 
-			Oota dabun Pules Sokanon Sokw Sooleawa Tahki Wapun Wawetseka Koko Peta Sinopa
+			Oota dabun Pules Sokanon Sokw Sooleawa Tahki Wapun Wawetseka Koko Sinopa
 		}
 	}
 	arapaho = {
@@ -3758,7 +3756,7 @@ central_algonquian = {
 		}
 		female_names = {
 			Elvamox Ethete Natane Bly Dae Cocheta Ekta Ela Elina Ila Imala Inayat Kushala Kusuma Liluye Lipika Lolaksi 
-			Lolotea Nascha Nashota Natane Nita Nitara Niti Nitika Nittawosew Onawa Onawah Preyasi Prita PreetiHalf Smita 
+			Lolotea Nascha Nashota Nita Nitara Niti Nitika Nittawosew Onawa Onawah Preyasi Prita PreetiHalf Smita 
 			Smriti Surabhi Tapi Tara
 		}
 	}
@@ -3795,7 +3793,7 @@ eastern_algonquian = {
 	abenaki = {
 		primary = ABE
 		dynasty_names = {
-			Amoskeay Cocheco Cowasuck Koasek Masipskwoik Nashua Ossipee Pemigewasset Pennacook Pequaket	Piscataqua Souhegan 
+			Amoskeay Cocheco Cowasuck Koasek Masipskwoik Nashua Pemigewasset Pennacook Pequaket	Piscataqua Souhegan 
 			Winnibisauga Amaseconti Alessikantekw Kinipekw Odanak Ossipee Panawahpskek Apikwahki Rocameca Wawinak Wôlinak
 		}
 		male_names = {
@@ -3806,7 +3804,7 @@ eastern_algonquian = {
 			Lobal Klegual Simo Az Atian
 		}
 		female_names = {
-			Mali Malian Maliazonis Azonis Malgelit Agat Alizbat O'zalik Alan O'nis Lowiz O'nias Malgelit Katetin Mali 
+			Mali Malian Maliazonis Azonis Malgelit Agat Alizbat O'zalik Alan O'nis Lowiz O'nias Katetin 
 			Sallot Sopi Klalis Sozn Toloti Talaz
 		}
 	}
@@ -3829,7 +3827,7 @@ eastern_algonquian = {
 		dynasty_names = {
 			Muhhcanneuw Mehckentowoon Wawyachtonoc Westenhuck Wiekagjoc Shecomeco Wechquadnach Pamperaug Bantam Weataug 
 			Scaticook Mahaiwe Wikwajek Chaghnet Horikan Kaunaumeek Kenuckpacook Maringoman Monemius Nepaug Paanpaack Peantam 
-			Potick Potie Shodac Shakehook Unawat Wechquadnach Wequadnack Wiatiae Winooskeek Wyeck
+			Potick Potie Shodac Shakehook Unawat Wequadnack Wiatiae Winooskeek Wyeck
 		}
 		male_names = {
 			Maumauntissekun Shabash Wassamapah Uncas Chingachgook Etowohkoam Aupamut Konkapot Quinney Skicket Chemaucum Thebeant 
@@ -3915,7 +3913,7 @@ iroquoian = {
 	cherokee = {
 		primary = CHE
 		dynasty_names = {
-			Mohe Diwali Waya Tsiyi Onacona Atagulkalu Degataga Cheasequah Adahy Atagulkalu
+			Mohe Diwali Waya Tsiyi Onacona Degataga Cheasequah Adahy Atagulkalu
 		}
 		male_names = {
 			Sequoyah Attakullaculla Guwisguwi Moytoy Yonaguska Tsiyu Gansini Agi It Boudinot Lach'n Koatohee 
@@ -3929,9 +3927,9 @@ iroquoian = {
 			Chochuchee Kostayeak Ookouseteeh Kanitta Nemetuah Wyuka Tulco
 		}
 		female_names = {
-			Asmita Nanyehi Cuhtahlatah Sequoya Adsila Amadahy Awenasa Awinita Ayita Galilahi Leotie Usdi Galilani Hialeah 
+			Asmita Nanyehi Cuhtahlatah Sequoya Adsila Amadahy Awenasa Awinita Ayita Galilahi Leotie Usdi Hialeah 
 			Immookalee Tayanita Sequoia Ahyoka Ama Galilani Ghigau Hiawassee Immokalee Inola Knasgowa Nanye-hi Ninovan 
-			Salali Tsistunagiska Tsula Tayanita Yona
+			Salali Tsistunagiska Tsula Yona
 		}
 	}
 	huron = {
@@ -3989,7 +3987,7 @@ siouan = {
 			Wabasha Petette Tartunkanasiah Keejee Tarsega Wamadetunka Wannata Kokomako Shacope Penision Etaseepa 
 			Wakauhee Poehapa Takewapa Tenchzepart Mascpulochastosh Tetekarmunch Wasaota Oeyakoca Maktowahkeark 
 			Matowayouwe Makatozaza Belotonkatanga Nakapagigi Maktosabichis Mewatanihanska Thathanka Iyotake 
-			Iyapato Thasunke Witko Maphiya Luta Hehaka Sapa Sinte Gleska Ite Omagazu Ogle Luta Mahpiya
+			Iyapato Thasunke Witko Maphiya Hehaka Sapa Sinte Gleska Ite Omagazu Ogle Luta Mahpiya
 		}
 		female_names = {
 			Tasinasapewin Thasinamani Tasinahlahlawin Dohumme Chapa Chapawee Chumani Dowanhowee Ehawee Hantaywee Kimimela 
@@ -4100,7 +4098,7 @@ caddoan = {
 		}
 		female_names = {
 			Elvamox Ethete Natane Bly Dae Cocheta Ekta Ela Elina Ila Imala Inayat Kushala Kusuma Liluye Lipika Lolaksi 
-			Lolotea Nascha Nashota Natane Nita Nitara Niti Nitika Nittawosew Onawa Onawah Preyasi Prita PreetiHalf Smita 
+			Lolotea Nascha Nashota Nita Nitara Niti Nitika Nittawosew Onawa Onawah Preyasi Prita PreetiHalf Smita 
 			Smriti Surabhi Tapi Tara
 		}
 	}
@@ -4167,7 +4165,7 @@ muskogean = {
 			Usquelagana Saktitamaha Itchechana Shumotakali Tinshinkla Chucafalaya Bissacha Otakchitotamaha Yackniachuchuma 
 			Octuechanacbe Ocatalaya Ouiacha Puscustakali Kunshabolukta Yowani Chiskilikbacha Neshobawenya Tamaha Seniasha 
 			Talepokta Iyanabe Nusiconchito Ibetapoklachitto Tombigbee Imoklashaiskitini Holithaasha Abeca Achohchuba Hankhaula 
-			Itokchako Lukfakta Bokfalaya Yazoo Kunshak Okalusa Pante Chemifalaya Shumotakali Osapachito Haluwahiasha Okacoopoly 
+			Itokchako Lukfakta Bokfalaya Yazoo Kunshak Okalusa Pante Chemifalaya Osapachito Haluwahiasha Okacoopoly 
 			Shinukkaha Kafitalaia Imoklashi Cabeahoola Kashtasha Osaktalaya Abissa Chanke Onitalemon	
 		}
 		male_names = {
@@ -4242,7 +4240,7 @@ na_dene = {
 	apache = {			#repurposed in BT to Plains Apache
 		#primary = APA
 		dynasty_names = {
-			Jicarilla Mescalero Chiricahua Lipan Yavapai Tonto Navajo Ramah Mojave
+			Jicarilla Mescalero Lipan Yavapai Tonto Navajo Ramah Mojave
 			Toboso Cholome Jocome Sibolo Pelone Manso Kiva
 			Arivaipa Carlanas Chiricahua Ch'uuk'anen Cibecue Coyotero
 			Faraones Gileno KIowa Llanero Lipiyanes
@@ -4262,9 +4260,9 @@ na_dene = {
 		primary = NAH
 		dynasty_names = {
 			"Bit'anhi" "Naaste'ezheh" "Kiyaa'aanii" "Dzilt'aadi" Honaghaahnii "To'ahani" 
-			"Ta'neeszahnii" "Hashk'aa Hadzohi" Nihoobaanii "Ts'ah Yisk'idnii" "Todich'ii'nii" "To Baazhni'azhi" Tseikeehee
+			"Ta'neeszahnii" "Hashk'aa Hadzohi" Nihoobaanii "Ts'ah Yisk'idnii" "To Baazhni'azhi" Tseikeehee
 			"Naaket L'ahi" "Tsin Sikaadnii" "Biih Bitoodnii" "Tl'ogi" "Todik'ozhi" "K'aahanaanii" "Todich'ii'nii" "Totshnii"
-			"Hooghan Lani" "Dzaaneez Lani" "Tse Deeshgizhnii" "Hasht L'ishnii" Tabaaha Haltsooi "To Baazhni'azhi" "Tachii'nii"
+			"Hooghan Lani" "Dzaaneez Lani" "Tse Deeshgizhnii" "Hasht L'ishnii" Tabaaha Haltsooi "Tachii'nii"
 			"Kin Ichii'nii" Tsenjikini Dibelzhini "Ma'ii Deeshgiizhinii" "Ashinuii" "Keha'atiinii" "To'aheedliinii"
 			
 		}
@@ -4295,7 +4293,7 @@ penutian = {
 		}
 		female_names = {
 			Elvamox Ethete Natane Bly Dae Cocheta Ekta Ela Elina Ila Imala Inayat Kushala Kusuma Liluye Lipika Lolaksi 
-			Lolotea Nascha Nashota Natane Nita Nitara Niti Nitika Nittawosew Onawa Onawah Preyasi Prita PreetiHalf Smita 
+			Lolotea Nascha Nashota Nita Nitara Niti Nitika Nittawosew Onawa Onawah Preyasi Prita PreetiHalf Smita 
 			Smriti Surabhi Tapi Tara
 		}
 	}

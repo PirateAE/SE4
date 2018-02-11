@@ -4325,15 +4325,15 @@ east_asian = {	# Chinese Group
 			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng 
 			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming 
 			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei 
-			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying 
-			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui 
-			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji 
-			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan 
-			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan 
-			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang 
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Zi Chun Bo Gui Xuntan Xunquan Ying 
+			Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui 
+			Wenkui Gaoxu Gaosui Houyu Yousi Jianshu Yourong Houjue Zailun 
+			Changfang Keqin Fu Dounan Chengzu Zixiang Bingyi Guan 
+			Zongren Yuan Xingui Zonglian Xiang Yu Zhong Ji Xizheng Jian Shao'en Jiusi Zugan 
+			Yingfang Kekuan Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang 
 			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi 
 			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi 
-			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian 
+			Shenzhong Panlong Youguang Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian 
 			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing 
 			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong 
 			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
@@ -4352,15 +4352,15 @@ east_asian = {	# Chinese Group
 			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng 
 			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming 
 			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei 
-			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying 
-			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui 
-			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji 
-			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan 
-			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan 
-			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang 
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Zi Chun Bo Gui Xuntan Xunquan Ying 
+			Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui 
+			Wenkui Gaoxu Gaosui Houyu Yousi Jianshu Yourong Houjue Zailun 
+			Changfang Keqin Fu Dounan Chengzu Zixiang Bingyi Guan 
+			Zongren Yuan Xingui Zonglian Xiang Yu Zhong Ji Xizheng Jian Shao'en Jiusi Zugan 
+			Yingfang Kekuan Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang 
 			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi 
 			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi 
-			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian 
+			Shenzhong Panlong Youguang Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian 
 			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing 
 			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong 
 			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
@@ -4379,15 +4379,15 @@ east_asian = {	# Chinese Group
 			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng 
 			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming 
 			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei 
-			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying 
-			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui 
-			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji 
-			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan 
-			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan 
-			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang 
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Zi Chun Bo Gui Xuntan Xunquan Ying 
+			Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui 
+			Wenkui Gaoxu Gaosui Houyu Yousi Jianshu Yourong Houjue Zailun 
+			Changfang Keqin Fu Dounan Chengzu Zixiang Bingyi Guan 
+			Zongren Yuan Xingui Zonglian Xiang Yu Zhong Ji Xizheng Jian Shao'en Jiusi Zugan 
+			Yingfang Kekuan Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang 
 			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi 
 			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi 
-			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian 
+			Shenzhong Panlong Youguang Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian 
 			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing 
 			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong 
 			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
@@ -4406,15 +4406,15 @@ east_asian = {	# Chinese Group
 			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng 
 			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming 
 			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei 
-			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying 
-			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui 
-			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji 
-			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan 
-			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan 
-			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang 
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Zi Chun Bo Gui Xuntan Xunquan Ying 
+			Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui 
+			Wenkui Gaoxu Gaosui Houyu Yousi Jianshu Yourong Houjue Zailun 
+			Changfang Keqin Fu Dounan Chengzu Zixiang Bingyi Guan 
+			Zongren Yuan Xingui Zonglian Xiang Yu Zhong Ji Xizheng Jian Shao'en Jiusi Zugan 
+			Yingfang Kekuan Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang 
 			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi 
 			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi 
-			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian 
+			Shenzhong Panlong Youguang Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian 
 			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing 
 			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong 
 			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
@@ -4433,15 +4433,15 @@ east_asian = {	# Chinese Group
 			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng 
 			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming 
 			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei 
-			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying 
-			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui 
-			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji 
-			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan 
-			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan 
-			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang 
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Zi Chun Bo Gui Xuntan Xunquan Ying 
+			Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui 
+			Wenkui Gaoxu Gaosui Houyu Yousi Jianshu Yourong Houjue Zailun 
+			Changfang Keqin Fu Dounan Chengzu Zixiang Bingyi Guan 
+			Zongren Yuan Xingui Zonglian Xiang Yu Zhong Ji Xizheng Jian Shao'en Jiusi Zugan 
+			Yingfang Kekuan Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang 
 			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi 
 			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi 
-			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian 
+			Shenzhong Panlong Youguang Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian 
 			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing 
 			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong 
 			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
@@ -4460,15 +4460,15 @@ east_asian = {	# Chinese Group
 			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng 
 			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming 
 			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei 
-			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying 
-			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui 
-			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji 
-			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan 
-			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan 
-			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang 
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Zi Chun Bo Gui Xuntan Xunquan Ying 
+			Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui 
+			Wenkui Gaoxu Gaosui Houyu Yousi Jianshu Yourong Houjue Zailun 
+			Changfang Keqin Fu Dounan Chengzu Zixiang Bingyi Guan 
+			Zongren Yuan Xingui Zonglian Xiang Yu Zhong Ji Xizheng Jian Shao'en Jiusi Zugan 
+			Yingfang Kekuan Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang 
 			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi 
 			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi 
-			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian 
+			Shenzhong Panlong Youguang Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian 
 			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing 
 			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong 
 			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
@@ -4487,15 +4487,15 @@ east_asian = {	# Chinese Group
 			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng 
 			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming 
 			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei 
-			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying 
-			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui 
-			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji 
-			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan 
-			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan 
-			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang 
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Zi Chun Bo Gui Xuntan Xunquan Ying 
+			Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui 
+			Wenkui Gaoxu Gaosui Houyu Yousi Jianshu Yourong Houjue Zailun 
+			Changfang Keqin Fu Dounan Chengzu Zixiang Bingyi Guan 
+			Zongren Yuan Xingui Zonglian Xiang Yu Zhong Ji Xizheng Jian Shao'en Jiusi Zugan 
+			Yingfang Kekuan Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang 
 			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi 
 			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi 
-			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian 
+			Shenzhong Panlong Youguang Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian 
 			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing 
 			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong 
 			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
@@ -4514,15 +4514,15 @@ east_asian = {	# Chinese Group
 			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng 
 			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming 
 			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei 
-			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying 
-			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui 
-			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji 
-			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan 
-			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan 
-			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang 
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Zi Chun Bo Gui Xuntan Xunquan Ying 
+			Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui 
+			Wenkui Gaoxu Gaosui Houyu Yousi Jianshu Yourong Houjue Zailun 
+			Changfang Keqin Fu Dounan Chengzu Zixiang Bingyi Guan 
+			Zongren Yuan Xingui Zonglian Xiang Yu Zhong Ji Xizheng Jian Shao'en Jiusi Zugan 
+			Yingfang Kekuan Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang 
 			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi 
 			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi 
-			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian 
+			Shenzhong Panlong Youguang Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian 
 			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing 
 			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong 
 			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
@@ -4541,15 +4541,15 @@ east_asian = {	# Chinese Group
 			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng 
 			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming 
 			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei 
-			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying 
-			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui 
-			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji 
-			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan 
-			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan 
-			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang 
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Zi Chun Bo Gui Xuntan Xunquan Ying 
+			Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui 
+			Wenkui Gaoxu Gaosui Houyu Yousi Jianshu Yourong Houjue Zailun 
+			Changfang Keqin Fu Dounan Chengzu Zixiang Bingyi Guan 
+			Zongren Yuan Xingui Zonglian Xiang Yu Zhong Ji Xizheng Jian Shao'en Jiusi Zugan 
+			Yingfang Kekuan Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang 
 			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi 
 			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi 
-			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian 
+			Shenzhong Panlong Youguang Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian 
 			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing 
 			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong 
 			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
@@ -4568,15 +4568,15 @@ east_asian = {	# Chinese Group
 			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng 
 			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming 
 			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei 
-			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying 
-			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui 
-			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji 
-			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan 
-			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan 
-			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang 
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Zi Chun Bo Gui Xuntan Xunquan Ying 
+			Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui 
+			Wenkui Gaoxu Gaosui Houyu Yousi Jianshu Yourong Houjue Zailun
+			Changfang Keqin Fu Dounan Chengzu Zixiang Bingyi Guan 
+			Zongren Yuan Xingui Zonglian Xiang Yu Zhong Ji Xizheng Jian Shao'en Jiusi Zugan 
+			Yingfang Kekuan Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang 
 			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi 
 			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi 
-			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian 
+			Shenzhong Panlong Youguang Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian 
 			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing 
 			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong 
 			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
@@ -4590,13 +4590,13 @@ east_asian = {	# Chinese Group
 		primary = CSH
 		male_names = {
 			Qizhen Qiyu Jianjun Youcheng Houzhao Houcong Zaihou Yijun Changluo Youjian Yousong Yujian Youlang Chenggong 
-			Kehshuan Biao Shuang Gang Su Zhen Fu Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan 
+			Kehshuan Biao Shuang Gang Su Zhen Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan 
 			Gaoxu Caosui Gauxi Youyuan Youlun Youbin Houwei Youxiao Youji Youxue Youyi Youshan Cixuan Cijiang Cizhao 
-			Cibuan Cican Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu 
-			Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan Yingfang Kekuan Mo Juren Qing Qinshun Duan 
+			Cibuan Cican Keqin Fu Dounan Chengzu Zixiang Bingyi Guan Zongren Yuan Xingui Zonglian Ji Xiang Yu 
+			Zhong Xizheng Jian Shao'en Jiusi Zugan Yingfang Kekuan Juren Qing Qinshun Duan 
 			Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang Ruoshui Shouyi De Ti Hongxian Shihuai Shixi 
 			Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi Kai Meng Hong Du Danian Tai Minzheng Mengyang 
-			Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi Shenzhong Panlong Youguang Weizhen Shisheng Qichang 
+			Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi Shenzhong Panlong Youguang Shisheng Qichang 
 			Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun 
 			Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang 
 			Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong Zhongwen Kexue Yuanjie Rucai Kexi Zhongming 
@@ -4611,13 +4611,13 @@ east_asian = {	# Chinese Group
 		primary = CXI
 		male_names = {
 			Qizhen Qiyu Jianjun Youcheng Houzhao Houcong Zaihou Yijun Changluo Youjian Yousong Yujian Youlang Chenggong 
-			Kehshuan Biao Shuang Gang Su Zhen Fu Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan 
+			Kehshuan Biao Shuang Gang Su Zhen Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan 
 			Gaoxu Caosui Gauxi Youyuan Youlun Youbin Houwei Youxiao Youji Youxue Youyi Youshan Cixuan Cijiang Cizhao 
-			Cibuan Cican Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu 
-			Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan Yingfang Kekuan Mo Juren Qing Qinshun Duan 
+			Cibuan Cican Keqin Dounan Chengzu Zixiang Bingyi Guan Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu 
+			Zhong Xizheng Jian Shao'en Jiusi Zugan Yingfang Kekuan Juren Qing Qinshun Duan 
 			Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang Ruoshui Shouyi De Ti Hongxian Shihuai Shixi 
 			Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi Kai Meng Hong Du Danian Tai Minzheng Mengyang 
-			Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi Shenzhong Panlong Youguang Weizhen Shisheng Qichang 
+			Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi Shenzhong Panlong Youguang Shisheng Qichang 
 			Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun 
 			Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang 
 			Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong Zhongwen Kexue Yuanjie Rucai Kexi Zhongming 
@@ -4637,15 +4637,15 @@ east_asian = {	# Chinese Group
 			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng 
 			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming 
 			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei 
-			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying 
-			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui 
-			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji 
-			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan 
-			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan 
-			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang 
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Zi Chun Bo Gui Xuntan Xunquan Ying 
+			Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui 
+			Wenkui Gaoxu Gaosui Houyu Yousi Jianshu Yourong Houjue Zailun 
+			Changfang Keqin Fu Dounan Chengzu Zixiang Bingyi Guan 
+			Zongren Yuan Xingui Zonglian Xiang Yu Zhong Ji Xizheng Jian Shao'en Jiusi Zugan 
+			Yingfang Kekuan Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang 
 			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi 
 			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi 
-			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian 
+			Shenzhong Panlong Youguang Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian 
 			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing 
 			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong 
 			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
@@ -4664,15 +4664,15 @@ east_asian = {	# Chinese Group
 			Changrun Changyin Changbo Youxiao Youxue Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Cilang Ciheng 
 			Cizhao Cihuan Cican Shangbing Shanglie Shangyi Shanghong Zhijun Zhibao Gongxi Gongjian Gongtang Gongming 
 			Jixi Jiye Jihuang Jihuan Jixuan Meigui Meiyuan Zhongxuan Zhongduo Qiyuan Qiying Qirong Youdun Zishi Linmei 
-			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Bo Gui Xuntan Xunquan Ying 
-			Zhanyan Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui 
-			Wenkui Gaoxu Gaosui Houyu ZhanYong Zhanshan Yousi Jianchun Jianshu Jianzhi Yourong Houjue Zailun Zaiji 
-			Changfang Changxu Changxun Changzhi Changrun Cilang Cihuan Guan Keqin Fu Dounan Chengzu Zixiang Bingyi Guan 
-			Zongren Yuan Fu Xingui Zonglian Ji Xiang Yu Quan Zhong Ji Xizheng Jian Shao'en Jiusi Song Chun Youxue Zugan 
-			Yingfang Kekuan Mo Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang 
+			Cijue Ciwei Cikai Youhua Linyuan Qisheng Biao Shuang Gang Su Zhen Bo Zi Chun Gui Xuntan Xunquan Ying 
+			Zhi Quan Chenhao Bian Hui Song Mo Yin Jing Dong Nan Shouqian Xiongying Yuntong Yunjian Wengui 
+			Wenkui Gaoxu Gaosui Houyu Yousi Jianshu Yourong Houjue Zailun 
+			Changfang Keqin Fu Dounan Chengzu Zixiang Bingyi Guan 
+			Zongren Yuan Xingui Zonglian Ji Xiang Yu Zhong Xizheng Jian Shao'en Jiusi Zugan 
+			Yingfang Kekuan Juren Qing Qinshun Duan Zhencheng Bao Li Xiao Xian Tang Boyuan Chunyao Xianzhang Liang 
 			Ruoshui Shouyi De Ti Hongxian Shihuai Shixi Yizan Huali Zhide Yuanxi Xixue Weizhen Han Boheng Mian Zongyi 
 			Kai Meng Hong Du Danian Tai Minzheng Mengyang Jingming Zhenqing Gong Shanfu Shen Zhengming Zuo Weiqi 
-			Shenzhong Panlong Youguang Weizhen Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian 
+			Shenzhong Panlong Youguang Shisheng Qichang Hongdao Nanying Shaozong Peng Wenshi Liangxiang Wannian 
 			Zongyan Tingkui Bangzuo Ruxiu Guochang Huanchun Xianming Shengdou Zhaochen Shimei Guoxi Shangzhen Daoxing 
 			Tingbiao Yunrang Wan Jin Ding Wuchang Chengzhang Jiefu Wenyong Shiming Chonghua Sanfeng Wanyan Dayong 
 			Zhongwen Kexue Yuanjie Rucai Kexi Zhongming Jinxing Yan Yingxiang Zongmin
@@ -4738,10 +4738,10 @@ japanese_g = {
 			Ietsugu Yoshimune Ieshige Ieharu Ienari Ieyoshi Iesada Iemochi Yoshinobu
 		}
 		female_names = {
-			Toku Sen Tama Aya Ina Kumiko Ai Aiko Aimi Aina Airi Akane Akemi Aki Akiko Akira Ami Aoi Asuka Atsuko Aya Ayaka 
+			Toku Sen Tama Ina Kumiko Ai Aiko Aimi Aina Airi Akane Akemi Aki Akiko Akira Ami Aoi Asuka Atsuko Aya Ayaka 
 			Ayako Ayame Ayane Ayano Chika Chikako Chinatsu Chiyo Chiyoko Cho Chou Chouko Emi Etsuko Hana Hanae Hanako Haru 
 			Haruka Haruko Haruna Hikari Hikaru Hina Hinata Hiroko Hitomi Honoka Hoshi Hoshiko Hotaru Izumi Junko Kaede 
-			Kanon Kaori Kaoru Kasumi Kazue Kazuko Keiko Kiku Kiyoko Kohaku Koharu Kokoro Kotone Kumiko Kyo Kyou Mai Makoto 
+			Kanon Kaori Kaoru Kasumi Kazue Kazuko Keiko Kiku Kiyoko Kohaku Koharu Kokoro Kotone Kyo Kyou Mai Makoto 
 			Mami Manami Mao Mariko Masami Masuyo Mayu Megumi Mei Michi Michiko Midori Mika Miki Miku Minako Minato Mio 
 			Misaki Mitsuko Miu Miyako Miyu Mizuki Moe Momoka Momoko Moriko Nana Nanami Naoko Naomi Natsuki Natsuko Natsumi 
 			Noa Noriko Ran Rei Ren Riko Rin Rina Rio Sachiko Saki Sakura Sakurako Satomi Sayuri Setsuko Shinju Shinobu 
@@ -4764,10 +4764,10 @@ japanese_g = {
 			Ietsugu Yoshimune Ieshige Ieharu Ienari Ieyoshi Iesada Iemochi Yoshinobu
 		}
 		female_names = {
-			Toku Sen Tama Aya Ina Kumiko Ai Aiko Aimi Aina Airi Akane Akemi Aki Akiko Akira Ami Aoi Asuka Atsuko Aya Ayaka 
+			Toku Sen Tama Ina Kumiko Ai Aiko Aimi Aina Airi Akane Akemi Aki Akiko Akira Ami Aoi Asuka Atsuko Aya Ayaka 
 			Ayako Ayame Ayane Ayano Chika Chikako Chinatsu Chiyo Chiyoko Cho Chou Chouko Emi Etsuko Hana Hanae Hanako Haru 
 			Haruka Haruko Haruna Hikari Hikaru Hina Hinata Hiroko Hitomi Honoka Hoshi Hoshiko Hotaru Izumi Junko Kaede 
-			Kanon Kaori Kaoru Kasumi Kazue Kazuko Keiko Kiku Kiyoko Kohaku Koharu Kokoro Kotone Kumiko Kyo Kyou Mai Makoto 
+			Kanon Kaori Kaoru Kasumi Kazue Kazuko Keiko Kiku Kiyoko Kohaku Koharu Kokoro Kotone Kyo Kyou Mai Makoto 
 			Mami Manami Mao Mariko Masami Masuyo Mayu Megumi Mei Michi Michiko Midori Mika Miki Miku Minako Minato Mio 
 			Misaki Mitsuko Miu Miyako Miyu Mizuki Moe Momoka Momoko Moriko Nana Nanami Naoko Naomi Natsuki Natsuko Natsumi 
 			Noa Noriko Ran Rei Ren Riko Rin Rina Rio Sachiko Saki Sakura Sakurako Satomi Sayuri Setsuko Shinju Shinobu 
@@ -4790,10 +4790,10 @@ japanese_g = {
 			Ietsugu Yoshimune Ieshige Ieharu Ienari Ieyoshi Iesada Iemochi Yoshinobu
 		}
 		female_names = {
-			Toku Sen Tama Aya Ina Kumiko Ai Aiko Aimi Aina Airi Akane Akemi Aki Akiko Akira Ami Aoi Asuka Atsuko Aya Ayaka 
+			Toku Sen Tama Ina Kumiko Ai Aiko Aimi Aina Airi Akane Akemi Aki Akiko Akira Ami Aoi Asuka Atsuko Aya Ayaka 
 			Ayako Ayame Ayane Ayano Chika Chikako Chinatsu Chiyo Chiyoko Cho Chou Chouko Emi Etsuko Hana Hanae Hanako Haru 
 			Haruka Haruko Haruna Hikari Hikaru Hina Hinata Hiroko Hitomi Honoka Hoshi Hoshiko Hotaru Izumi Junko Kaede 
-			Kanon Kaori Kaoru Kasumi Kazue Kazuko Keiko Kiku Kiyoko Kohaku Koharu Kokoro Kotone Kumiko Kyo Kyou Mai Makoto 
+			Kanon Kaori Kaoru Kasumi Kazue Kazuko Keiko Kiku Kiyoko Kohaku Koharu Kokoro Kotone Kyo Kyou Mai Makoto 
 			Mami Manami Mao Mariko Masami Masuyo Mayu Megumi Mei Michi Michiko Midori Mika Miki Miku Minako Minato Mio 
 			Misaki Mitsuko Miu Miyako Miyu Mizuki Moe Momoka Momoko Moriko Nana Nanami Naoko Naomi Natsuki Natsuko Natsumi 
 			Noa Noriko Ran Rei Ren Riko Rin Rina Rio Sachiko Saki Sakura Sakurako Satomi Sayuri Setsuko Shinju Shinobu 
@@ -4814,20 +4814,20 @@ mon_khmer = {
 		}
 		male_names = {
 			"Barom Reachea" "Noreay Ramathipatei" "Soriyotei" "Thommo Reachea" "Srey Sukonthor" "Ang Chan" "Reachea Ramathipatei"
-			"Barom Reachea" "Chey Chettha" "Ney Khan" "Preah Ram" "Keo Hua" "Outey Reachea" "Dharmaraja" "Padumaraja" "Ramathipadi" "Satha" "Ream Reachea" "Narayanaraja" "Ponhea Yat" "Narayanaraja" 
+			"Chey Chettha" "Ney Khan" "Preah Ram" "Keo Hua" "Outey Reachea" "Dharmaraja" "Padumaraja" "Ramathipadi" "Satha" "Ream Reachea" "Ponhea Yat" "Narayanaraja"
 			"Sri Raja" "Rajadhiraja" "Dharmarajadhiraja" "Damkhat Sukonthor" "Reamea Chungprey" "Keo Ban On" "Ponhea Yor" "Ponhea An" "Ponhea Nhom" "Srei Soriyopear" "Udayaraja" "Ponhea To" "Ang Non" "Ponhea Chan" "Ang Sur" 
 			"Ang Chea" "Ang Nan" "Ang Sor" "Ang Yong" "Ang Em" "Ang Tham" "Ang Sngoun" "Ang Tong" "Ang Ton" "Ang Eng" 
 			"Ang Duong"
 		}
 		female_names = {
 			"Boupha" "Sakngea" "Ang Mey" "Anak Moneang Krachap" "Neang Pou" Achariya Akara Anchali Arunny Ary Bopha Botum 
-			Boupha Champei Champey Chamroeun Chan Chankrisna Chanlina Chanmony Channary Chanthavy Chantou Chantrea 
+			Champei Champey Chamroeun Chan Chankrisna Chanlina Chanmony Channary Chanthavy Chantou Chantrea 
 			Chanvatey Chariya Chavy Chaya Chea Chenda Chhaiya Chhean Chhorvin Chhorvon Chivy Choum Da Daevy Dara 
 			Darareaksmey Davi Jorani Kalianne Kaliyanei Kalliyan Kanleakhana Kannareth Kannitha Kanya Kesor Kolab Kolthida 
 			Kravann Kun Thea Kunthea Leakena Leap Mach: Makara Malis Maly Mau Mealea Mean Mliss Mony Nakry Thom Thyda Tina 
 			Toch Tola Vanna Veasna Veata Vimean Nary Nearidei Neary Reach Reaksmey Rangsei Reasmey Sokha Sokhanya Sokhom 
-			Sok Mean Rom Chang Rotha Samphy Roumduol Roumjong Samnang Saley Savady Sawatdee Seda Seyha Sikha Sinuon Sita 
-			Soboen Socheat Sok Sombo Sonisay Sonith Peou Nuon Phally Phary Pich Pheakdei Pheakkley Phhoung Ponlok Ponnleu 
+			Sok Rom Chang Rotha Samphy Roumduol Roumjong Samnang Saley Savady Sawatdee Seda Seyha Sikha Sinuon Sita 
+			Soboen Socheat Sombo Sonisay Sonith Peou Nuon Phally Phary Pich Pheakdei Pheakkley Phhoung Ponlok Ponnleu 
 			Pisey Putrea Punthea Rachana Rachany 
 		}
 	}
@@ -4888,7 +4888,8 @@ malay = {
 			Vijaya Kauthara Panduranga Indrapura
 		}
 		male_names = {
-			"Ko cheng" "Jaya Sinhavarman" "Maija Vijaya" "Moho Kouei-Lai" "Maha Kui Yu" "Maha P'an-lo-yue" "Po Saktirai" "Po Ganvuh" "Po Thuttirai" "Po Rattirai" "Po Tathun" "Po Tithuntirai" "Chei Krei Brei" "Po Tithun" "Po Lathun" "Po Chong Chan" "Che Anan" "Tra Hoa" "Che Bong Nga" "Ko Cheng" "Jaya Indravarman"
+			"Jaya Sinhavarman" "Maija Vijaya" "Moho Kouei-Lai" "Maha Kui Yu" "Maha P'an-lo-yue" "Po Saktirai" "Po Ganvuh" "Po Thuttirai" 
+			"Po Rattirai" "Po Tathun" "Po Tithuntirai" "Chei Krei Brei" "Po Tithun" "Po Lathun" "Po Chong Chan" "Che Anan" "Tra Hoa" "Che Bong Nga" "Ko Cheng" "Jaya Indravarman"
 		}
 		female_names = {
 			Hòng Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu’utea Orama Poe Pear Poehina Poenui Poerava Puaiti 
@@ -5130,7 +5131,7 @@ burman = {
 		dynasty_names = {
 			Se Rmu Ldong Stong Dbra Dru Nyang Sbas Gnon Chespong Thonmi Mgar Bri Mong Zhang Mchims Bal Lang Cogro Bro Dbas 
 			Shudpu Gnyags Mgus Mjang Snang Sgro Rma Snyiba Khu Khun Mkar Rlangs Rinspungs Zhingshag Phjongsrgjas Nganlam Sba Lig 
-			Khjungpo Dbas Mnyammed
+			Khjungpo Mnyammed
 		}
 		male_names = {
 			"Gendun Drup" "Trakpa Chunge" "Sangye Gyantesen Pal Zangpo" "Dön-yö Dorje" "Ngawang Namgyal" "Töndup Tseten" "Phüntso Namgye" "Karma Tseten" "Lhawang Dorje" "Karma Ten-Kyong" "Gusri" "Dayan" "Tenzin Dalai" 
@@ -5240,7 +5241,7 @@ pacific = {
 	papuan = {
 		male_names = {
 			Agolave Akelika-Yaga Amborn Andagalimp-Wak Barunoma Buassi Endemongo Ewunga-Goiba Gaima-Yokumul Gasowe 
-			Gavey-Akamo Gerigl-Gande Gesupo Gopie-Ataiamelaho Isakoa-Hepu Isakoa-Hepu Jokuri-Hari Kaglnogl Kainaro-Kravia 
+			Gavey-Akamo Gerigl-Gande Gesupo Gopie-Ataiamelaho Isakoa-Hepu Jokuri-Hari Kaglnogl Kainaro-Kravia 
 			Kaura Kepagane-Peone Kerenga Kerika-Rebia Khaswaho-Baitoheiro Kiakoa Kimba-Kopol Kirupano-Eza'e 
 			Kize Kize-Obaneso Klimbil Koin Kombagle Komp-Nikints Kondon-Agaundo Konia-Taglba KopiaKerika-Kubal Koritoia-Ope 
 			Korpore Korua-Kolta Korul-Korul Kuan Kubal-Nori Kubarl Kumai-Kana Kumi-Kispe Kut Kwipi-Nembil Loo Lowai 
@@ -5257,8 +5258,8 @@ pacific = {
 	}
 	aboriginal = {
 		male_names = {
-			Adoni Akama Allambee Amaroo Apari Araluen Araluen Arunta Balun Balunn Dural Ganan Gelar Girra Jarra Jarrah 
-			Jarrah Jerara Jirra Kalti Maka Mallee Mandu Marron Matari Mearann Minar Miro Mogo Monti Mowan Odern Orad Parri 
+			Adoni Akama Allambee Amaroo Apari Araluen Arunta Balun Balunn Dural Ganan Gelar Girra Jarra Jarrah 
+			Jerara Jirra Kalti Maka Mallee Mandu Marron Matari Mearann Minar Miro Mogo Monti Mowan Odern Orad Parri 
 			Pindan Pindari Taree Tewart Tuart Uwan Warra Warrain
 		}
 		female_names = {
@@ -5392,7 +5393,7 @@ eastern_aryan = {
 		male_names = {
 			Jayajyotimalla Jayayakshamalla Ratmamalla Suryamalla Amaramalla Narendramalla Mahendramalla Sadashivamalla 
 			Shivasimhamalla Lakshminarasimhamalla Pratapamalla Jayanripendramalla Parthivendramalla Bhupendramalla 
-			Bhaskaramalla Mahendrasimhamalla Jayaprakasamalla Bhimsen Amar Singh Ranjur Singh Bhakti
+			Bhaskaramalla Mahendrasimhamalla Jayaprakasamalla Bhimsen Amar Ranjur Singh Bhakti
 		}
 		female_names = {
 			Devaladevi Kaushalyawati Rajendralakshmi Maiya Nanu Nani Maya Pragya Anu Chameli Nirmala Anushka Sarmila Komal 
@@ -5416,35 +5417,35 @@ eastern_aryan = {
 		}
 		male_names = {
 			Narasimhadeva Bhanudeva Kapilesvara Pratâprudra Kaluadeva Govindaraja Vidyadhara Chakrapretâpa Nârashima 
-			Jana Raghurâma Chhotra Mukundadeva Harishandra Râmchandra Deva Râmchandra Purushottama Mukunda Nârsimha 
-			Gangâdar Bâlabhadra Divya Simha Hari Krishna Gapînâth Deva Padmanabha Vîra Kishor Deva Devendravarman 
-			Anantavarman Ananga Bhima Narasimha Bhanu Narayan Gopinath Rudra Mukunda Bira Jagat Saheb Kumar
-			Anangabhima Anantasaktivarman Anantavarman Apsaradeva Arthapatiraja Ayasobhita Balabhadra 
-			Barjena Betta Bhanu Bhavadattavarman Bhimaratha Bhimasena Bhramarbara Bhupendra Bhupendravarman 
-			Chandravarman Charamparaja Damodara Danai Danarnava Dayita Dayitavarman Devananda 
-			Devendravarman Dharmaraja Dharmarstha Dhruvananda Dibyasingha Digbhanja Durgaraja Durjaya 
-			Durjayabhanja Gangadhara Gandhata Gangakavilasa Gayada Gopinatha Gunamaharnava Gunarnava 
-			Gundama Hamvira Harekrushna Hastivarman Hemantavarman Indranatha Indravarman Jahangir Janmejaya 
-			Jayananda Jayaraja Jayasimha Jayasthambha Jayavarma Jayavarmadeva Kakharua Kalaha Kalahastambha 
-			Kalasa Kalua Kalyankalasa Kamarnava Kanchana Kanchanastambha Kapilendra Kapilendradeva 
-			Karnadeva Khadaga Kotta Kottabhanja Ksemankaradeva Kulastambha Lakshmikaradeva Madhavaraja 
-			Madhavavarman Madhukamarnava Mahendraditya Mahendravarman Mahinda Manamatra Matradhyarya 
-			Mukunda Nahusa Nandaprabhanjana Nandaprabhanjanavarman Nandavarman Narasimha Narendra Netta 
-			Nettabhanja Padmanava Paramananda Prasannamatra Prataparudra Pravaraja Prithivarman 
-			Prithivimaharaja Prithvibhanja Prithvidena Pulindasena Puranjaya Purushottama Rajabhanja 
-			Rajaraja Ramachandra Ramachandradeva Ranabhanja Ranabhita Ranadurjaya Ranga Rangabhanja 
-			Sailobhava Sainyabita Saktivarman Samantavarman Sambhuyasa Sankaravarman Santikaradeva Sarabha 
-			Satru Satrubhanja Satyavarman Sila Silabhanja Sivakaradeva Sivananda Skandavarman Sobhanaraja 
-			Solyana Subhakaradeva Sudevaraja Suravala Teja Tejavarsha Tustikara Udaya Udayavarsha Udita 
-			Udyotakesari Umavarman Unmattasimha Utidavarsha Vaaraharaja Vajrahasta Vidhyadhara 
-			Vidhyadharabhanja Vijaya Vinayaditya Vinita Vishakavarman Vrishadhvaja Vyaghraraja Yayati
-		}
+            Anangabhima Anantasaktivarman Anantavarman Apsaradeva Arthapatiraja Ayasobhita Balabhadra
+            Ananga Bhima Narasimha Bhanu Narayan Gopinath Rudra Bira Jagat Saheb Kumar
+            Barjena Betta Bhavadattavarman Bhimaratha Bhimasena Bhramarbara Bhupendra Bhupendravarman
+            Chandravarman Charamparaja Damodara Danai Danarnava Dayita Dayitavarman Devananda
+            Devendravarman Dharmaraja Dharmarstha Dhruvananda Dibyasingha Digbhanja Durgaraja Durjaya
+            Durjayabhanja Gangadhara Gandhata Gangakavilasa Gayada Gopinatha Gunamaharnava Gunarnava
+            Gangâdar Bâlabhadra Divya Simha Hari Krishna Gapînâth Padmanabha Vîra Kishor Deva
+            Gundama Hamvira Harekrushna Hastivarman Hemantavarman Indranatha Indravarman Jahangir Janmejaya
+            Jana Raghurâma Chhotra Mukundadeva Harishandra Râmchandra Purushottama Mukunda Nârsimha
+            Jayananda Jayaraja Jayasimha Jayasthambha Jayavarma Jayavarmadeva Kakharua Kalaha Kalahastambha
+            Kalasa Kalua Kalyankalasa Kamarnava Kanchana Kanchanastambha Kapilendra Kapilendradeva
+            Karnadeva Khadaga Kotta Kottabhanja Ksemankaradeva Kulastambha Lakshmikaradeva Madhavaraja
+            Madhavavarman Madhukamarnava Mahendraditya Mahendravarman Mahinda Manamatra Matradhyarya
+            Nahusa Nandaprabhanjana Nandaprabhanjanavarman Nandavarman Narendra Netta
+            Nettabhanja Padmanava Paramananda Prasannamatra Prataparudra Pravaraja Prithivarman
+            Prithivimaharaja Prithvibhanja Prithvidena Pulindasena Puranjaya Rajabhanja
+            Rajaraja Ramachandra Ramachandradeva Ranabhanja Ranabhita Ranadurjaya Ranga Rangabhanja
+            Sailobhava Sainyabita Saktivarman Samantavarman Sambhuyasa Sankaravarman Santikaradeva Sarabha
+            Satru Satrubhanja Satyavarman Sila Silabhanja Sivakaradeva Sivananda Skandavarman Sobhanaraja
+            Solyana Subhakaradeva Sudevaraja Suravala Teja Tejavarsha Tustikara Udaya Udayavarsha Udita
+            Udyotakesari Umavarman Unmattasimha Utidavarsha Vaaraharaja Vajrahasta Vidhyadhara
+            Vidhyadharabhanja Vijaya Vinayaditya Vinita Vishakavarman Vrishadhvaja Vyaghraraja Yayati
+			}
 		female_names = {
 			Ahiavadevi Apsaradevi Bhogavati Dandi Dandimahadevi Dattadevi Devavati Dharma Dharmamahadevi 
 			Durlabha Gandharavati Gauri Gaurimahadevi Kalyanavati Karnadevi Kuladevi Lakshmi 
 			Lakshmikaradevi Lilavati Mahadevi Nayanadevi Rajasundari Ratnavati Suvrata Syamadevi Vakula 
 			Vakulamahadevi Vasumati Vijnanavati Vijnayavati Yajiyavati Yajnavati Giriraj Kumari Suratarangini Devi 
-			Krishnapriya Bishnupriya Tikayet Devi
+			Krishnapriya Bishnupriya Tikayet
 		}
 	}
 	sinhala = {
@@ -5454,22 +5455,22 @@ eastern_aryan = {
 		}
 		male_names = {
 			Parakramabahu Jayabahu Bhuvanaikabahu Vijayabahu Dharmapalabahu Vimala Dharmasuriya Senarut Rajasimha 
-			Narenda Sri Vijaya Rajasimha Kitri Sri Rajasimha Sri Rajadhiraja Simha Dhatmapala
+			Narenda Sri Vijaya Kitri Rajadhiraja Simha Dhatmapala
 			Agabala Aggabodhi Agibuti Ananda Anikanga Apaya Arittha Avirada Ayasmantha Bhuvanekabahu 
 			Butisamana Chodaganga Dahamsena 
 			Danamitta Dappula Dathappabhuti Dathopatissa Dharmapala Dharmasena Dharmasoka Dhatusena 
 			Digakassapa Diganaguli 
-			Digasumana Gajabahu Hadaka Hadana Hujata Jayabahu Jetthatissa Jhotisena Kashyapa Kassapa Kitti 
+			Digasumana Gajabahu Hadaka Hadana Hujata Jetthatissa Jhotisena Kashyapa Kassapa Kitti 
 			Kittisena Kittivarma 
 			Magamitta Mahadeva Mahanaga Mahasattha Mahasena Mahasiva Mahinda Manavanna Mihidala Mihindala 
 			Mitta Moggallana 
-			Nandamitta Narendra Narendrasinha Nirmala Padita Parakkamabahu Parakramabahu Rajasinha Rakasala 
+			Nandamitta Narendra Narendrasinha Nirmala Padita Parakkamabahu Rajasinha Rakasala 
 			Ratana Rohaka 
 			Sadhatissa Sagala Saliya Sanghamitta Sanghatissa Sankha Sena Senarat Sidata Sigaratissa 
 			Silameghavanna Sinhabahu 
 			Siva Sobana Sobika Sudata Sumana Surakita Suratissa Tissa Udaya Upatissa Vassaba Vebeliya 
-			Vepali Vijayabahu 
-			Vikrama Vikrama Vikramabahu Vimaladharma Vimaladharmasuriya Virabahu Viranarendra
+			Vepali 
+			Vikrama Vikramabahu Vimaladharma Vimaladharmasuriya Virabahu Viranarendra
 		}
 		female_names = {
 			Abijliguta Ahali Anula Anurada Anuradi Anuridi Asadaguta Asali Aselaya Ata Barani Bodhideva 
@@ -5485,7 +5486,7 @@ eastern_aryan = {
 			Rasumiliya Reva Sagara Samidata Samudaguta Savera Seneya Silmini Siriguta Siripali Sivala 
 			Sivanabuti Somali Sugula 
 			Sujhata Sumanadevi Suri Suriguta Tisi Tissabuti Tissadata Tissadevi Tissamita Tissaraka 
-			Tissarakita Yahasaya Yahasini Sunetra Devi Kalyanavati Swarnamanikya 
+			Tissarakita Yahasaya Yahasini Sunetra Devi Swarnamanikya 
 		}
 	}
 }
@@ -5534,11 +5535,11 @@ hindusthani = {
 			"Gahunia" "Gian" "Nihang " "Granth" "Bhai Bachittar" "Himmat" "Hoora" "Ishnar" "Jhol" "Jhotti" 
 			"Mokham" "Nand" "Parmanand" "Rajsingh" "Sanlib" "Sardul" "Shabeg" "Shergill" "Sodhi" "Sohal" 
 			"Tara" "Udasi" "Angad" "Amar" "Lohaar" "Dharem" "Fakir" Ranjor
-			Ajit Amar "Amar Dasi" Amir Angad Arjun Atar Basawa Bhagwant Bhaimani Budh Chand Charat 
-			Damodar Dasu Datu Dayaram Didar Farid Fateh Gobind Gurdita 
+			Ajit "Amar Dasi" Amir Arjun Atar Basawa Bhagwant Bhaimani Budh Chand Charat 
+			Damodar Dasu Datu Dayaram Didar Farid Gurdita 
 			Hargobind Hari "Har Krishan" "Har Rai" "Jai Ram" Jetha Jujhar 
-			Kalyan Kapur Kehar Kharak Khushal Lahna Lakhmichand Laxman 
-			Mahadev Mohan Mohri Nanak Narayan Nodha Partap Pheru Prithichand Prithvi "Ram Rai" Ranjit 
+			Kalyan Kapur Kehar Khushal Lahna Lakhmichand Laxman 
+			Mahadev Mohan Mohri Nanak Narayan Nodha Partap Pheru Prithichand Prithvi "Ram Rai" 
 			Sahdev Shamsher Sher Srichand "Tegh Bahadur" "Tej Bhan" Thakur Zorawar
 		}
 		female_names = {
@@ -5565,52 +5566,58 @@ hindusthani = {
 		}
 	}
 	male_names = {
-		Achalraj Achalraja Achalraja Achalraja Adhandev Adityadeva Ajmal Alsi Amir Anangpal Anangpala 
-		Anangpala Anangpala Anupapala Anupapala 
-		Anuppal Anupapala "Apara Gangeya" Arjunpal Arjunpala Arjunpala Arjunpala Arjunavarman Bacchdev 
-		Bachraj Baghpal Baghpala Baghpala Baghpala 
-		Bahadur-Singh Beejpal Beejpala Beejpala Beejpala Bhaadar Bhilpala Bhoj Bhoja Bhoja Bhoja 
-		Bhojavarman Bhoja Bhopal Bhumpal Bhumpala 
-		Bhumpala Bhumpala Birpal Birpala Birpala Birpala Bisaldeva Brahmadeva Brahmapala Brahmdevpal Chand 
-		Devapala Devavarman Dhanga Dhanga 
-		Dhangadeva Dhanga Dharmapala Dhaulshaya Dilipapala Dilipapala Dilippal Dilipapala Doth Draupad 
-		Draupada Draupada Draupada Dugarendra 
-		Gambhir Ganapatideva Gandadeva Gangeya Ghatamdeva Gopal Gopala Gopala Gopala Govindachandra 
-		Govindapala Govindaraja Govindaraja Govindraj Govindaraja
-		Hamir Hammiravarman Harpal Harsa Harsa Harshapala Harsa Hirapal Hirapala Hirapala Hirapala Indrapal 
-		Indrapala Indrapala Indrapala Ishtpala 
-		Jaganpal Jaganpala Jaganpala Jaganpala Jagatpal Jagatpala Jagatpala Jagatpala Jagdev Jagdeva 
-		Jagdeva Jagdeva Jaidas Jaipal Jaitugideva Jasapala Jasapala 
-		Jaspal Jasapala Jatanpal Jatanpala Jatanpala Jatanpala Jayapala Jayasakti Jayasimha Jayavarman 
-		Jhetpal Jhetpala Jhetpala Jhetpala Junpala 
-		Kailaspal Kailaspala Kailaspala Kailaspala Kalkurna Kalyanachandra Kakhopal Kakhopala Kakhopala 
-		Kakhopala Kamal Kanhad Kanvarpal Kanvarpala 
-		Kanvarpala Kanvarpala Karnpal Keeratdeva Khadag Khetrapal Khetrapala Khetrapala Khetrapala Kiratpal 
-		Kiratpala Kiratpala Kiratpala Krishnray 
-		Krsnapa Kumarapala Kunwar Kunwar Kunwarpal Kunwar Ladahachandra Lakshmandeva Lokpala Madanapala 
-		Madanavarman Maharana Mahendrapal Mahendrapala 
-		Mahendrapala Mahendrapala Mahipal Mahipala Mahipala Mahipala Mahipata Mahlakadeva Mandandeva 
-		Mangaldeva Margdeva Mihira Nagapala Nagdeo Nannuka 
-		Naravarman Narayanapala Narpal Nayapala Nihaal Nihalray Paramardideva Pavak Peepalraj Popatraj 
-		Pritampal Pritampala Pritampala Pritampala Prithipala 
-		Prithvi Prithvi Prithvipal Prithvi Prithviraj Prithviraja Prithviraja Prithviraja Prithvivarman 
-		Rahila Rajapala Rajyapala Ramabhadra Ramachandra 
-		Rampal Rampala Rampala Rampala Rana Rangraj Rangraja Rangraja Rangraja Ratnapala Rijhpala 
-		Roshandeva Salivaahan Sallaksanavarman Saugandeva Shurapala 
-		Sisupal Sisupala Sisupala Sisupala Sohanpal Somasi Someshvara Sonpal Sonpala Sonpala Sonpala 
-		Srichandra Subhatavarman Sukhinpal Sukhinpala 
-		Sukhinpala Sukhinpala Sulakshanpal Sultanpal Sultanpala Sultanpala Sultanpala Surajpal Surajpala 
-		Surajpala Surajpala Traillokyachandra Tejapala Tejpal 
-		Tejpal Tejpal Tolpal Trailokyavarman Trilochanpala Udayaditya Udaysangh Uddharandeva Vachhal 
-		Vakpati Vapyata Varshapala Varshapala Varshpal Varshapala 
-		Vasudev Vidurathpal Vidurathpala Vidurathpala Vidurathpala Vidyadhara Vigrahapala Vigraharaja 
-		Vihangpal Vijayapala Vijayasakti Vinayakapala Vindhyavarman 
-		Viramdeva Viravarman Virsinghadeva Yasovarman
+		Achalraj Achalraja Adhandev Adityadeva Ajmal Alsi Amir Anangpal Anangpala Anupapala 
+		Anuppal "Apara Gangeya" Arjunpal Arjunpala Arjunavarman Bacchdev Bachraj Baghpal Baghpala 
+		Bahadur-Singh Beejpal Beejpala Bhaadar Bhilpala Bhoj Bhoja Bhojavarman Bhopal Bhumpal Bhumpala 
+		Birpal Birpala Bisaldeva Brahmadeva Brahmapala Brahmdevpal Chand Devapala Devavarman Dhanga
+		Dhangadeva Dharmapala Dhaulshaya Dilippal Dilipapala Doth Draupad Draupada Dugarendra 
+		Gambhir Ganapatideva Gandadeva Gangeya Ghatamdeva Gopal Gopala Govindachandra Govindapala 
+		Govindraj Govindaraja Hamir Hammiravarman Harpal Harshapala Harsa Hirapal Hirapala Indrapal 
+		Indrapala Ishtpala Jaganpal Jaganpala Jagatpal Jagatpala Jagdev Jagdeva Jaidas Jaipal Jaitugideva
+		Jasapala Jaspal Jatanpal Jatanpala Jayapala Jayasakti Jayasimha Jayavarman Jhetpal Jhetpala Junpala 
+		Kailaspal Kailaspala Kalkurna Kalyanachandra Kakhopal Kakhopala Kamal Kanhad Kanvarpal Kanvarpala 
+		Karnpal Keeratdeva Khadag Khetrapal Khetrapala Kiratpal Kiratpala Krishnray Krsnapa Kumarapala 
+		Kunwar Kunwarpal Ladahachandra Lakshmandeva Lokpala Madanapala Madanavarman Maharana Mahendrapal 
+		Mahendrapala Mahipal Mahipala Mahipata Mahlakadeva Mandandeva Mangaldeva Margdeva Mihira Nagapala
+		Nagdeo Nannuka Naravarman Narayanapala Narpal Nayapala Nihaal Nihalray Paramardideva Pavak 
+		Peepalraj Popatraj Pritampal Pritampala Prithipala Prithvipal Prithvi Prithviraj Prithviraja 
+		Prithvivarman Rahila Rajapala Rajyapala Ramabhadra Ramachandra Rampal Rampala Rana Rangraj
+		Rangraja Ratnapala Rijhpala Roshandeva Salivaahan Sallaksanavarman Saugandeva Shurapala 
+		Sisupal Sisupala Sohanpal Somasi Someshvara Sonpal Sonpala Srichandra Subhatavarman Sukhinpal
+		Sukhinpala Sulakshanpal Sultanpal Sultanpala Surajpal Surajpala Traillokyachandra Tejapala 
+		Tejpal Tolpal Trailokyavarman Trilochanpala Udayaditya Udaysangh Uddharandeva Vachhal 
+		Vakpati Vapyata Varshapala Varshpal Vasudev Vidurathpal Vidurathpala Vidyadhara Vigrahapala
+		Vigraharaja Vihangpal Vijayapala Vijayasakti Vinayakapala Vindhyavarman Viramdeva Viravarman Virsinghadeva Yasovarman
 	}
 	female_names = {
 		Akal Anantadevi Damayanti Dattadevi Dehanagadevi Dhruvadevi Dhruvasvamini Hemavati 
 		Kakanvati Kalayandevi Kanchuka Kanwar Karmavati Kumaradevi Lakshman Maharani Mahidevi Nattadevi
-		Prabhavati Prabhavatigupta Prasadhanadevi Puppadevi Rajamati Sanyukta Shrimitradevi Aadi Abhirati Aditi Adya Agrata Ahalya Ahisma Ajaya Alka Amaravati Amba Ambar Ambika Ambrosia Amhi Amhika Amma Amritha Anahita Anala Ananda Ananta Anasuya Anga Angirasa Anila Annapurna Anumati Apala Apsaras Arpana Aruna Arundhati Arya Avani Avasa Avatara Baka Ballari Behula Bela Bha Bhadraa Bhagiratha Bharati Bhikkhuni Bhimadevi Bhu Bhudevi Brinda Chamunda Chanda Chandi Chandra Changla Channa Charumati Chhaya Chitra Corona Daeva Dakini Dakshina Damayanti Daru Denali Deva Devaki Devamatar Devayani Devi Devika Dharani Dharma Diti Div Divya Drisana Durga Ellora Eshana Gambhiri Gandhari Ganesa Garima Garuda Garudi Gatha Gaura Gauri Gayatri Gita Guri Haimati Hanita Hara Hariti Harsha Hema Hetal Indi Indira Indra Indrani Indumati Ishana Ishani Jaganmata Jamuna Janna Jarita Jaya Jayanti Jayne Jivanta Jui Jyotika Jyotis Kadru Kailasa Kala Kali Kalinda Kalindi Kalli Kallie Kamala Kamana Kanan Kantha Kanya Karka Karma Karuna Kasi Kaveri Kavindra Kerani Kesava Khasa Kiran Kirati Kiri Kirsi Kirtana Kirti Komala Krodha Kumari Kumuda Kumudavati Kunti Laasya Lajila Laksha Lakshmi Lakya Lalasa Lalita Lanka Latika Lavanya Leya Madhur Madri Mahadevi Mahamari Mahesa Maheshvari Mahila Maina Makara Malini Mallika Manasa Manda Mandara Manju Marisha Matrika Meena Meghana Mehadi Minda Mira Mrinal Muniya Nanda Nandini Narmada Natesa Nayana Neeja Neema Nidra Niloufer Nipa Nirveli Nisha Nitara Niyati Odra Ojal Omana Opal Padma Pallavi Pandara Pandita Parvani Pinga Pishachi Pithasthana Prabha Pramlocha Premala Quasar Rachana Radha Raja Rajni Ramya Ran Rana Rane Ranee Rani Rania Rashmika Rati Ratna Ravati Rekha Riddhi Rohana Rohini Ruana Rubaina Ruma Rupali Sakari Sakina Sakra Sakujna Samvarta Sandhya Saniya Sanjna Sany Sara Sarama Sarisha Sati Satya Satyavati Saura Savarna Savitari  Seema Sevita Sevti Shaibya Shakini Shakra Shakti Shalin Shanata Shanta Shanti Shapa Sharada Sharama Sharvani Shashi Shasti Shitala Shraddha Shri Shyla Sita Sitara Sohalia Soma Subha Suchi Sumana Sumitra Sundari Sunila Supriya Sur Sur Tamanna Tanaya Tanika Tanuja Tapati Tara Taraka Tarala Tarannum Tarika Tira Tirtha Trisha Trishna Trisna Triveni Tulsi Uma Umika Upala Ura Urvi Usha Ushas Uttara Vac Vach Vairocana Vallari Vandana Varana Varaza Varouna Varsha Varuna Varunani Vasanti Vayu Vedas Vema Vijaya Vilina Vina Vinata Vinaya Vineeta Viveka Vivika Yamuna Yasiman Yasmine Yauvani Zahra Zudora
+		Prabhavati Prabhavatigupta Prasadhanadevi Puppadevi Rajamati Sanyukta Shrimitradevi Aadi Abhirati 
+		Aditi Adya Agrata Ahalya Ahisma Ajaya Alka Amaravati Amba Ambar Ambika Ambrosia Amhi Amhika Amma
+		Amritha Anahita Anala Ananda Ananta Anasuya Anga Angirasa Anila Annapurna Anumati Apala Apsaras
+		Arpana Aruna Arundhati Arya Avani Avasa Avatara Baka Ballari Behula Bela Bha Bhadraa Bhagiratha 
+		Bharati Bhikkhuni Bhimadevi Bhu Bhudevi Brinda Chamunda Chanda Chandi Chandra Changla Channa
+		Charumati Chhaya Chitra Corona Daeva Dakini Dakshina Daru Denali Deva Devaki Devamatar
+		Devayani Devi Devika Dharani Dharma Diti Div Divya Drisana Durga Ellora Eshana Gambhiri Gandhari
+		Ganesa Garima Garuda Garudi Gatha Gaura Gauri Gayatri Gita Guri Haimati Hanita Hara Hariti Harsha 
+		Hema Hetal Indi Indira Indra Indrani Indumati Ishana Ishani Jaganmata Jamuna Janna Jarita Jaya
+		Jayanti Jayne Jivanta Jui Jyotika Jyotis Kadru Kailasa Kala Kali Kalinda Kalindi Kalli Kallie 
+		Kamala Kamana Kanan Kantha Kanya Karka Karma Karuna Kasi Kaveri Kavindra Kerani Kesava Khasa 
+		Kiran Kirati Kiri Kirsi Kirtana Kirti Komala Krodha Kumari Kumuda Kumudavati Kunti Laasya Lajila 
+		Laksha Lakshmi Lakya Lalasa Lalita Lanka Latika Lavanya Leya Madhur Madri Mahadevi Mahamari Mahesa 
+		Maheshvari Mahila Maina Makara Malini Mallika Manasa Manda Mandara Manju Marisha Matrika Meena 
+		Meghana Mehadi Minda Mira Mrinal Muniya Nanda Nandini Narmada Natesa Nayana Neeja Neema Nidra 
+		Niloufer Nipa Nirveli Nisha Nitara Niyati Odra Ojal Omana Opal Padma Pallavi Pandara Pandita 
+		Parvani Pinga Pishachi Pithasthana Prabha Pramlocha Premala Quasar Rachana Radha Raja Rajni 
+		Ramya Ran Rana Rane Ranee Rani Rania Rashmika Rati Ratna Ravati Rekha Riddhi Rohana Rohini 
+		Ruana Rubaina Ruma Rupali Sakari Sakina Sakra Sakujna Samvarta Sandhya Saniya Sanjna Sany Sara
+		Sarama Sarisha Sati Satya Satyavati Saura Savarna Savitari  Seema Sevita Sevti Shaibya Shakini
+		Shakra Shakti Shalin Shanata Shanta Shanti Shapa Sharada Sharama Sharvani Shashi Shasti Shitala
+		Shraddha Shri Shyla Sita Sitara Sohalia Soma Subha Suchi Sumana Sumitra Sundari Sunila Supriya
+		Sur Tamanna Tanaya Tanika Tanuja Tapati Tara Taraka Tarala Tarannum Tarika Tira Tirtha Trisha
+		Trishna Trisna Triveni Tulsi Uma Umika Upala Ura Urvi Usha Ushas Uttara Vac Vach Vairocana Vallari
+		Vandana Varana Varaza Varouna Varsha Varuna Varunani Vasanti Vayu Vedas Vema Vijaya Vilina Vina Vinata
+		Vinaya Vineeta Viveka Vivika Yamuna Yasiman Yasmine Yauvani Zahra Zudora
 	}
 	dynasty_names = {
 		"Gautam" "Ajaka" "Cedi" "Dasaratha" "Salisuka" "Satadhanva" "Gahadvala" "Dhariwal" "Jethani" 
@@ -5634,32 +5641,32 @@ western_aryan = {
 			Bhenji Hamirji Bhav Natwar Sidhraj Rajsinhji Fulad Abdul
 			Abhayapala Acharya Ahila Ajairaja Jayaraja Ajayapala Ajay-Singh Alhana Allat Amarangeya 
 			Ambra-Prasad Amritapala Anahilla Ari-Singh Arjunavarman Arnoraja Asaraja Asvapala Balaprasada 
-			Baliraja Bhatarka Bhert-Patt Bhima Bhima Bhimadeva Bhima Bhim-Singh Bhuvan-Singh Bhoja Bhoo-Chand 
+			Baliraja Bhatarka Bhert-Patt Bhimadeva Bhima Bhim-Singh Bhuvan-Singh Bhoja Bhoo-Chand 
 			Chachiga Chamundaraja Chandanaraja Chandraraja Chaud-Singh Dadda Dambarisimha Deopali-Deo Devapala 
 			Dharapatta Dharasena Dharmapala Dhruvasena Dinakarn Dronasinha Dungar-Singh Durlabharaja Gajasimha 
-			Gopala Gopendraka Gopendraraja Gopendraraja Gopendraraja Govinda Govindaraja Govindapala 
-			Govindaraja Govindaraja Govindaraja Guhasena Guvaka Govindaraja Hammira Hammir-Singh Hanspal 
-			Hariraja Harischandra Hemachandra Jagadeva Jaitrasimha Jaitrasimha Jaitra-Singh Jaitrasimha 
-			Jaitugideva Jasapala Jaskarn Jayapala Jayaraja Jayaraja Jayasimha Jayasimha Jay-Singh Jayasimha 
-			Jay-Singh-Deo Jayat-Singh Jayasimha Jayavarman Jayshikari Jendraraja Jojalla Kalbhoj Kanhadadeva 
-			Karandeva Karnadeva Karan-Singh Karnadeva Karnadeva Katudeva Katukaraja Keerti-Verma Kirtivarman 
-			Kelhana Kharagraha Khuman Kirtipala Kirtivarman Kirtivarman Kumarapala Kshemraja Xemraja 
+			Gopala Gopendraka Gopendraraja Govinda Govindaraja Govindapala 
+			Guhasena Guvaka Hammira Hammir-Singh Hanspal 
+			Hariraja Harischandra Hemachandra Jagadeva Jaitra-Singh Jaitrasimha 
+			Jaitugideva Jasapala Jaskarn Jayapala Jay-Singh Jayasimha 
+			Jay-Singh-Deo Jayat-Singh Jayavarman Jayshikari Jendraraja Jojalla Kalbhoj Kanhadadeva 
+			Karandeva Karnadeva Karan-Singh Katudeva Katukaraja Keerti-Verma Kirtivarman 
+			Kelhana Kharagraha Khuman Kirtipala Kumarapala Kshemraja Xemraja 
 			Kshem-Singh Kshetra-Singh Kumar-Singh Lakhanapala Lakhshaman-Singh Lakshmana Lakshmanadeva 
-			Lakshmanadeva Lakshmanadeva Lakshmivarman Lavanyakarna Lunavarman Luntiga Madanapala Mahap Mahayak 
-			Mahendra Mahendrapala Mahendrapala Mahendra Mahipala Mahlakadeva Maladeva Manavasimha Mathan-Singh 
-			Mattat Mihira Mulraja Nagabhata Nagarjuna Nagraja Naradeva Narapati Naravarman Naravarman 
-			Naravarmandeva Naravarman Narayanapala Nar-Verma Naravarman Narwahan Nayapala Padam-Singh 
-			Prahladana Pratapa Prithvipal Prithviraja Prithivipala Prithviraja Prithviraja Prithviraja Purnpala 
+			 Lakshmivarman Lavanyakarna Lunavarman Luntiga Madanapala Mahap Mahayak 
+			Mahendra Mahendrapala Mahipala Mahlakadeva Maladeva Manavasimha Mathan-Singh 
+			Mattat Mihira Mulraja Nagabhata Nagarjuna Nagraja Naradeva Narapati 
+			Naravarmandeva Naravarman Narayanapala Nar-Verma Narwahan Nayapala Padam-Singh 
+			Prahladana Pratapa Prithvipal Prithviraja Prithivipala Purnpala 
 			Rahap Rajapala Rajyapala Ramabhadra Ramapala Ratan-Singh Ratnapala Rayapala Rudrapala Sahajapala 
-			Sahanapala Samanta Samanta Samant-Singh Samanta Samantasimha Samanta Samarasimha Samarasimha 
-			Samar-Singh Samarasimha Shakti-Kumar Shaliwahan Shuchi-Verma Shurapala Siladitya Sindhuraja 
-			Singhraja Sinha Sinhad-Deo Siyaka Sohiya Someshwara Subhatavarman Suratrana Tejasimha Tejasimha 
-			Tej-Singh Tejasimha Trailokyavarman Tribhuvanapala Trilochanpala Udayaditya Udayasimha Udayavarman 
-			Upendra Vagbhata Vahadiasimha Vairisimha Vairisimha Vairsingh Vairisimha Vajradeva Vakapati Vakpati 
-			Vakpati Vakpati Vakpatiraja Vakpati Valhana Valhanadeva Valhanadeva Valhanadeva Vallabharaja 
-			Vanraja Vapyata Vasudeva Vatsaraja Vigrahapala Vigraharaja Vigraharaja Vigrharaja Vigraharaja 
+			Sahanapala Samanta Samant-Singh Samantasimha Samarasimha 
+			Samar-Singh Shakti-Kumar Shaliwahan Shuchi-Verma Shurapala Siladitya Sindhuraja 
+			Singhraja Sinha Sinhad-Deo Siyaka Sohiya Someshwara Subhatavarman Suratrana Tejasimha 
+			Tej-Singh Trailokyavarman Tribhuvanapala Trilochanpala Udayaditya Udayasimha Udayavarman 
+			Upendra Vagbhata Vahadiasimha Vairsingh Vairisimha Vajradeva Vakapati Vakpati 
+			Vakpatiraja Valhana Valhanadeva Vallabharaja 
+			Vanraja Vapyata Vasudeva Vatsaraja Vigrahapala Vigraharaja Vigrharaja 
 			Vijada-Dasasyandana Vijai-Singh Vikramaditya Vinaykpala Vindhyavarman Virama Viradeva Viranarayana 
-			Virsinh-Deo Viryarama Xemraja Xemraja Yasovarman Yograj
+			Virsinh-Deo Viryarama Yasovarman Yograj
 		}
 		female_names = {
 			Fatima Ahmadi Mumtaz
@@ -5675,16 +5682,15 @@ western_aryan = {
 			"Bhonsle" "Gaikwar" "Bhat" "Sindhia" "Koli" "Sinda" "Kamadeva" "Gaitonde" "Malviya" "Ruddha"
 		}
 		male_names = {
-			Shivaji Shambaji Rajaram Sahuji Balaji Baji Rao Madhu Rao Narayan Rao Ragunath Rao Pratap Singh Firangoji 
+			Shivaji Shambaji Rajaram Sahuji Rao Madhu Narayan Ragunath Pratap Singh Firangoji 
 			Kanhoji Netaji Moropant Baji Prabhu Suryaji Tanaji Chimaji Ranoji Raghunathrao Malhar Tukojirao Haripant 
-			Yashwantrao
 			Abaji Amutrao Bahadur Bahiroji Balaji Bajirao Chimnaji Dattaji Daulatrao Dhanaji Dhondu 
 			Ekoji Fatehsinh Gopalrao Hambirao Harirao Jayajirao Jayappa Janakappa Jivajirao 
 			Khanderao Krishnarao Madhavrao Mahadji Malerao Malharrao Mankoji Martandrao 
-			Moropant Murarirao Nanasaheb Narayanrao Pandurangrao Pratapsinh 
-			Raghunathrao Rajaram Ramaswami Ramchandrapant Ramshastri Ranojirao 
-			Sadashivrao Sambhaji Sayajirao Serfoji Shahuji Shivaji Shivajirao 
-			Tryambakrao Tukkoji Tukojirao Tulojirao Venkatrao Vishwanathpant Yashwantrao
+			Murarirao Nanasaheb Narayanrao Pandurangrao Pratapsinh 
+			Ramaswami Ramchandrapant Ramshastri Ranojirao 
+			Sadashivrao Sambhaji Sayajirao Serfoji Shahuji Shivajirao 
+			Tryambakrao Tukkoji Tulojirao Venkatrao Vishwanathpant Yashwantrao
 			Adityavarman Aiyaparaja Anantadeva Aparaditya Aparajita Arikesarin Arthapathi Avasara 
 			Bhavadatta Bhima Bhoja Bijjala Chandra Chandraditya Chhadvaideva Chhittaraja 
 			Daharasena Dhammayira Gandaraditya Goggiraja Gonka Guhala Guhalladeva Haripaladeva 
@@ -5699,7 +5705,7 @@ western_aryan = {
 			Rajasbai Rajkunvarbai Ramabai Ranubai Saibai Sagunabai Sakavaarbai Sayeebai Soyarabai Sujanbai 
 			Tarabai Yesubai Anjanibai Anuradha Durga Kamadevi Kamaladevi Kesarbai Kishori Kundaladevi 
 			Lasthiyavva Maya Mogubai Radhabai Radhika Shevanti Shudhamati Sovidevi Sudha Sumati Sunita
-			Tarabai Soyarabai Tukabai
+			Tukabai
 		}
 	}
 	sindhi = {
@@ -5710,17 +5716,17 @@ western_aryan = {
 			"Ghanshani" "Doolani" "Khetpal" "Lohi" "Notani" "Sawai" "Bhambhani" 
 		}
 		male_names = {
-			"Ali Sher" "Fath Khan" "Tughluq" "Nizam ad-Din" "Furuz Salah ad-Din" "Shah Shuja' Beg" "Sanjar" "Nanda" 
+			"Fath Khan" "Tughluq" "Nizam ad-Din" "Furuz Salah ad-Din" "Shah Shuja' Beg" "Sanjar" "Nanda" 
 			"Shah Husayn" "Mirza Muhammad 'Isa" "Mirza Muhammad Baqi" "Mirza Jani Beg" "Yar Muhammad Khan" 
 			"Muhammad Murad" "Gulam Shah" "Sarfaraz Khan" "Gulam Nabi Khan" "'Abd an-Nabi Khan" 
 			"'Abd Allah Khan Talpur" "Mir Fath Ali" "Thara" "Mohammed 'Isa" "Mohammed Baqi" "Nur Mahammad" "Mohammad" 
 			"Muzzafar" "Ali" "Khalil" "Sikandar" "Bhenji" "Hamirji" "Bhav" "Natwar" "Sidhraj" "Ghulam" "Hussain" 
 			"Abdullah"
-			Abdullah Abdurrashid Abdurrahman Alauddin "Ali Sher" Amar Arnel Asamuddin Aziz 
+			Abdurrashid Abdurrahman Alauddin "Ali Sher" Amar Arnel Asamuddin Aziz 
 			Banhbina Bhungar "Bhungar Rao" Chanesar Doda "Dadu Phattu" "Dalu Rai" "Deva Rai" 
-			"Fateh Khan" Feruzuddin Genhra Hafif Khafif Hamir Ismail Junah Kahah Karan Khafif Khafif Khaira 
+			"Fateh Khan" Feruzuddin Genhra Hafif Khafif Hamir Ismail Junah Kahah Karan Khaira 
 			Khinrah Mahmud Mubarak Muhammad Muhammed-Tur Munzir Nangar Nizamuddin Pahtu Punhun Raidhan 
-			Sabar Salahuddin Sanghar Sanjar Shahabuddin Sikandar Sumrah Syed Tai Tamachi Taghlak Umar Unar
+			Sabar Salahuddin Sanghar Shahabuddin Sumrah Syed Tai Tamachi Taghlak Umar Unar
 		}
 		female_names = {
 			Bhagi Hamide Himu Sad Tari "Zainab Tari" "Noor" "Chaguli" "Khair"
@@ -5743,82 +5749,42 @@ western_aryan = {
 			"Pratap Singh" "Karan" "Jagat Singh" "Raj Singh" "Jay Singh" "Sangrama Singh" "Ari Singh" "Hammir"
 			"Bhim Singh" "Baz" "Kumbhakarna" "Natwar" "Ratan" "Jhala" "Hakim" "Sidhraj" "Raj" "Jai" "Sangram" 
 			"Sejakji" "Dilip" "Kshetra" "Kunwar" "Nath" "Viram" "Baiji Lal" "Jawan" "Bhawani" "Naryan" "Krishna" "Ballu"
-			Achalraj Achalraja Achalraja Achalraja Adhandev Adityadeva Ajmal Alsi Amir Anangpal Anangpala 
-			Anangpala Anangpala Anupapala Anupapala 
-			Anuppal Anupapala "Apara Gangeya" Arjunpal Arjunpala Arjunpala Arjunpala Arjunavarman Bacchdev 
-			Bachraj Baghpal Baghpala 
-			Baghpala Baghpala Bahadur-Singh Beejpal Beejpala Beejpala Beejpala Bhaadar Bhilpala Bhoj Bhoja 
-			Bhoja Bhoja Bhojavarman Bhoja 
-			Bhopal Bhumpal Bhumpala Bhumpala Bhumpala Birpal Birpala Birpala Birpala Bisaldeva Brahmadeva 
-			Brahmapala Brahmdevpal Chand Devapala 
-			Devavarman Dhanga Dhanga Dhangadeva Dhanga Dharmapala Dhaulshaya Dilipapala Dilipapala Dilippal 
-			Dilipapala Doth Draupad Draupada 
-			Draupada Draupada Dugarendra Gambhir Ganapatideva Gandadeva Gangeya Ghatamdeva Gopal Gopala 
-			Gopala Gopala Govindachandra Govindapala 
-			Govindaraja Govindaraja Govindraj Govindaraja Hamir Hammiravarman Harpal Harsa Harsa Harshapala 
-			Harsa Hirapal Hirapala 
-			Hirapala Hirapala Indrapal Indrapala Indrapala Indrapala Ishtpala Jaganpal Jaganpala Jaganpala 
-			Jaganpala Jagatpal Jagatpala 
-			Jagatpala Jagatpala Jagdev Jagdeva Jagdeva Jagdeva Jaidas Jaipal Jaitugideva Jasapala Jasapala 
-			Jaspal Jasapala Jatanpal Jatanpala 
-			Jatanpala Jatanpala Jayapala Jayasakti Jayasimha Jhetpal Jhetpala Jhetpala Jhetpala Junpala 
-			Kailaspal Kailaspala Kailaspala Kailaspala 
-			Kalkurna Kalyanachandra Kakhopal Kakhopala Kakhopala Kakhopala Kamal Kanhad Kanvarpal 
-			Kanvarpala Kanvarpala Kanvarpala Karnpal Keeratdeva 
-			Khadag Khetrapal Khetrapala Khetrapala Khetrapala Kiratpal Kiratpala Kiratpala Kiratpala 
-			Krishnray Krsnapa Kumarapala Kunwar Kunwar 
-			Kunwarpal Kunwar Ladahachandra Lakshmandeva Lokpala Madanapala Madanavarman Maharana 
-			Mahendrapal Mahendrapala Mahendrapala Mahendrapala 
-			Mahipal Mahipala Mahipala Mahipala Mahipata Mahlakadeva Mandandeva Mangaldeva Margdeva Mihira 
-			Nagapala Nagdeo Nannuka Naravarman 
-			Narayanapala Narpal Nayapala Nihaal Nihalray Paramardideva Pavak Peepalraj Popatraj Pritampal 
-			Pritampala Pritampala Pritampala Prithipala 
-			Prithvi Prithvi Prithvipal Prithvi Prithviraj Prithviraja Prithviraja Prithviraja Prithvivarman 
-			Rahila Rajapala Rajyapala Ramabhadra 
-			Ramachandra Rampal Rampala Rampala Rampala Rana Rangraj Rangraja Rangraja Rangraja Ratnapala 
-			Rijhpala Roshandeva Salivaahan 
-			Sallaksanavarman Saugandeva Shurapala Sisupal Sisupala Sisupala Sisupala Sohanpal Somasi 
-			Someshvara Sonpal Sonpala Sonpala Sonpala 
-			Srichandra Subhatavarman Sukhinpal Sukhinpala Sukhinpala Sukhinpala Sulakshanpal Sultanpal 
-			Sultanpala Sultanpala Sultanpala Surajpal Surajpala 
-			Surajpala Surajpala Traillokyachandra Tejapala Tejpal Tejpal Tejpal Tolpal Trailokyavarman 
-			Trilochanpala Udayaditya Udaysangh Uddharandeva 
-			Vachhal Vakpati Vapyata Varshapala Varshapala Varshpal Varshapala Vasudev Vidurathpal 
-			Vidurathpala Vidurathpala Vidurathpala Vidyadhara 
+			Achalraj Achalraja Adhandev Adityadeva Ajmal Alsi Amir Anangpal Anangpala Anupapala 
+			Anuppal "Apara Gangeya" Arjunpal Arjunpala Arjunavarman Bacchdev Bachraj Baghpal Baghpala 
+			Bahadur-Singh Beejpal Beejpala Bhaadar Bhilpala Bhoj Bhoja Bhojavarman Bhopal Bhumpal Bhumpala Birpal Birpala Bisaldeva Brahmadeva 
+			Brahmapala Brahmdevpal Chand Devapala Devavarman Dhangadeva Dhanga Dharmapala Dhaulshaya Dilipapala Dilippal 
+			Doth Draupad Draupada Dugarendra Gambhir Ganapatideva Gandadeva Gangeya Ghatamdeva Gopal 
+			Gopala Govindachandra Govindapala Govindraj Hamir Hammiravarman Harpal Harsa Harshapala 
+			Hirapal Hirapala Indrapal Indrapala Ishtpala Jaganpal Jaganpala Jagatpal Jagatpala 
+			Jagdev Jagdeva Jaidas Jaipal Jaitugideva Jasapala Jaspal Jatanpal Jatanpala 
+			Jayapala Jayasakti Jayasimha Jhetpal Jhetpala Junpala Kailaspal Kailaspala
+			Kalkurna Kalyanachandra Kakhopal Kakhopala Kamal Kanhad Kanvarpal Kanvarpala Karnpal Keeratdeva 
+			Khadag Khetrapal Khetrapala Kiratpal Kiratpala Krishnray Krsnapa Kumarapala 
+			Kunwarpal Ladahachandra Lakshmandeva Lokpala Madanapala Madanavarman Maharana Mahendrapal Mahendrapala 
+			Mahipal Mahipata Mahlakadeva Mandandeva Mangaldeva Margdeva Mihira Nagapala Nagdeo Nannuka 
+			Narayanapala Narpal Nihaal Nihalray Paramardideva Pavak Peepalraj Popatraj Pritampal Pritampala Prithipala 
+			Prithvi Prithvipal Prithviraj Prithviraja Prithvivarman Rahila Rajapala Rajyapala Ramabhadra 
+			Ramachandra Rampal Rampala Rana Rangraj Rangraja Ratnapala Rijhpala Roshandeva Salivaahan 
+			Sallaksanavarman Saugandeva Shurapala Sisupal Sisupala Sohanpal Somasi Someshvara Sonpal Sonpala 
+			Srichandra Subhatavarman Sukhinpal Sukhinpala Sulakshanpal Sultanpal Sultanpala Surajpal Surajpala 
+			Traillokyachandra Tejapala Tejpal Tolpal Trailokyavarman Trilochanpala Udayaditya Udaysangh Uddharandeva 
+			Vachhal Vakpati Vapyata Varshpal Varshapala Vasudev Vidurathpal Vidurathpala Vidyadhara 
 			Vigrahapala Vigraharaja Vihangpal Vijayapala Vijayasakti Vinayakapala Vindhyavarman Viramdeva 
-			Viravarman Virsinghadeva Yasovarman Abhayapala 
-			Acharya Ahila Ajairaja Jayaraja Ajayapala Ajay-Singh Alhana Allat Amarangeya Ambra-Prasad 
-			Amritapala Anahilla Ari-Singh Arnoraja Asaraja 
-			Asvapala Balaprasada Baliraja Bhatarka Bhert-Patt Bhima Bhima Bhimadeva Bhima Bhim-Singh 
-			Bhuvan-Singh Bhoja Bhoo-Chand Chachiga Chamundaraja
-			Chandanaraja Chandraraja Chaud-Singh Dadda Dambarisimha Deopali-Deo Dharapatta Dharasena 
-			Dhruvasena Dinakarn Dronasinha Dungar-Singh 
-			Durlabharaja Gajasimha Gopala Gopendraka Gopendraraja Gopendraraja Gopendraraja Govinda 
-			Govindaraja Govindapala Govindaraja Guhasena 
-			Guvaka Govindaraja Hammira Hammir-Singh Hanspal Hariraja Harischandra Hemachandra Jagadeva 
-			Jaitrasimha Jaitrasimha Jaitra-Singh Jaitrasimha 
-			Jaitugideva Jasapala Jaskarn Jayaraja Jayaraja Jayasimha Jayasimha Jay-Singh Jayasimha 
-			Jay-Singh-Deo Jayat-Singh Jayasimha Jayshikari Jendraraja 
-			Jojalla Kalbhoj Kanhadadeva Karandeva Karnadeva Karan-Singh Karnadeva Karnadeva Katudeva 
-			Katukaraja Keerti-Verma Kirtivarman Kelhana Kharagraha 
-			Khuman Kirtipala Kirtivarman Kirtivarman Kshemraja Xemraja Kshem-Singh Kshetra-Singh 
-			Lakhanapala Lakhshaman-Singh Lakshmana Lakshmanadeva 
-			Lakshmanadeva Lakshmanadeva Lakshmivarman Lavanyakarna Lunavarman Luntiga Mahap Mahayak 
-			Mahendra Mahendrapala Mahendrapala Mahendra Mahipala Maladeva
-			Manavasimha Mathan-Singh Mattat Mulraja Nagabhata Nagarjuna Nagraja Naradeva Narapati 
-			Naravarman Naravarman Naravarmandeva Naravarman Nar-Verma Naravarman 
-			Narwahan Nayapala Padam-Singh Prahladana Pratapa Prithvipal Prithviraja Prithivipala 
-			Prithviraja Purnpala Rahap Ramapala Ratan-Singh Rayapala Rudrapala
-			Sahajapala Sahanapala Samanta Samanta Samant-Singh Samanta Samantasimha Samanta Samarasimha 
-			Samarasimha Samar-Singh Samarasimha Shaliwahan Shuchi-Verma 
-			Siladitya Sindhuraja Singhraja Sinha Sinhad-Deo Siyaka Sohiya Someshwara Suratrana Tejasimha 
-			Tejasimha Tej-Singh Tejasimha Tribhuvanapala Udayasimha 
-			Udayavarman Upendra Vagbhata Vahadiasimha Vairisimha Vairisimha Vairsingh Vairisimha Vajradeva 
-			Vakapati Vakpati Vakpati Vakpati Vakpatiraja Vakpati
-			Valhana Valhanadeva Valhanadeva Valhanadeva Vallabharaja Vanraja Vasudeva Vatsaraja Vigraharaja 
-			Vigraharaja Vigrharaja Vigraharaja Vijada-Dasasyandana 
-			Vijai-Singh Vikramaditya Vinaykpala Virama Viradeva Viranarayana Virsinh-Deo Viryarama Xemraja 
-			Xemraja Yograj
+			Viravarman Virsinghadeva Yasovarman Abhayapala Acharya Ahila Ajairaja Jayaraja Ajayapala Ajay-Singh Alhana Allat Amarangeya Ambra-Prasad 
+			Amritapala Anahilla Ari-Singh Arnoraja Asaraja Asvapala Balaprasada Baliraja Bhatarka Bhert-Patt Bhimadeva Bhima Bhim-Singh 
+			Bhuvan-Singh Bhoo-Chand Chachiga Chamundaraja Chandanaraja Chandraraja Chaud-Singh Dadda Dambarisimha Deopali-Deo Dharapatta Dharasena 
+			Dhruvasena Dinakarn Dronasinha Dungar-Singh Durlabharaja Gajasimha Gopendraka Gopendraraja Govinda Guhasena 
+			Guvaka Govindaraja Hammira Hammir-Singh Hanspal Hariraja Harischandra Hemachandra Jagadeva Jaitra-Singh Jaitrasimha 
+			Jaskarn Jay-Singh Jay-Singh-Deo Jayat-Singh Jayshikari Jendraraja Jojalla Kalbhoj Kanhadadeva Karandeva Karnadeva Karan-Singh Katudeva 
+			Katukaraja Keerti-Verma Kelhana Kharagraha Khuman Kirtipala Kirtivarman Kshemraja Xemraja Kshem-Singh Kshetra-Singh 
+			Lakhanapala Lakhshaman-Singh Lakshmana Lakshmanadeva Lakshmivarman Lavanyakarna Lunavarman Luntiga Mahap Mahayak 
+			Mahendra Mahipala Maladeva Manavasimha Mathan-Singh Mattat Mulraja Nagabhata Nagarjuna Nagraja Naradeva Narapati 
+			Naravarman Naravarmandeva Nar-Verma Narwahan Nayapala Padam-Singh Prahladana Pratapa Prithivipala 
+			Purnpala Rahap Ramapala Ratan-Singh Rayapala Rudrapala Sahajapala Sahanapala Samanta Samant-Singh Samantasimha Samarasimha 
+			Samar-Singh Shaliwahan Shuchi-Verma Siladitya Sindhuraja Singhraja Sinha Sinhad-Deo Siyaka Sohiya Someshwara Suratrana Tejasimha 
+			Tej-Singh Tribhuvanapala Udayasimha Udayavarman Upendra Vagbhata Vahadiasimha Vairsingh Vairisimha Vajradeva 
+			Vakapati Vakpatiraja Valhana Valhanadeva Vallabharaja Vanraja Vasudeva Vatsaraja 
+			Vigrharaja Vijada-Dasasyandana Vijai-Singh Vikramaditya Vinaykpala Virama Viradeva Viranarayana Virsinh-Deo Viryarama Yograj
 		}
 		female_names = {
 			Akal Anantadevi Damayanti Dattadevi Dehanagadevi Dhruvadevi Dhruvasvamini Hemavati 
@@ -5853,7 +5819,7 @@ dravidian = {
 		primary = MYS
 		dynasty_names = {
 			"Wodeyar" "Sangama" "Saluva" "Tuluva" "Alupa" "Keladi" "Ummattur" "Chowta"
-			"Vaidumba" "Chalukya" "Sendraka" "Sangama" "Kalachuri" "Hoysala" "Wodeyar"
+			"Vaidumba" "Chalukya" "Sendraka" "Kalachuri" "Hoysala"
 			"Ganga"
 		}
 		male_names = {
@@ -5867,7 +5833,7 @@ dravidian = {
 			Kambarasa Kannama Karka Khottiga Kiriyasaga Kirtivarman Konganivarman Krishna 
 			Madhava Madhura Mallikarjuna Mallugi Mangalesi Marasimha Marulaganga Mushkara Narasanayaka
 			Narasimha Neetimarga Nripakama Permadi Permanadi Polavira Praudharaya Pulakesi Purandaradasa 
-			Rachamalla Ramachandra Ramadeva Ramaraya Sankama Satyasraya Sharva Shivamara Singhana 
+			Rachamalla Ramadeva Ramaraya Sankama Satyasraya Sharva Shivamara Singhana 
 			Somesvara Sovideva Sripadaraya Sripurusha Sriranga Srivikrama Tailapa Thimma Tirumalaraya 
 			Uchita Venkatadri Venkatapathi Vikramaditya Vijayaditya Vinayaditya Viraballala Viravijaya 
 			Virupaksha Vishnugopa Vishnuvardhana Yachama Yachamanedu 
@@ -5876,7 +5842,7 @@ dravidian = {
 		female_names = {
 			Akkadevi Bhavanaga Bijjabbe Chandaladevi Chandrabbalabbe Gangambika Hoysaladevi Kundakadevi 
 			Lakshmi Mahadevi Mailaladevi Obayamma Pertal Revakanimmadi Shantaladevi Vijamba
-			Chinnambike Thirumalambike "Sujaya" "Lakshmi" "Chikka Krishna"
+			Chinnambike Thirumalambike "Sujaya" "Chikka Krishna"
 		}
 	}
 	malayalam = {
@@ -5886,7 +5852,7 @@ dravidian = {
 		}
 		male_names = {
 			"Chera Udaya" "Mootha" "Sri Vira Martanda" "Aditya" "Bala Rama" "Martanda" 
-			"Sri Vira" "Udaya Martanda" "Gouri Laksmi Bai" "Gouri Parvati Bai" "Ravi" "Kotha Aditya" "Ravi Ravi" "Rama" "Unni" "Sri Vira Udaya" "Sri Vira" "Marthanda" "Udaya" "Ravi" "Unni" "Kallada" "Marthanda" "Raman" "Eman" "Ramayyan" 
+			"Sri Vira" "Udaya Martanda" "Gouri Laksmi Bai" "Gouri Parvati Bai" "Ravi" "Kotha Aditya" "Ravi Ravi" "Rama" "Unni" "Sri Vira Udaya" "Udaya" "Kallada" "Marthanda" "Raman" "Eman" "Ramayyan" 
 			"Thiruvattar" "Kodassery" "Koratty"
 		}
 		female_names = {
@@ -5898,7 +5864,7 @@ dravidian = {
 		dynasty_names = {
 			"Saadatullahid" "Anwarudid" "Pandya" "Thondaiman" "Thanjavuri" "Sethupathy" "Saluva" 
 			"Thanjavur Mutharaiyar" "Udayagiri Mutharaiyar" "Simhapuri Mutharaiyar" "Ay" "Pallava" "Chola" 
-			"Pandya" "Chera" "Aryacakravarti" 
+			"Chera" "Aryacakravarti" 
 		}
 		male_names = {
 			"Vira Pandya" "Narasa" "Tenna" "Naransa Pillai" "Kuru Kuru Timmappa" "Kattyama Kamaiya" "Cimappa" 
@@ -5931,7 +5897,7 @@ dravidian = {
 			Parânkucan Parankusan Parântaka Parantaka Pathrose Peter Pañcavan Paulose Paul Periyapillai 
 			Perumâl Peruñcintevar Piramârâyan Piyliypaos Philip Puvirâca Puviraja Pâkkilân Pâlarâvâyan 
 			Ranatitta Ranaditya 
-			Ranatîran Ranadhiran Ravivarman Samuel Samuel Tantivarman Dantivarman Tennavan Thoma Thomas 
+			Ranatîran Ranadhiran Ravivarman Samuel Tantivarman Dantivarman Tennavan Thoma Thomas 
 			Tiruccirrampalapattan Tirunattapperumâl Tirupuvanavîratevar Tripuvanacakkaravattikal 
 			Uravâkkinân Utaiya Udaya Uttama Varakunan Varagunan Varakunavarman Varagunavarman Varôtaya 
 			Varughese George Vellantânkinân Vicayâlaya Vijayalaya Vicayâraka Vijayaraga 
@@ -5990,7 +5956,7 @@ dravidian = {
 			Rajanayaka Rajaraja 
 			Rudradeva Saktivarman Singamanayaka Somaditya Vengabhupathi Vijayaditya Vimaladitya Virabhadra 
 			Vishnuvardhana 
-			Yuddamalla Yuddamalla Yuddhamalla Yuddamalla
+			Yuddhamalla Yuddamalla
 		}
 		female_names = {
 			Anitalli Chamekamba Chandena Chellava Gamakamba Hariharamba Nagipoti Pammava Rudramba 
@@ -6022,7 +5988,7 @@ central_indic = {
 		}
 		male_names = {
 			"Haria" "Jugasai" "Pratapnayan" "Harirudra" "Anku" "Raghunath" "Biswambhar" "Raisingh" "Dusmant" 
-			"Pratap Deo" "Padman" "Khadag Rai" "Yuvaraj" "Birabar" "Harichandra" "Gopinath" "Raghuraj" "Haria" 
+			"Pratap Deo" "Padman" "Khadag Rai" "Yuvaraj" "Birabar" "Harichandra" "Gopinath" "Raghuraj" 
 			"Bishwanath" 
 			"Rai" "Sunder" "Krishna" "Barman" "Biwarta" "Jagannath" "Narayana" "Bebarta" "Chandra" "Damodar" "Jadunath" 
 			"Pradeep"
@@ -6043,25 +6009,25 @@ central_indic = {
 		}
 	}
 	female_names = {
-		Abha Abhilasha Aditi Aishwarya Akanksha Amala Amita Amit Amrita Amrit Ananda Anand Anandi Anand Ananta Anantha 
-		Ananta Anika Anik Anila Anil Anima Anita Anit Anjali Ankita Anuja Anuj Anupama Anupam Aparajita Aradhana Archana 
+		Abha Abhilasha Aditi Aishwarya Akanksha Amala Amita Amit Amrita Amrit Ananda Anandi Anand Ananta Anantha 
+		Anika Anik Anila Anil Anima Anita Anit Anjali Ankita Anuja Anuj Anupama Anupam Aparajita Aradhana Archana 
 		Arundhati Arya Asha Avani Avanti Bala Chanda Chandana Chandan Chandra Chandrakanta Chandrakant Chetana Chetan 
-		Damayanti Darshana Deepali Dipali Deepti Dipti Devi Devika Dipali Dipika Dipti Divya Draupadi Drupada Drishti Durga 
-		Esha Gauri Gita Gowri Gauri Gulshanpu Golshan Ila Inderjitp Pindrajit Indira Indrani Indra Indu Ihindra Jaswinderp 
+		Damayanti Darshana Deepali Dipali Deepti Dipti Devi Devika Dipika Divya Draupadi Drupada Drishti Durga 
+		Esha Gauri Gita Gowri Gulshanpu Golshan Ila Inderjitp Pindrajit Indira Indrani Indra Indu Ihindra Jaswinderp 
 		Jaya Jayanti Jayanta Jayashri Jyothi Jyoti Jyotsana Jyotsna Kajal Kala Kali Kalpana Kalyani Kalyan Kamala Kamini 
-		Kanchana Kanta Kanti Karishma Kashi Kasi Kashi Kaur Kausalya Kaveri Kri Kavita Kiran Kirtida Kishori Kishor 
-		Kshitija Kshitij Kumari Kumara Kunti Lakshmi Lalita Lata Lavanya Laxmi Lakshmi Leela Lila Lila Lilavati Lina 
+		Kanchana Kanta Kanti Karishma Kashi Kasi Kaur Kausalya Kaveri Kri Kavita Kiran Kirtida Kishori Kishor 
+		Kshitija Kshitij Kumari Kumara Kunti Lalita Lata Lavanya Laxmi Lakshmi Leela Lila Lilavati Lina 
 		Lochana Lochan Madhavi Madhava Madhu Madhur Madhuri Mala Malati Malini Mandeepp Manisha Manju Manjula Manjusha Maya 
-		Meena Mina Meera Mira Mina Minali Mira Mitra Mithra Mohana Mohini Mridula Mukta Nalini Nandita Neela Nila Neelam 
-		Nilam Neha Niketa Nikita Nikhila Nikhil Nikita Nila Nilam Nilima Nirmalai Nirupama Nisha Nithya Nitya Nitika Nitya 
+		Meena Mina Meera Mira Minali Mitra Mithra Mohana Mohini Mridula Mukta Nalini Nandita Neela Nila Neelam 
+		Nilam Neha Niketa Nikita Nikhila Nikhil Nilima Nirmalai Nirupama Nisha Nithya Nitya Nitika 
 		Padma Padmavati Padmini Pallavi Pallav Parvati Poornima Purnima Pratibha Pratima Preeti Priti Prema Prem Pritha 
-		Priti Priya Purnima Pushpa Rachana Rachna Rachana Radha Rajani Rajkumari Rajni Rani Rashmi Rati Ratna Ravinderp 
-		Pravindra Reena Rina Reshmi Reva Rina Ritika Riya Roshanp Roshanarap Roshnip Rukmini Rupinderp Sandhya Sanjana 
-		Sarala Saral Saraswati Sarika Sarita Sashi Shashi Sati Savitri Seema Sima Seeta Sita Seetha Sita Shailaja Shakti 
-		Shakuntala Shanta Shanthi Sshanti Shanti Sharmila Shashi Sheela Shila Shila Shivali Shiva Shobha Shreya Shri Shweta 
-		Shyama Shyamala Shyamal Siddhi Sima Sita Sitara Sona Sonal Sri Shri Sudarshana Sudarshan Sulabha Sumati Sunita 
-		Sunitha Suniti Susheela Sushila Sushila Swapna Swarna Swati Tara Trishna Uma Upasana Urvi Usha Ushas Usha Vasanti 
-		Vasanta Vasuda Vasudha Vasundhara Veda Vena Vidya Vijaya Vimala Vimal Vina Yami Yamuna Yami
+		Priya Pushpa Rachana Rachna Radha Rajani Rajkumari Rajni Rani Rashmi Rati Ratna Ravinderp 
+		Pravindra Reena Rina Reshmi Reva Ritika Riya Roshanp Roshanarap Roshnip Rukmini Rupinderp Sandhya Sanjana 
+		Sarala Saral Saraswati Sarika Sarita Sashi Shashi Sati Savitri Seema Sima Seeta Seetha Sita Shailaja Shakti 
+		Shakuntala Shanta Shanthi Sshanti Shanti Sharmila Sheela Shila Shivali Shiva Shobha Shreya Shri Shweta 
+		Shyama Shyamala Shyamal Siddhi Sitara Sona Sonal Sri Sudarshana Sudarshan Sulabha Sumati Sunita 
+		Sunitha Suniti Susheela Sushila Swapna Swarna Swati Tara Trishna Uma Upasana Urvi Ushas Usha Vasanti 
+		Vasanta Vasuda Vasudha Vasundhara Veda Vena Vidya Vijaya Vimala Vimal Vina Yami Yamuna
 	}
 	male_names = {
 		Abhay Aditya Aditi Agni Ajeet Vajit Ajit Ajith Akash Akhil Amar Amit Amitabh Amrit Anand Ananta Ananth 
@@ -6288,7 +6254,7 @@ sahelian = {
 			Rawya Rayhana Reem Ridwana Rihanna Rim Rizwana Ruba Ruqayya Ruqayyah Ruwa Ruya Sa'adat Sabah Sabeen 
 			Sabriyya Sabri Sadaf Sa'dia Sa'di Safiya Safiyyah Sahar Sa'ida Sakina Salha Saliha Salima Salma Salwah 
 			Samar Sameera Samira Samia Samina Thamina Samiya Sana Saniyya Sanya Sawsan Sayyida Selima 
-			Shadiya Shadya Shadiya Shafaqat Shafiqa Shahd Shahira Shahnazpu Shahrazadr Shahrizad Shahrazad 
+			Shadiya Shadya Shafaqat Shafiqa Shahd Shahira Shahnazpu Shahrazadr Shahrizad Shahrazad 
 			Shaimaa Shakila Shakil Shakira Shakir Shakura Shakur Sham'a Sharifa Shayma Shazi Shukriya Shula 
 			Suha Suhaila Sultana Sumayya Suraya Tabassum Tahira Taliba Tasnim Thana Thurayya Tuba Uzma Wafiya 
 			Waheeda Wahida Widad Yasmeen Yusra Zaahira Zahia Zahida Zahira Zahra Zahrah Zaida Zaina Zainab Zakiah 
@@ -6955,8 +6921,8 @@ sudanese = {
 			Aarôn Aaron Aberikos Abraam Abraham Añgelos Angelus Andreas Andrew Athanasios Balô 
 			Bartholomaios Bartholomew Birêl Chael Christophoros Dauid David Dimetheos Timothy
 			Dioskoros Diônisios Dionysus Eliezer Eionkouda Emmanouel Emmanuel Enôch Enoch Ephannê Epimachos 
-			Epiphanios Gabriel Gabriel Gabrielkouda Gabrielophorou Gennatios Gennadius
-			Geôrgios George Hêlias Elias Hoase Jesse Hoassi Jesse Hoasse Jesse Iacob Jacob Ieremias 
+			Epiphanios Gabriel Gabrielkouda Gabrielophorou Gennatios Gennadius
+			Geôrgios George Hêlias Elias Hoase Hoassi Hoasse Jesse Iacob Jacob Ieremias 
 			Jeremiah Iêsous Jesus Iêsousinkouda Iôannou Jonah Iôannês John Iordanes Jordanes Ioseph Joseph 
 			Kalinikos Kallinikios Kollouthos
 			Krisanthos Chrystanthos Kuriakos Kyriakos Kurillos Cyril Lazaros Lazarus Leon Leo Leontios 
@@ -6975,7 +6941,7 @@ sudanese = {
 			Eionmnne Eionñoka Eitou Elisabeth Elizabeth Eirena Eirene Eirota Eirotatouññlki
 			Entaeiri Eôneille Ephannê Epimachosi Eudosia Eudoxia Eulabia Eusebia Eustephanou Fatima 
 			Genseoua Hellene Helen Hemene Iannia Joan Iêsousyko Ioustina Justina Kel Kerike Kersiami Kettoudi
-			Keudonia Kurake Kyriake Maraña Maria Maria Mariam Maria Mariane Marianou Michaêliko Michaela 
+			Keudonia Kurake Kyriake Maraña Mariam Maria Mariane Marianou Michaêliko Michaela 
 			Ñašša Ñeššadena Ñejin Ñilesa Ñojjl Ñoltou Ñonne Ñonnen Ñouddl Ñssitkitol Ouarenô Patrikia 
 			Patricia Pelagia Gulzar Maram
 			Penatti Pesanthia Petronia Prisisilla Priscilla Rahimah Sophia Sousanna Staurophania Theobronia 
@@ -6998,8 +6964,8 @@ sudanese = {
 			Aarôn Aaron Aberikos Abraam Abraham Añgelos Angelus Andreas Andrew Athanasios Balô 
 			Bartholomaios Bartholomew Birêl Chael Christophoros Dauid David Dimetheos Timothy
 			Dioskoros Diônisios Dionysus Eliezer Eionkouda Emmanouel Emmanuel Enôch Enoch Ephannê Epimachos 
-			Epiphanios Gabriel Gabriel Gabrielkouda Gabrielophorou Gennatios Gennadius
-			Geôrgios George Hêlias Elias Hoase Jesse Hoassi Jesse Hoasse Jesse Iacob Jacob Ieremias 
+			Epiphanios Gabriel Gabrielkouda Gabrielophorou Gennatios Gennadius
+			Geôrgios George Hêlias Elias Hoase Jesse Hoassi Hoasse Iacob Jacob Ieremias 
 			Jeremiah Iêsous Jesus Iêsousinkouda Iôannou Jonah Iôannês John Iordanes Jordanes Ioseph Joseph 
 			Kalinikos Kallinikios Kollouthos
 			Krisanthos Chrystanthos Kuriakos Kyriakos Kurillos Cyril Lazaros Lazarus Leon Leo Leontios 
@@ -7018,7 +6984,7 @@ sudanese = {
 			Eionmnne Eionñoka Eitou Elisabeth Elizabeth Eirena Eirene Eirota Eirotatouññlki
 			Entaeiri Eôneille Ephannê Epimachosi Eudosia Eudoxia Eulabia Eusebia Eustephanou Fatima 
 			Genseoua Hellene Helen Hemene Iannia Joan Iêsousyko Ioustina Justina Kel Kerike Kersiami Kettoudi
-			Keudonia Kurake Kyriake Maraña Maria Maria Mariam Maria Mariane Marianou Michaêliko Michaela 
+			Keudonia Kurake Kyriake Maraña Mariam Maria Mariane Marianou Michaêliko Michaela 
 			Ñašša Ñeššadena Ñejin Ñilesa Ñojjl Ñoltou Ñonne Ñonnen Ñouddl Ñssitkitol Ouarenô Patrikia 
 			Patricia Pelagia Gulzar Maram
 			Penatti Pesanthia Petronia Prisisilla Priscilla Rahimah Sophia Sousanna Staurophania Theobronia 
@@ -7648,8 +7614,8 @@ arawakan_g = {
 	
 	arawak = { #Taino
 		male_names = {
-			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
-			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+			Áhari Ebedimu Gunfuli Ilumani Semén
+			Wiwakaleme Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
 		}
 		female_names = {
 			Hayá Isani Takuiba Twengga
@@ -7660,8 +7626,8 @@ arawakan_g = {
 	}
 	west_taino = {
 		male_names = {
-			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
-			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+			Áhari Ebedimu Gunfuli Ilumani Semén
+			Wiwakaleme Haubariria Toratora Amorotahe Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
 		}
 		female_names = {
 			Hayá Isani Takuiba Twengga
@@ -7672,8 +7638,8 @@ arawakan_g = {
 	}
 	east_taino = {
 		male_names = {
-			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
-			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+			Áhari Ebedimu Gunfuli Ilumani Pirijá Semén
+			Wiwakaleme Haubariria Toratora Amorotahe Kaigouchi Shoko Laliwa Arah Arata Toruí Mbicy 
 		}
 		female_names = {
 			Hayá Isani Takuiba Twengga
@@ -7684,8 +7650,8 @@ arawakan_g = {
 	}
 	ineri = {
 		male_names = {
-			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
-			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+			Áhari Ebedimu Gunfuli Ilumani Semén
+			Wiwakaleme Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
 		}
 		female_names = {
 			Hayá Isani Takuiba Twengga
@@ -7697,7 +7663,7 @@ arawakan_g = {
 	shebaya = {
 		male_names = {
 			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
-			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+			Wiwakaleme Haubariria Toratora Amorotahe Shoko Laliwa Arah Arata Toruí Mbicy 
 		}
 		female_names = {
 			Hayá Isani Takuiba Twengga
@@ -7709,7 +7675,7 @@ arawakan_g = {
 	guajiro = { #	Lokono / Northern Mainland Arawak
 		primary = ARW
 		male_names = {
-			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+			Wiwakaleme Haubariria Toratora Amorotahe Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
 		}
 		female_names = {
 			Takuiba Twengga
@@ -7720,8 +7686,8 @@ arawakan_g = {
 	}
 	maipurean = {
 		male_names = {
-			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
-			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Semén
+			Wiwakaleme Haubariria Toratora Amorotahe Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
 		}
 		female_names = {
 			Hayá Isani Takuiba Twengga

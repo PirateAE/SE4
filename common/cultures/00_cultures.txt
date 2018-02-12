@@ -303,7 +303,7 @@ germanic = {
 		Charlotte Chiara Christa Christel Christiane Christina Christine Clara Claudia Constanze Cordula Corina Corinna 
 		Cornelia Dagmar Daniela Denise Desirée Désirée Diana Dietlind Dietlinde Dora Doris Dorothea Edda Edith Elena 
 		Eleonora Eleonore Elfriede Elisa Elisabeth Elise Elke Ella Ellen Elli Elly Elma Elsa Elsbeth Else Elvira Emelie 
-		Emely Emilia Emilie Emily Emma Emmeline Emmi Emmy Erdmute Erica Erika Erna Ester E cont. Esther Eugenie Eva Evelyn 
+		Emely Emilia Emilie Emily Emma Emmeline Emmi Emmy Erdmute Erica Erika Erna Ester E Esther Eugenie Eva Evelyn 
 		Fabienne Fanny Felicia Felicitas Felizia Felizitas Finja Finnja Fiona Flora Florentina Florentine Franziska Frauke 
 		Freya Frida Fridegunde Frieda Friedegund Friedegunde Friederike Gabriela Gabriele Genoveva Gerda Gerlind Gerlinde 
 		Gertraud Gertrud Gertrudis Gesine Gina Gisela Grete Gretel Grethe Gudrun Gunda Gundula Hanna Hannah Hanne Hannelore 
@@ -2171,7 +2171,7 @@ turko_semitic = { #Levantine   -Draiocht changed to Arabic
 		male_names = {
 			Muhammad Ahmad Qânsawh Tûmân Inâl Khusqadam 'Abd al-'Aziz al-Musta'in al-Nasr Faraj Barsbay 
 			Qâyit Bay Shaik al-Mahmudi Timurbughâ 'Uthman Yalbay Jânbulât Yûsuf Barqûq 'Alî Baybars Hâjjî 
-			Bakr al-Hasan Isma'îl Kûjûk Sâlih 'Abd al-Malik Basir Fadl Ghayth Hatim Ilyas Jabir Nadim Nizar 
+			Bakr al-Hasan Isma'îl Kûjûk Sâlih al-Malik Basir Fadl Ghayth Hatim Ilyas Jabir Nadim Nizar 
 			Sayyid Yunus Jaqmaq Qasim Sa'di Sha'bân Abû 
 		}
 		female_names = {
@@ -2206,7 +2206,7 @@ turko_semitic = { #Levantine   -Draiocht changed to Arabic
 			"Yaruba" "al-Said" "Usfurid" "Jarwanid" "Hashim"
 		}
 		male_names = {
-			Sulayman 'Abdallâh 'Alî 'Umar Dâ'ûd Hasan Sa'îd 'Abbas 'Abd al-Karim 'Abd al-Rahman Anwar Atuf Bakr 
+			Sulayman 'Abdallâh 'Alî 'Umar Dâ'ûd Hasan Sa'îd 'Abbas al-Karim 'Abd al-Rahman Anwar Atuf Bakr 
 			Faruq Fouad Hakim Harun Hikmat Hisham Husayn Isma'il Jafar Jamaal Karim Khalil Malîk Mirza Muhammad 
 			Qasim Rashîd Rusul Shimun Tarîq Usama Yasir Yusuf Zaid Zîyad Zulqifar Fahd Mustafa
 		}
@@ -2397,8 +2397,8 @@ maghrebi = {
 			"Ait Iraten" "Ait Idjer"
 		}
 		male_names = {
-			'Ali Ahmad Hasan Husayn Ibrahim Mustafa 'Abdallâh 'Abd ar-Rahmân Mûsâ 'Abd al-Wâhid Abû 
-			al-Hasan Sa'îd Sha'ban 'Umar Yûsuf Baba Aruj Khair ad-Din Selim 'Uthmân Yaghmurasân 'Abd 
+			'Ali Ahmad Hasan Husayn Ibrahim Mustafa 'Abdallâh 'Abd ar-Rahmân Mûsâ al-Wâhid Abû 
+			al-Hasan Sa'îd Sha'ban 'Umar Yûsuf Baba Aruj Khair ad-Din Selim 'Uthmân Yaghmurasân 
 			Barakat Basir Dawud Faris Haidar Hashim Jabbar Junayd Najib Qasim Rahim Rashîd Safi Sakhr 
 			Wahid Zahir Tâshufîn al-Karim Irgen Is'mail Ismail Isalcas Ishaq Isaac Isli Issam It'ij Itber Itri Ixfensen Ixzi 
 			Izri Jaffar Jamal Kadidu Kamal Karidenna Kawsen Kenan Keraja Khalid Khanchla Khenchela Khidr Kussil Lacumaces Laweye 
@@ -2508,7 +2508,7 @@ iranian	= {
 		primary = KHO
 		male_names = {
 			Abû Sa'îd Bâbur Badî al-Zamân Bâyqarâ Abu al-Qasim Mahmûd Shâh Rukh Ulugh Beg 'Abbas 'Abd 
-			'Abd al-Rahman 'Alî 'Abdallâh Anwar Bakr Fahd Faruq Fouad Hakim Harun Hisham Husayn Isma'il Jafar 
+			al-Rahman 'Alî 'Abdallâh Anwar Bakr Fahd Faruq Fouad Hakim Harun Hisham Husayn Isma'il Jafar 
 			Karim Khalil Malîk Mirza Muhammad Qasim Rashîd Sulayman Tarîq 'Umar Usama Yasir Yusuf Zaid Zîyad 
 			Zulqifar al-Karim Jamaal
 		}
@@ -4067,7 +4067,7 @@ east_asian = {	# Chinese Group
 	chihan = {	#Zhili
 		primary = YAN
 		male_names = {
-			Zhanji Zhanjun Zhanyong Zhanyin Zhangang Zhan'ao Zhankai Jianrui Jianlin Jianti 
+			Zhanji Zhanjun Zhanyin Zhangang Zhan'ao Zhankai Jianrui Jianlin Jianti 
 			Jianze Jianjun Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao 
 			Houwei Houxi Houcong Zairui Zaihou Yiling Yijun Yiliu Changluo Changhao 
 			Changyin Changbo Youxiao Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Ciheng 
@@ -4094,7 +4094,7 @@ east_asian = {	# Chinese Group
 	cantonese = {
 		primary = YUE
 		male_names = {
-			Zhanji Zhanjun Zhanyong Zhanyin Zhangang Zhan'ao Zhankai Jianrui Jianlin Jianti 
+			Zhanji Zhanjun Zhanyin Zhangang Zhan'ao Zhankai Jianrui Jianlin Jianti 
 			Jianze Jianjun Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao 
 			Houwei Houxi Houcong Zairui Zaihou Yiling Yijun Yiliu Changluo Changhao 
 			Changyin Changbo Youxiao Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Ciheng 
@@ -4121,7 +4121,7 @@ east_asian = {	# Chinese Group
 	jin = {
 		primary = JIN
 		male_names = {
-			Zhanji Zhanjun Zhanyong Zhanyin Zhangang Zhan'ao Zhankai Jianrui Jianlin Jianti 
+			Zhanji Zhanjun Zhanyin Zhangang Zhan'ao Zhankai Jianrui Jianlin Jianti 
 			Jianze Jianjun Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao 
 			Houwei Houxi Houcong Zairui Zaihou Yiling Yijun Yiliu Changluo Changhao 
 			Changyin Changbo Youxiao Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Ciheng 
@@ -4148,7 +4148,7 @@ east_asian = {	# Chinese Group
 	wu = {
 		primary = WUU
 		male_names = {
-			Zhanji Zhanjun Zhanyong Zhanyin Zhangang Zhan'ao Zhankai Jianrui Jianlin Jianti 
+			Zhanji Zhanjun Zhanyin Zhangang Zhan'ao Zhankai Jianrui Jianlin Jianti 
 			Jianze Jianjun Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao 
 			Houwei Houxi Houcong Zairui Zaihou Yiling Yijun Yiliu Changluo Changhao 
 			Changyin Changbo Youxiao Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Ciheng 
@@ -4175,7 +4175,7 @@ east_asian = {	# Chinese Group
 	chimin = {
 		primary = MIN
 		male_names = {
-			Zhanji Zhanjun Zhanyong Zhanyin Zhangang Zhan'ao Zhankai Jianrui Jianlin Jianti 
+			Zhanji Zhanjun Zhanyin Zhangang Zhan'ao Zhankai Jianrui Jianlin Jianti 
 			Jianze Jianjun Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao 
 			Houwei Houxi Houcong Zairui Zaihou Yiling Yijun Yiliu Changluo Changhao 
 			Changyin Changbo Youxiao Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Ciheng 
@@ -4202,7 +4202,7 @@ east_asian = {	# Chinese Group
 	hakka = {
 		primary = HUA
 		male_names = {
-			Zhanji Zhanjun Zhanyong Zhanyin Zhangang Zhan'ao Zhankai Jianrui Jianlin Jianti 
+			Zhanji Zhanjun Zhanyin Zhangang Zhan'ao Zhankai Jianrui Jianlin Jianti 
 			Jianze Jianjun Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao 
 			Houwei Houxi Houcong Zairui Zaihou Yiling Yijun Yiliu Changluo Changhao 
 			Changyin Changbo Youxiao Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Ciheng 
@@ -4229,7 +4229,7 @@ east_asian = {	# Chinese Group
 	gan = {
 		primary = NNG
 		male_names = {
-			Zhanji Zhanjun Zhanyong Zhanyin Zhangang Zhan'ao Zhankai Jianrui Jianlin Jianti 
+			Zhanji Zhanjun Zhanyin Zhangang Zhan'ao Zhankai Jianrui Jianlin Jianti 
 			Jianze Jianjun Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao 
 			Houwei Houxi Houcong Zairui Zaihou Yiling Yijun Yiliu Changluo Changhao 
 			Changyin Changbo Youxiao Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Ciheng 
@@ -4256,7 +4256,7 @@ east_asian = {	# Chinese Group
 	xiang = {
 		primary = CHC
 		male_names = {
-			Zhanji Zhanjun Zhanyong Zhanyin Zhangang Zhan'ao Zhankai Jianrui Jianlin Jianti 
+			Zhanji Zhanjun Zhanyin Zhangang Zhan'ao Zhankai Jianrui Jianlin Jianti 
 			Jianze Jianjun Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao 
 			Houwei Houxi Houcong Zairui Zaihou Yiling Yijun Yiliu Changluo Changhao 
 			Changyin Changbo Youxiao Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Ciheng 
@@ -4283,7 +4283,7 @@ east_asian = {	# Chinese Group
 	sichuanese = {
 		primary = SHU
 		male_names = {
-			Zhanji Zhanjun Zhanyong Zhanyin Zhangang Zhan'ao Zhankai Jianrui Jianlin Jianti 
+			Zhanji Zhanjun Zhanyin Zhangang Zhan'ao Zhankai Jianrui Jianlin Jianti 
 			Jianze Jianjun Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao 
 			Houwei Houxi Houcong Zairui Zaihou Yiling Yijun Yiliu Changluo Changhao 
 			Changyin Changbo Youxiao Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Ciheng 
@@ -4310,7 +4310,7 @@ east_asian = {	# Chinese Group
 	jianghuai = {
 		primary = MNG
 		male_names = {
-			Zhanji Zhanjun Zhanyong Zhanyin Zhangang Zhan'ao Zhankai Jianrui Jianlin Jianti 
+			Zhanji Zhanjun Zhanyin Zhangang Zhan'ao Zhankai Jianrui Jianlin Jianti 
 			Jianze Jianjun Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao 
 			Houwei Houxi Houcong Zairui Zaihou Yiling Yijun Yiliu Changluo Changhao 
 			Changyin Changbo Youxiao Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Ciheng 
@@ -4379,7 +4379,7 @@ east_asian = {	# Chinese Group
 	zhongyuan = {
 		primary = LNG
 		male_names = {
-			Zhanji Zhanjun Zhanyong Zhanyin Zhangang Zhan'ao Zhankai Jianrui Jianlin Jianti 
+			Zhanji Zhanjun Zhanyin Zhangang Zhan'ao Zhankai Jianrui Jianlin Jianti 
 			Jianze Jianjun Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao 
 			Houwei Houxi Houcong Zairui Zaihou Yiling Yijun Yiliu Changluo Changhao 
 			Changyin Changbo Youxiao Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Ciheng 
@@ -4406,7 +4406,7 @@ east_asian = {	# Chinese Group
 	shandong_culture = {
 		primary = QIC
 		male_names = {
-			Zhanji Zhanjun Zhanyong Zhanyin Zhangang Zhan'ao Zhankai Jianrui Jianlin Jianti 
+			Zhanji Zhanjun Zhanyin Zhangang Zhan'ao Zhankai Jianrui Jianlin Jianti 
 			Jianze Jianjun Jianpei Jianji Youji Youtang Youwan Youlun Youbing Youyun Youheng You'kai Houzhao 
 			Houwei Houxi Houcong Zairui Zaihou Yiling Yijun Yiliu Changluo Changhao 
 			Changyin Changbo Youxiao Youmo Youjian Youyi Youshan Ciran Ciyu Cijiong Ciheng 
@@ -4636,7 +4636,7 @@ malay = {
 			Vijaya Kauthara Panduranga Indrapura
 		}
 		male_names = {
-			"Ko cheng" "Jaya Sinhavarman" "Maija Vijaya" "Moho Kouei-Lai" "Maha Kui Yu" "Maha P'an-lo-yue" "Po Saktirai" "Po Ganvuh" "Po Thuttirai" "Po Rattirai" "Po Tathun" "Po Tithuntirai" "Chei Krei Brei" "Po Tithun" "Po Lathun" "Po Chong Chan" "Che Anan" "Tra Hoa" "Che Bong Nga" "Ko Cheng" "Jaya Indravarman"
+			"Jaya Sinhavarman" "Maija Vijaya" "Moho Kouei-Lai" "Maha Kui Yu" "Maha P'an-lo-yue" "Po Saktirai" "Po Ganvuh" "Po Thuttirai" "Po Rattirai" "Po Tathun" "Po Tithuntirai" "Chei Krei Brei" "Po Tithun" "Po Lathun" "Po Chong Chan" "Che Anan" "Tra Hoa" "Che Bong Nga" "Ko Cheng" "Jaya Indravarman"
 		}
 		female_names = {
 			Hòng Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu’utea Orama Poe Pear Poehina Poenui Poerava Puaiti 

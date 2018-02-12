@@ -1,0 +1,281 @@
+@@ -1,7721 +0,0 @@
+# Do not change tags in here without changing every other reference to them.
+ 
+# If adding new groups or cultures, make sure they are unique.
+ 
+#
+ 
+# Union tags do not suffer from the 'same_culture_group' tax penalty.
+ 
+# Primary tags are the first choice for rebel factions seeking cultural independence.
+ 
+#
+ 
+# graphical_culture = westerngfx
+ 
+# second_graphical_culture = muslimgfx (fallback if the first does not exist)
+ 
+
+ 
+germanic = {
+ 
+  graphical_culture = westerngfx
+ 
+
+ 
+  male_names = { Gunther Rolf }
+ 
+  
+ 
+  pommeranian = {
+ 
+    primary = POM
+ 
+    male_names = {
+ 
+      Boguslaw Barnim Ota Eryk Filip Franciszek Jan Fryderyk Georg Ernest 
+ 
+      Ludwik Albrecht Arnt August Bernhard Bodo Carl Emil Fritz Gerhard 
+ 
+      Gustav Harald Hendryk Herbert Hermann Jochem Maximiliam Reinhold 
+ 
+      Siegfried Walter Wilhelm Alexander Andrzej Antoni Antoninus Aron 
+ 
+      Bartosz Bartolomeus Bedrich 
+ 
+      Frederick Bezprzym Blazej Blaise Bogislaw Bohdan Bogdan Bohumir Boleslaw Boleslav 
+ 
+      Boriwoj Borijov Bozydar Theodat Branimir Branislav
+ 
+      Bretislav Bretislaus Casimir Ctibor Dobieslaw Dobromil Drosuk Dytryk Thierry Frantisek 
+ 
+      Francis Gawel Grzegorz Gregory Havel Gallus Jacenty Hyacinth Jakub Jakusz Jacob 
+ 
+      Janusz John Jaromar
+ 
+      Jaromil Jaromir Jaroslav Jedrzej Jindrich Henry Jir? George Jozef Joseph 
+      Juliusz Julian Kajetan Kamil Camillus Karel Charles Kasper Kazimierz Kliment Clement Kolman 
+ 
+      Koloman Kornel Cornelius Kresimir Krzeslaw
+ 
+      Krzysztof Christopher Lech Leszek Lubomir Lucjan Lucius Ludvik Louis Marek Marcus Marian Marius 
+ 
+      Martin Mateusz Matthew Mieszko Mikol?s Nicholas Miloslaw Milosz Miroslaw 
+      Mscislaw Mstislav Msciwoj
+ 
+      Oldrich Ulrich Ondrej Andrew Otokar Patryk Patrick Pawel Paul Piotr Peter Prendota Przemysl 
+ 
+      Premysl Przybyslaw Radomil Radomir Radoslav Rostislav Ryszard Richard Sambor Sobieslav Sobeslaus 
+ 
+      Stanislaw
+ 
+      Strasz Swietopelk Svatopluk Swietoslaw Sviatoslav Szczepan Stephen Szczesny Szymon Tadeusz 
+ 
+      Theodore Tomasz Thomas Udalrich Urjasz Vojtech Albert Waclaw Walenty Valentin Wratislaw 
+ 
+      Vratislav Wawrzyniec Laurence Wenceslaw Vaclav
+ 
+      Wincenty Vincent Wizlaw Wladyslaw Wlodek Wlodzimierz Wlodzislaw Wratislaw 
+ 
+      Zbigniew Zbynek Zdenek Zdislav Zygmunt Sigmund
+ 
+    }
+ 
+    female_names = {
+ 
+      Gabriela Helena Janina
+ 
+      Agnieszka Agnes Alzbeta Andela Anna Berta Bohuslava Bozena Branislava Dagmar Danuta Dobravy 
+ 
+      Dobroniega Dorota Dorothy Dragomira Edyta Ewa Geira Gertruda Gertrude
+ 
+      Gracja Grazyna Halina Hanna Irena Izabela Jadwiga Jarka Jarmila Jolanta Judyta Judith Kamila 
+ 
+      Katarina Catherine Kenna Kornelia Krystyna Christina Ksenia Lidia
+ 
+      Ludmila Magda Magdalena Malgorzata Marcelina Maria Mark?ta Martyna 
+      Mateja Matylda Matilda Milena Miroslava Pechna R?za Radomila Radomira Radoslava
+      Raina Regelinda Rycheza Salomea Smiechna Stanislava Stefana Stephania Svetlana Urszula V?clava 
+      Vladislava Wera Wojslawa Zdenka Zofia Zwinislawa
+ 
+    }
+ 
+    dynasty_names = {
+ 
+      "von Klinckow" "von Puttkamer" "von Barnekow" "von Strantz" "Gryf" "Wizlawid"
+ 
+      "von Krassow" "von der Lancken" "von Schlieffen" "von Schwerin"
+ 
+      "von Sch?ning" "von Suhm" "von Maltzahn" "von Below" "von Blixen" "von Borcke"
+      "von Buggenhagen" "von Manteuffel" "von Corswant" "von Stralenheim" "von Dewitz" "von Preen" "von Podewils"
+ 
+      "von Flemming" "von Platen" "von Neuenkirchen" "von Gottberg" "von Hackewitz" "von Hennigs" "Trampe" "von Hertzberg" "von Heyden" "von Kameke" "von Kleist" "Natzmer" 
+ 
+      "von Zepelin" "von Gostowski" "von Wakenitz"
+ 
+      "von Usedom" "Thun" "von Thadden"
+ 
+      #CKII
+ 
+      "Gryfita" "z Pomorza" "Grzymala" "Jastrzebiec" "Lubicz" "Nalecz" "Slaweka" "ze Slupska"
+ 
+      "Gniewosz"
+ 
+    }
+ 
+  }
+ 
+  prussian = {
+ 
+    primary = PRU
+ 
+    male_names = {
+ 
+      Albrecht Friedrich August Emil Ferdinand Ludwig Karl Wilhelm Adolf Alfred Anton Benedikt 
+ 
+      Benjamin Denis Diederick Eckbert Erwin Florian Franz Gebhard Gottfried Hartmann Heinrich Helmut 
+ 
+      Horst Joachim Kaspar Kurt Leo Ludwig Lukas Manfred Michael Nikolaus Oskar Otto Philipp Reiner Rudolf 
+ 
+      Rupprecht Siegfried Siegmund Thomas Urs Viktor Werner Alvydas Arelis Auctune Bajoras Beidras Budo Dagonis 
+ 
+      Ekkelis Galindas Galindo Gauronas Gerdautas Glande Golding Jauguttis Karatas Klukis Kugis Milzas Nomedas 
+ 
+      Prusas Sergonis Ulinniks Ulitis
+ 
+    }
+ 
+    female_names = {
+ 
+      Raphaela Sabine Vera Betten Dagas Gelennis Gerkus Grasus Gulbis Mila Milyuns Weslikan Ziedas
+ 
+    }
+ 
+  }
+ 
+  hannoverian = {
+ 
+    primary = HAN
+ 
+    male_names = {
+ 
+      Ernst Adolf Alfred August Christian Eduard Friedrich Georg Karl Philipp Maximilian Octavius Wilhelm 
+ 
+      Alexander Alois Anton Bruno Clemens Denis Gerfried Gottfried G?nther Helmut Herbert Ignatz Isidor 
+      Konstantin Kuno Markus Martin Oskar Reinhard Silvester Stefan Waldemar Jakob
+ 
+    }
+ 
+    female_names = {
+ 
+      Amanda Beate Debora Sara Anne Saga Sibyl Joanna Joanne Adele Adelgunde Adelheid Adolfine Agatha Agnes Alexandra Alice Alina Aline Alma Alwina Alwine Amalia Amalie 
+ 
+    }
+ 
+  }
+ 
+  hessian = {
+ 
+    primary = HES
+ 
+    male_names = {
+ 
+      Wilhelm Ludwig Friedrich Hermann Karl Moritz Philipp Heinrich Otto Adolf Christian Georg Leopold 
+ 
+      Philipp Adelmar Albrecht Barnabas Denis Egon Erich Gerhard Gottlieb Gregor Hagan Helmut Isaak Isidor 
+ 
+      Joachim Joseph Kreszens Lothar Oskar Siegfried Stefan Thomas Wenzel Werner Wolfram Maximilian Ivo
+ 
+    }
+ 
+    female_names = {
+ 
+      Corinna Else Hedwig Helene Helen Hildegard Hrothwina Ida Imma Emma Irmgard Charlotte Chiara 
+ 
+      Christa Christel Christiane Christina Christine Clara Claudia Constanze
+ 
+    }
+ 
+  }
+ 
+  saxon = {
+ 
+    primary = SAX
+ 
+    male_names = {
+ 
+      Friedrich Albrecht Christian Heinrich Rudolf August Ernst Georg Moritz Alexander Anton Hektor 
+ 
+      Johann Karl Clemens Wenzel Franz Xaver Joachim Joseph Magnus Maximilian Severinus Wolfgang 
+ 
+      Andreas Bruno Burkhard G?nther HermannLukas Micharl Reimund Ulrich Wilfried Wolfram Konrad Edwin Marcus Osmund Peter Ralph Reginald Sigehelm Wulfhelm Wulfhere Alfred
+      Alwin Ad?mar Alwin Adolf Albert Albrecht Arnold Baltasar
+      Benedict Bernd Bernard Bernhard Bertold Bertram Bertrand Burchard 
+ 
+      Claus Nicholas Cobbo Cord Dietmar Diederik Ekkehard Ekbert Engelbert Engelhard 
+ 
+      Erik Albert Ewald Frederick Gerard Gebhard Giselmar Gottschalk G?nther Hans 
+      Heideke Herbert Hermann Hinrik Jacob Jaspar Caspar Jochim Joakim Johann Kersten 
+ 
+      Christian Laurentz Lambert Liawizo Liemar Liudger Otto Ludolf Ludwig
+ 
+      Louis Mathias Matthew Meinwerk Merten Martin Michael Norbert Ordulf 
+ 
+      Peter Philip Renard Reinmar Roger Rudolf Ralph Sigbert Sigisbert
+ 
+      Sigfrid Siegfried Sigward Sigurd Simon Steffen Thomas Waldemar
+ 
+      Werner Victor Werneke Weybrecht Wichbert Wichmann Wigebert Wolter Walter Wulff Ulf
+ 
+    }
+ 
+    female_names = { 
+ 
+      Amalia Bianka Eleonora
+ 
+      Agatha Balthild
+ 
+      Christina Cuthburg 
+ 
+      Cynehild Cyneswith Cynethryth Eadburg Edith 
+ 
+      Gunhilda Gunhild Helga Judith
+ 
+      Maud Matilda Sigri 
+ 
+      Wulfhild
+ 
+      Addila Adela Adelheid Alof Agnes Anna Athela Beatrix Beatrice Bertha 
+ 
+      Bertrada Bia Beatrice Bisina Bithild Brigida Brigid Elisabeth 
+ 
+      Elisabeth Enda Gertrud Gisela
+ 
+      Hedwig Heilwig Helene Hildegard Ida Emma Irmgard 
+ 
+      Judith Katharina
+ 
+      Margarete Mathilde Matilda Mechthild Reginlint 
+ 
+      Richardis Ricarda Rodelinda Sophia Suanhilde Swanahild Wienke 
+ 
+      Wiltrud Wulfhild Ulfhild
+ 
+    }
+ 
+    dynasty_names = {
+ 
+      "von Schwarzburg" "von Sch?nburg" "von Schlotheim" "von Salza" "von Kospoth"
+      "von Knuth" "von Wettin" "Askanier" "von Hohenzollern" "von Erffa" "von Bodungen" "von Eckersberg" "von Brandenstein" "von Pappenheim" "von Wiehe"
+ 
+      "von Westernhagen" "von Jena" "von Tr?tzschler" "von Plessen" "von Haugwitz" "von Kanitz" "von Falkenhayn" "von Th?n
+      "von Th?ringen" "von Nostitz" "von Bieberstein" "von Meerheimb" "von Freiberg" "von Neitsch?tz" "von Minckwitz" "von Arnswaldt" "von Auerswald" "aus dem Wincke
+      "von Beichlingen" "von Bendeleben" "von Beneckendorff"  "von Berbisdorf" "von Bissingen" "von Bock" "von Bomsdorff" "von Bose" "von Breitenbach"
+ 
+      "von Breitenbuch" "von Br?hl" "von B?nau" "von Hoym" "Holtzendorff" "von Hohenthal" "von Heynitz" "von Hessler" "von Helldorff" "von Harling" "von G?rschen" "von Glaub
+      "von Gfug" "von Gersdorff" "von Germar" "von Fritsch" "von Friesen" "von Flanss" "von Etzdorff" "von Erdmannsdorff" "von Einsiedel" "von Dyhrn" "von Dieskau" "von Creytzen" "von Carlowitz" "von Maltitz" "von Mansfeld" "von Miltitz" "von M?cheln" "von Pflugk" "von P?lnitz" "von Ponickau" "von Racke
+      "von Raumer" "von Rechenberg" "von Rex" "Sack" "von Scheidingen" "von Schleinitzstrasse" "von Sch?nberg" "Senfft von Pilsach" "von Stolberg" "von Kannewurf" "Karras" "von Keller" "von Kirchbach" "von Sternberg" "von Leisnig"
+      "von Liebenau" "von Loeben" "von Logau" "von L?ttichau" "von Taube" "von Tettau" Vitzthum "von Wolffersdorff" W?hrmann "von Werthern" "von Wackerbarth" "von Bredow" "von Brand
+    }
+ 
+  }

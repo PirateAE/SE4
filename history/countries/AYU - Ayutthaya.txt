@@ -41,7 +41,7 @@ historical_rival = MLC
 		leader = { 
 			name = "Borommaracha II"
 			type = general
-			rank = 0
+
 			fire = 2	
 			shock = 4	
 			manuever = 3	
@@ -58,7 +58,7 @@ historical_rival = MLC
 		adm = 1
 		dip = 2
 		mil = 3
-		leader = { name = "Borommaracha II"      	type = general	rank = 0	fire = 2	shock = 4	manuever = 3	siege = 1 }
+		leader = { name = "Borommaracha II"      	type = general	fire = 2	shock = 4	manuever = 3	siege = 1 }
 	}
 }
 
@@ -121,7 +121,7 @@ historical_rival = MLC
 		adm = 2
 		dip = 1
 		mil = 1
-		leader = { name = "Ramathibodi II"      type = general	rank = 0	fire = 1	shock = 3	manuever = 4	siege = 0 }
+		leader = { name = "Ramathibodi II"      type = general	fire = 1	shock = 3	manuever = 4	siege = 0 }
 	}
 }
 
@@ -132,7 +132,7 @@ historical_rival = MLC
 		adm = 2
 		dip = 1
 		mil = 1
-		leader = { name = "Ramathibodi II"      type = general	rank = 0	fire = 1	shock = 3	manuever = 4	siege = 0 }
+		leader = { name = "Ramathibodi II"      type = general	fire = 1	shock = 3	manuever = 4	siege = 0 }
 	}
 }
 
@@ -306,7 +306,7 @@ historical_rival = MLC
 		adm = 4
 		dip = 3
 		mil = 5
-		leader = { name = "Naresuen"	type = general	rank = 0	fire = 2	shock = 3	manuever = 4	siege = 1 }
+		leader = { name = "Naresuen"	type = general	fire = 2	shock = 3	manuever = 4	siege = 1 }
 	}
 }
 
@@ -322,7 +322,7 @@ historical_rival = MLC
 		dip = 3
 		mil = 5
 		
-		leader = { name = "Naresuen"	type = general	rank = 0	fire = 2	shock = 3	manuever = 4	siege = 1 }
+		leader = { name = "Naresuen"	type = general	fire = 2	shock = 3	manuever = 4	siege = 1 }
 	}
 }
 
@@ -453,7 +453,7 @@ historical_rival = MLC
 		adm = 2
 		dip = 1
 		mil = 1
-		leader = { name = "Narai"	type = general	rank = 0	fire = 2	shock = 2	manuever = 2	siege = 0 }
+		leader = { name = "Narai"	type = general	fire = 2	shock = 2	manuever = 2	siege = 0 }
 	}
 }
 1656.8.8 = {
@@ -463,7 +463,7 @@ historical_rival = MLC
 		adm = 2
 		dip = 1
 		mil = 1
-		leader = { name = "Narai"	type = general	rank = 0	fire = 2	shock = 2	manuever = 2	siege = 0 }
+		leader = { name = "Narai"	type = general	fire = 2	shock = 2	manuever = 2	siege = 0 }
 	}
 }
 
@@ -603,7 +603,7 @@ historical_rival = MLC
 	}
 }
 
-1760.1.1 = { leader = {	name = "Ponney"		type = general	rank = 3	fire = 4	shock = 3	manuever = 3	siege = 0	death_date = 1770.1.1 } }
+1760.1.1 = { leader = {	name = "Ponney"		type = general	fire = 4	shock = 3	manuever = 3	siege = 0	death_date = 1770.1.1 } }
 
 
 1767.4.8 = {
@@ -613,7 +613,7 @@ historical_rival = MLC
 		adm = 4
 		dip = 4
 		mil = 6
-		leader = { name = "Taksin"	type = general	rank = 0	fire = 2	shock = 4	manuever = 4	siege = 0 }
+		leader = { name = "Taksin"	type = general	fire = 2	shock = 4	manuever = 4	siege = 0 }
 	}
 }
 
@@ -624,7 +624,7 @@ historical_rival = MLC
 		adm = 5
 		dip = 3
 		mil = 5
-		leader = { name = "Rama I"	type = general	rank = 0	fire = 2	shock = 4	manuever = 4	siege = 0 }
+		leader = { name = "Rama I"	type = general	fire = 2	shock = 4	manuever = 4	siege = 0 }
 	}
 }
 

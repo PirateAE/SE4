@@ -2,28 +2,32 @@ government = iqta
 technology_group = muslim
 religion = sunni
 primary_culture = afghani
-capital = 447	# Kandahar
+capital = 451	# Kabul
+religious_school = hanafi_school
 
-1444.1.1 = {
+#Timurid Governors of Kabul, sons of Soyurghatmish
+1443.1.1 = {
 	monarch = {
-		name = "Regency"
-		adm = 3
-		dip = 3
-		mil = 3
-		regent = yes
+		name = "Karatshar bin Soyurghatmish"
+		culture = uzbehk
+		dynasty = "Timurid"
+		adm = 2
+		dip = 4
+		mil = 2
 	}
 }
+#1451 falls to Babur bin Baysonqor
 
 #Kingdom of the Mughal prince Hakim
 1565.1.1 = {
 	monarch = {
 		name = "Hakim"
 		dynasty = "Timurid"
+		culture = kanauji
 		adm = 2
 		dip = 2
 		mil = 3
 	}
-	capital = 451	# Kabul
 }
 
 #Ghilzai Dynasty
@@ -40,8 +44,8 @@ capital = 447	# Kandahar
 
 1707.1.1 = {
 	heir = {
-		name = "Mir 'Abd-al'Aziz"
-		monarch_name = "Mir 'Abd-al'Aziz"
+		name = "Mir 'Abd al-'Aziz"
+		monarch_name = "Mir 'Abd al-'Aziz"
 		dynasty = "Ghilzai"
 		birth_date = 1700.1.1
 		death_date = 1716.3.1

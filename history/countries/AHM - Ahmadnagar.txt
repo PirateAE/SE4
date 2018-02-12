@@ -4,6 +4,7 @@ religion = sunni
 primary_culture = marathi
 capital = 544	# Ahmadnagar
 fixed_capital = 544 # Cannot move capital away from this province & no power cost to move to it
+religious_school = hanafi_school
  
 1444.11.1 = {
 	monarch = {
@@ -36,6 +37,7 @@ fixed_capital = 544 # Cannot move capital away from this province & no power cos
 		ADM = 2
 		DIP = 4
 		MIL = 3
+		religion = shiite
 	}
 }
 
@@ -46,6 +48,7 @@ fixed_capital = 544 # Cannot move capital away from this province & no power cos
 		ADM = 2
 		DIP = 4
 		MIL = 3
+		religion = shiite
 	}
 }
 
@@ -254,7 +257,7 @@ fixed_capital = 544 # Cannot move capital away from this province & no power cos
 		DIP = 1
 		MIL = 3
 	}
-	leader = {	name = "Malik Ambar"	type = general	rank = 0	fire = 3	shock = 5	manuever = 3	siege = 1 death_date = 1626.1.1 }
+	leader = {	name = "Malik Ambar"	type = general	fire = 3	shock = 5	manuever = 3	siege = 1 death_date = 1626.1.1 }
 	government = administrative_monarchy
 }
 

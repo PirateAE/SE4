@@ -3,6 +3,8 @@ primary_culture = yemeni_culture
 religion = sunni
 technology_group = muslim
 capital = 390	# Sana'a
+government_rank = 1
+religious_school = shafii_school
 
 #Imams of Yemen
 1377.1.1 = {
@@ -149,13 +151,13 @@ capital = 390	# Sana'a
 
 1444.11.11 = { capital = 390 }
 
-1447.1.1 = {
+1444.1.1 = {
 	monarch = {
 		name = "Salâh ad-Din 'Amir I"
 		dynasty = "Tahirid"
 		adm = 4
-		dip = 2
-		mil = 2
+		dip = 4
+		mil = 4
 	}
 }
 

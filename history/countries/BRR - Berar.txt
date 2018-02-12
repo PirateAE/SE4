@@ -1,8 +1,9 @@
 government = iqta
 technology_group = indian
-religion = sunni
+religion = shiite
 primary_culture = marathi
 capital = 548	# Berar/Vidharba
+religious_school = jafari_school
 
 1444.1.1 = {
 	monarch = {

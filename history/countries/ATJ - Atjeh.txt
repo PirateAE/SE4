@@ -1,19 +1,19 @@
-government = despotic_monarchy
+government = iqta
 primary_culture = acehnese
 religion = sunni
 technology_group = chinese
 capital = 617	# Banda Aceh
-
+religious_school = shafii_school
 
 1399.1.1 = {
 	monarch = {
 		name = "Inayat Shah"
 		dynasty = "Inayat"
-		adm = 3
-		dip = 3
-		mil = 3
+		adm = 2
+		dip = 1
+		mil = 2
 	}
-	add_piety = 0.1
+	add_piety = -0.1
 }
 
 1453.1.1 = {
@@ -22,7 +22,7 @@ capital = 617	# Banda Aceh
 		dynasty = "Mugâyat"
 		adm = 3
 		dip = 3
-		mil = 3
+		mil = 1
 	}
 }
 
@@ -34,13 +34,13 @@ capital = 617	# Banda Aceh
 		birth_date = 1500.1.1
 		death_Date = 1537.1.1
 		claim = 95
-		adm = 3
-		dip = 2
-		mil = 4
+		adm = 1
+		dip = 1
+		mil = 2
 	}
 }
 
-1530.1.1 = {
+1528.1.1 = {
 	monarch = {
 		name = "Salâh ad-Dîn Ibrâhîm"
 		dynasty = "Mugâyat"
@@ -50,7 +50,7 @@ capital = 617	# Banda Aceh
 	}
 }
 
-1530.1.1 = {
+1528.1.1 = {
 	heir = {
 		name = "'Alâ ad-Dîn al-Qahhar"
 		monarch_name = "'Alâ ad-Dîn al-Qahhar"
@@ -60,7 +60,7 @@ capital = 617	# Banda Aceh
 		claim = 95
 		adm = 5
 		dip = 3
-		mil = 3
+		mil = 1
 	}
 }
 
@@ -70,7 +70,7 @@ capital = 617	# Banda Aceh
 		dynasty = "Mugâyat"
 		adm = 5
 		dip = 3
-		mil = 3
+		mil = 1
 	}
 }
 
@@ -247,9 +247,9 @@ capital = 617	# Banda Aceh
 		birth_date = 1583.1.1
 		death_date = 1636.1.1
 		claim = 95
-		adm = 6
-		dip = 3
-		mil = 6
+		adm = 4
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -257,9 +257,9 @@ capital = 617	# Banda Aceh
 	monarch = {
 		name = "Iskandar Muda Shâh"
 		dynasty = "Mugâyat"
-		adm = 6
-		dip = 3
-		mil = 6
+		adm = 4
+		dip = 2
+		mil = 2
 	}
 }
 
@@ -271,8 +271,8 @@ capital = 617	# Banda Aceh
 		birth_date = 1600.1.1
 		death_Date = 1641.1.1
 		claim = 95
-		adm = 4
-		dip = 2
+		adm = 0
+		dip = 1
 		mil = 1
 	}
 }
@@ -281,8 +281,8 @@ capital = 617	# Banda Aceh
 	monarch = {
 		name = "Iskandar Tanî 'Alâ ad-Dîn"
 		dynasty = "Mugâyat"
-		adm = 4
-		dip = 2
+		adm = 0
+		dip = 1
 		mil = 1
 	}
 }

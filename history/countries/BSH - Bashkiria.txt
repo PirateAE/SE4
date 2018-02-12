@@ -4,6 +4,7 @@ add_accepted_culture = nogaybak
 religion = sunni
 technology_group = nomad_group
 capital = 475	# Bashkortostan
+religious_school = hanafi_school
 
 1444.1.1 = {
 	monarch = {

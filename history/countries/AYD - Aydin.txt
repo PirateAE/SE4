@@ -1,10 +1,10 @@
-government = ghazi_state
+government = despotic_monarchy
 government_rank = 1
 primary_culture = turkish
 religion = sunni
 technology_group = ottoman
-capital = 318	# Smyrna
-
+capital = 4309	# Aydin
+religious_school = hanafi_school
 
 1402.1.1 = {
 	monarch = {

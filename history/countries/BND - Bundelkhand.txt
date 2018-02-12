@@ -17,6 +17,7 @@ capital = 559	# Bundelkhand
 	capital = 2059 #Kalpi
 	government = iqta
 	religion = sunni
+	religious_school = shafii_school
 }
 
 1399.1.1 = {

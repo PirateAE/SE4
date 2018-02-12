@@ -3,6 +3,7 @@ primary_culture = bengali
 religion = sunni
 technology_group = indian
 capital = 563	# Pandua
+religious_school = hanafi_school
 historical_friend = ARK
 
 #Sultans of Bengal
@@ -449,10 +450,11 @@ historical_friend = ARK
 	monarch = {
 		name = "Sher Shah"
 		dynasty = "Suri"
+		culture = afghani
 		ADM = 6
 		DIP = 4
 		MIL = 6
-	leader = {	name = "Sher Shah"	type = general	rank = 0	fire = 2	shock = 5	manuever = 5	siege = 2}
+	leader = {	name = "Sher Shah"	type = general	fire = 2	shock = 5	manuever = 5	siege = 2}
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = conqueror_personality
@@ -465,6 +467,7 @@ historical_friend = ARK
 	heir = {
 		name = "Islam Shah"
 		monarch_name = "Islam Shah"
+		culture = afghani
 		dynasty = "Suri"
 		birth_date = 1510.1.1
 		death_date = 1545.4.23

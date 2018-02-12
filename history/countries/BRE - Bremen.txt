@@ -23,3 +23,5 @@ historical_friend = RIG #Riga
 1444.11.11 = { government = imperial_city }
 
 1532.1.1 = { religion = protestant }
+
+1806.7.12 = { government = administrative_republic }

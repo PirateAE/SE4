@@ -4,6 +4,7 @@ religion = shiite
 primary_culture = kannada
 capital = 569	# Bijapur
 fixed_capital = 569 # Cannot move capital away from this province & no power cost to move to it
+religious_school = jafari_school
 
 1444.1.1 = {
 	monarch = {
@@ -116,6 +117,7 @@ fixed_capital = 569 # Cannot move capital away from this province & no power cos
 		MIL = 2
 	}
 	religion = sunni	#Ibrahim Shah as part of an attempt to indiginize his regime does away with shiite rites and also starts to issue royal edicts in the local language
+	religious_school = hanafi_school
 }
 
 1535.2.20 = {
@@ -228,7 +230,7 @@ fixed_capital = 569 # Cannot move capital away from this province & no power cos
 }
 
 1660.1.1 = {
-	leader = { name = "Yakut Khan"		type = admiral	rank = 0	fire = 3	shock = 2	manuever = 4	siege = 0 
+	leader = { name = "Yakut Khan"		type = admiral	fire = 3	shock = 2	manuever = 4	siege = 0 
 	death_date = 1686.1.1 #Goes to mughals
 	}
 }

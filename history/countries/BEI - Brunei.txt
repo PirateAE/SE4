@@ -3,6 +3,7 @@ primary_culture = bornean
 religion = sunni
 technology_group = chinese
 capital = 636	# Brunei Town
+religious_school = shafii_school
 historical_friend = SUL
 
 1399.1.1 = {
@@ -75,7 +76,7 @@ historical_friend = SUL
 		adm = 2
 		dip = 4
 		mil = 6
-		leader = {	name = "Bulkiah"               	type = general	rank = 0	fire = 4	shock = 3	manuever = 4	siege = 0}
+		leader = {	name = "Bulkiah"               	type = general	fire = 4	shock = 3	manuever = 4	siege = 0}
 	}
 }
 
@@ -86,7 +87,7 @@ historical_friend = SUL
 		adm = 2
 		dip = 4
 		mil = 6
-		leader = {	name = "Bulkiah"               	type = general	rank = 0	fire = 4	shock = 3	manuever = 4	siege = 0}
+		leader = {	name = "Bulkiah"               	type = general	fire = 4	shock = 3	manuever = 4	siege = 0}
 	}
 }
 

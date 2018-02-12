@@ -1318,7 +1318,7 @@ na_dene = {
 			Popé Ku-htihth Galisteo Xenome Ollito Tagu Bolsas Naranjo Catiti
 		}
 		female_names = {
-			Ootcakao Kahavasooah Ootcakao Sacagawea Chipeta Tocmetone
+			Kahavasooah Ootcakao Sacagawea Chipeta Tocmetone
 		}
 	}
 	kiowa = {
@@ -1349,7 +1349,7 @@ na_dene = {
 			Popé Ku-htihth Galisteo Xenome Ollito Tagu Bolsas Naranjo Catiti
 		}
 		female_names = {
-			Ootcakao Kahavasooah Ootcakao Sacagawea Chipeta Tocmetone
+			Kahavasooah Ootcakao Sacagawea Chipeta Tocmetone
 		}
 	}
 	
@@ -1363,7 +1363,7 @@ na_dene = {
 			Popé Ku-htihth Galisteo Xenome Ollito Tagu Bolsas Naranjo Catiti
 		}
 		female_names = {
-			Ootcakao Kahavasooah Ootcakao Sacagawea Chipeta Tocmetone
+			Kahavasooah Ootcakao Sacagawea Chipeta Tocmetone
 		}
 	}
 	zuni = {
@@ -1376,7 +1376,7 @@ na_dene = {
 			Popé Ku-htihth Galisteo Xenome Ollito Tagu Bolsas Naranjo Catiti
 		}
 		female_names = {
-			Ootcakao Kahavasooah Ootcakao Sacagawea Chipeta Tocmetone
+			Kahavasooah Ootcakao Sacagawea Chipeta Tocmetone
 		}
 	}
 }
@@ -1477,17 +1477,17 @@ septrional_creoles = {
 			Young Yelverton
 		}
 		male_names = {
-			Henry Henry Frederick Charles James Edgar Edmund 
-			George Adam 
+			Frederick Charles James Edgar Edmund 
+			Adam 
 			Benjamin Francis 
 			Lawrence
 
-			Adam Alan Albert Alexander Alfred Andrew Anselm Arnold Arthur Aubrey Christopher David 		
-			Edmund Edward Eric Erik Eustace Fulk Folke Geoffrey George Gerald Gilbert Godfrey Gregory Guy 
+			Alan Albert Alexander Alfred Andrew Anselm Arnold Arthur Aubrey Christopher David 		
+			Edward Eric Erik Eustace Fulk Folke Geoffrey George Gerald Gilbert Godfrey Gregory Guy 
 			Henry Hugh Humphrey Jocelyn John Jordan Laurence Lionel Mark Marcus Martin Matthew Maurice 
 			Michael Nicholas Paul Peter Philip Ralph Randolph Reginald Richard Robert Roger Simon Stephen 
-			Theobald Thomas Waleran Walter William Jacob Ambrose Anthony Archibald Benjamin Daniel Ernest 
-			Francis Horatio Isaac Jeremy Jonathan Joseph Lawrence Nehemiah Oliver Samuel Sydney 
+			Theobald Thomas Waleran Walter William Jacob Ambrose Anthony Archibald Daniel Ernest 
+			Horatio Isaac Jeremy Jonathan Joseph Nehemiah Oliver Samuel Sydney 
 		}
 		female_names = {
 			Jane Adela Adelaide Alice Amice Anne Anna Aveline Avelina Beatrice Blanche Catherine Cecilia 
@@ -1528,7 +1528,7 @@ septrional_creoles = {
 			Donada Donella Edith Edna Effie Eilionoir Eimhir Emer Eithne Ela Eleanor Elspeth Euna Eva 
 			Fenella Fingola Flora Forflissa Galiena Glenna Gormelia Gormflaith Gruoch Helen Innes Iona 
 			Isabel Isla Isobel Jean Julia Juliana Kenna Kentigerna Kirstin Christina Lillias Elisabeth 
-			Lorna Malmure Maisie Malina Mariota Martha Marthoc Marjory Mary Maud Matilda Maura Maria 
+			Lorna Malmure Maisie Malina Mariota Martha Marthoc Marjory Maud Matilda Maura Maria 
 			Mirren Morag Mor Morna Moyna Mona Muriel Murron Nuala Finnguala Orabilia Peigi Margaret 
 			Rhonda Rodina Ronalda Ragnhild Ros Saundra Alexandra Sheena Shona Joan Sholto Slaine Sorcha 
 			Una
@@ -1648,9 +1648,9 @@ new_american = {
 			"de Valois" Bonaparte 
 			"de Lorraine"
 			"de Rohan" "d'Albert" "d'Escoubleau" 
-			"de Valois" "de Bourbon" "de Tour" "de Anjou" 
-			"de Lorraine" "de Foix" "de Montfort" "de Blois" "de Penthievre" "de Dreux"
-			"de Rohan" "de Bar" "d'Albert" "d'Escoubleau" "de Neufville" "de Bourgogne"
+			"de Bourbon" "de Tour" "de Anjou" 
+			"de Foix" "de Montfort" "de Blois" "de Penthievre" "de Dreux"
+			"de Bar" "de Neufville" "de Bourgogne"
 			"de Castellane" "d'Auvergne" "de Montbéliard" "de Metz" 
 			#CKII Frankish
 			"de Laval" "de la Tour du Pin" "de Trémoille" "de Créquy" "de Broglie"

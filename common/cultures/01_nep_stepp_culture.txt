@@ -405,7 +405,7 @@ unified_mongol = {
 			"Timur Qutlugh" "Toqtamish" "Ulugh Muhammad" "Urus" "Urus Muhammad" "Yadigar Muhammad" "Yamghurchi"
 		}
 		female_names = {
-			"Fatima" Ibtisam Jalila Janan Layla Sakina Sharifa 
+			Ibtisam Jalila Janan Layla Sakina Sharifa 
 			Acenith Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
 		}
 	}
@@ -424,7 +424,7 @@ unified_mongol = {
 			"Timur Qutlugh" "Toqtamish" "Ulugh Muhammad" "Urus" "Urus Muhammad" "Yadigar Muhammad" "Yamghurchi"
 		}
 		female_names = {
-			"Fatima" Ibtisam Jalila Janan Layla Sakina Sharifa Acenith 
+			Ibtisam Jalila Janan Layla Sakina Sharifa Acenith 
 			Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
 		}
 	}
@@ -442,7 +442,7 @@ unified_mongol = {
 		}
 		female_names = {
 			Khalida Mariam Sabah "Sakina" Ibtisam Jalila Janan Layla 
-			Sakina Sharifa Acenith Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
+			Sharifa Acenith Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
 		}
 	}
 	mongol_kazani = {
@@ -478,7 +478,7 @@ unified_mongol = {
 			"Timur Qutlugh" "Toqtamish" "Ulugh Muhammad" "Urus" "Urus Muhammad" "Yadigar Muhammad" "Yamghurchi"
 		}
 		female_names = {
-			"Fatima" Ibtisam Jalila Janan Layla Sakina Sharifa Acenith 
+			Ibtisam Jalila Janan Layla Sakina Sharifa Acenith 
 			Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
 		}
 	}
@@ -497,7 +497,7 @@ unified_mongol = {
 		}
 		female_names = {
 			Aaliyah Ikram Aamina Aamira Aaqila Aarifa Aazzi Adelah Adela Adiba Adilah Adilia Adiva Adjan Aeesha 
-			"Ibtisam" Ibtisam Jalila Janan Layla Sakina Sharifa Acenith Alia Amunet 
+			Ibtisam Jalila Janan Layla Sakina Sharifa Acenith Alia Amunet 
 			Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
 		}
 	}
@@ -517,7 +517,7 @@ unified_mongol = {
 			"Timur Qutlugh" "Toqtamish" "Ulugh Muhammad" "Urus" "Urus Muhammad" "Yadigar Muhammad" "Yamghurchi"
 		}
 		female_names = {
-			"Fatima" Ibtisam Jalila Janan Layla Sakina Sharifa Acenith 
+			Ibtisam Jalila Janan Layla Sakina Sharifa Acenith 
 			Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
 		}
 	}
@@ -709,28 +709,19 @@ unified_mongol = {
 		Doquz Ebegei Gurbesu Hogelun Holuikhan Ibakha Khadagan Khogaghchin Khojin Khorijin Khugurchin 
 		Khulan Mandukhai Mongoljin Nomolun Oghul Orbei Sokhatai Sorkhaghatani Tekine Temulun Töregene 
 		Yesugun Yesui Hoelun
-		# PECHENEG
-		Çiçek 
-		Gunduz 
-		Sevindik
 		# CUMAN
-		Çiçek 
-		Gundes 
-		Sibel
+		Çiçek
 		# KHAZAR / BOLGHAR
-		Çiçäk Özlem Akgul 
-		Esin Ipek 
-		Karacik Parsbit 
-		Paykëlti 
-		Sati Sevilay 
-		Tähtani Umay
+		Özlem 
+		Parsbit 
+		Sevilay 
+		Umay
 		# AVAR
 		Akgul Asli Ayasun Ayten Bozçin Dilek Esin Gulay Gulçiçäk Gulçiçek Gundes Gunduz Gunes Ikalay Ilkay 
 		Ipek Ipekel Irge Karacik Khatun Kätyarikka Këlnissa Këlyamal Lyukha Lärkka Mala Maturkka Mutlu Naça 
-		Parsbit Patiyer Paykëlti Peksen Puyantay Samur Sarantay Sarica Sarikel Sarä Sati Savaçka Savilay 
-		Sevilay Savintik Sevindik Savkëlti Savtilek Shurkka Sibel Sirin Sirma Songul Tekçe Tura Tähtani 
-		Umay Usunbike Yartilek Yasar Yeldem Yildiz Çeçeppi Çeçki Çeçtilet Çilen Çiltanesi Çiçäk Çiçek Özgul 
-		Özlem
+		Patiyer Paykëlti Peksen Puyantay Samur Sarantay Sarica Sarikel Sarä Sati Savaçka Savilay 
+		Savintik Sevindik Savkëlti Savtilek Shurkka Sibel Sirin Sirma Songul Tekçe Tura Tähtani 
+		Usunbike Yartilek Yasar Yeldem Yildiz Çeçeppi Çeçki Çeçtilet Çilen Çiltanesi Çiçäk Özgul 
 	}
 	dynasty_names = {
 		"Chagatay" "Edigüid" "Giray" "Borjigin" "Shaybanid" "Janid" "Mangit"

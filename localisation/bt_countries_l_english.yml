@@ -106,11 +106,14 @@
  GLC:0 "Galich"
  GLC_ADJ:0 "Galichian"
  VTN:0 "Vorotynsk"
- GLC_ADJ:0 "Vorotynskiy"
+ VTN_ADJ:0 "Vorotynskiy"
  MSL:0 "Mosalsk"
  MSL_ADJ:0 "Mosalskiy"
  BLV:0 "Belyov"
  BLV_ADJ:0 "Belyovskiy"
+ #Missing? -Pirate 
+ VLG:0 "Vologda"
+ VLG_ADJ:0 "Vologdan"
  
  #Old World Countries - Neprut's old tags repurposed for BT
  GTA:0 "Gotaland"
@@ -157,8 +160,8 @@
  MOJ_ADJ:0 "Mojave"
  UTE:0 "Ute"
  UTE_ADJ:0 "Ute"
- WWJ:0 "Opata"
- WWJ_ADJ:0 "Opatan"
+ WWR:0 "Opata"
+ WWR_ADJ:0 "Opatan"
  WWI:0 "Mayoo"
  WWI_ADJ:0 "Mayoo"
  WAS:0 "Washoe"

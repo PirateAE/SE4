@@ -120,7 +120,7 @@ fixed_capital = 101 # Cannot move capital away from this province & no power cos
 	}
 }
 
-1480.1.1 = { leader = {	name = "Paolo Fregoso"         	type = general	rank = 2	fire = 3	shock = 3	manuever = 2	siege = 0	death_date = 1487.1.1 } }
+1480.1.1 = { leader = {	name = "Paolo Fregoso"         	type = general	fire = 3	shock = 3	manuever = 2	siege = 0	death_date = 1487.1.1 } }
 
 1483.11.26 = {
 	monarch = {
@@ -180,7 +180,7 @@ fixed_capital = 101 # Cannot move capital away from this province & no power cos
 	}
 }
 
-1513.1.1 = { leader = {	name = "Frederigo Fregoso"     	type = admiral	rank = 1	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1522.1.1 } }
+1513.1.1 = { leader = {	name = "Frederigo Fregoso"     	type = admiral	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1522.1.1 } }
 
 1513.6.21 = {
 	monarch = {
@@ -192,7 +192,7 @@ fixed_capital = 101 # Cannot move capital away from this province & no power cos
 	}
 }
 
-1520.1.1 = { leader = {	name = "Andrea Doria"          	type = admiral	rank = 0	fire = 4	shock = 4	manuever = 5	siege = 0	death_date = 1565.1.1 } }
+1520.1.1 = { leader = {	name = "Andrea Doria"          	type = admiral	fire = 4	shock = 4	manuever = 5	siege = 0	death_date = 1565.1.1 } }
 
 1528.10.13 = {
 	monarch = {
@@ -374,7 +374,7 @@ fixed_capital = 101 # Cannot move capital away from this province & no power cos
 	}
 }
 
-1565.1.1 = { leader = {	name = "G. Doria"              	type = admiral	rank = 1	fire = 3	shock = 4	manuever = 4	siege = 0	death_date = 1590.1.1 } }
+1565.1.1 = { leader = {	name = "G. Doria"              	type = admiral	fire = 3	shock = 4	manuever = 4	siege = 0	death_date = 1590.1.1 } }
 
 1565.10.8 = {
 	monarch = {

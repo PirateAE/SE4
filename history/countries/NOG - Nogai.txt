@@ -3,6 +3,7 @@ primary_culture = nogaybak
 religion = sunni
 technology_group = nomad_group
 capital = 465	# Saraycik
+religious_school = hanafi_school
 historical_friend = KYK
 
 1392.1.1 = {

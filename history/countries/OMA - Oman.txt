@@ -1,12 +1,11 @@
-government = iqta
-government_rank = 2 #Sultanate
+government = feudal_theocracy
 primary_culture = omani_culture
-add_accepted_culture = mahri_culture
 religion = ibadi
 technology_group = muslim
-capital = 403
-
-#Rulers of Suhar
+add_accepted_culture = mahri_culture
+capital = 403	# Muscat
+government_rank = 1
+religious_school = hanbali_school
 
 #Nabhan dynasty
 

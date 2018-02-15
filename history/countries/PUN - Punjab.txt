@@ -27,8 +27,10 @@ historical_friend = PTA
 		ADM = 1
 		DIP = 3
 		MIL = 2
+		culture = afghani
 	}
 	religion = sunni
+	religious_school = hanafi_school
 	government = iqta
 }
 
@@ -40,7 +42,7 @@ historical_friend = PTA
 		ADM = 1
 		DIP = 2
 		MIL = 6
-		leader = { name = "Jassa Ahluwalia"	type = general	rank = 0	fire = 2	shock = 3	manuever = 2	siege = 1 }
+		leader = { name = "Jassa Ahluwalia"	type = general	fire = 2	shock = 3	manuever = 2	siege = 1 }
 	}
 	government = despotic_monarchy
 	religion = sikhism

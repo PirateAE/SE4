@@ -3,6 +3,7 @@ primary_culture = chagatai
 religion = sunni
 technology_group = nomad_group
 capital = 715
+religious_school = hanafi_school
 
 #Khans of Mughalistan
 1399.1.1 = {

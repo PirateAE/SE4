@@ -275,7 +275,6 @@ fixed_capital = 274 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Aleksandr VI"
 		dynasty = "Rostovsky"
-		birth_date = 1522.1.1
 		adm = 1
 		dip = 1
 		mil = 0

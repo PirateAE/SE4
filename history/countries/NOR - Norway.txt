@@ -33,7 +33,7 @@ historical_friend = ICE
 	leader = { 
 		name = "Olav Galle" 
 		type = general 
-		rank = 3 
+ 
 		fire = 1 
 		shock = 2 
 		manuever = 2 
@@ -42,7 +42,7 @@ historical_friend = ICE
 	} 
 }
 
-1521.1.1 = { leader = { name = "Engelbriktsson"         type = general rank = 2 fire = 1 shock = 1 manuever = 3 siege = 0 death_date = 1538.2.7 } }
+1521.1.1 = { leader = { name = "Engelbriktsson"         type = general fire = 1 shock = 1 manuever = 3 siege = 0 death_date = 1538.2.7 } }
 
 1537.1.1 = { religion = protestant } # Christian III decrees Lutheranism as State Church
 
@@ -52,6 +52,7 @@ historical_friend = ICE
 	monarch = {
 		name = "Christian Frederik"
 		dynasty = "von Oldenburg"
+		culture = danish
 		birth_date = 1786.9.18
 		adm = 0
 		dip = 0

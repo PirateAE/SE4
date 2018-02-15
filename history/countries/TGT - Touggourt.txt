@@ -5,6 +5,7 @@ religion = sunni
 technology_group = muslim
 capital = 2456	# Touggourt
 fixed_capital = 2456 # Cannot move capital away from this province & no power cost to move to it
+religious_school = maliki_school
 add_accepted_culture = berber
 
 1432.1.1 = {

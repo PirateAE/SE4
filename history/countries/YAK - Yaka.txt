@@ -73,9 +73,9 @@ capital = 4085	# Yaka
 
 1740.1.1 = {
 	monarch = {
-		name = "Mbaala"
+		name = "Muteeba Nzuzi"
 		dynasty = "Kyambvu"
-		adm = 5
+		adm = 4
 		dip = 3
 		mil = 3
 	}

@@ -167,7 +167,7 @@ capital = 62 # Leipzig
 	}
 }
 
-1505.1.1 = { leader = {	name = "Mauritz"               	type = general	rank = 0	fire = 4	shock = 3	manuever = 3	siege = 0	death_date = 1532.1.1 } }
+1505.1.1 = { leader = {	name = "Mauritz"               	type = general	fire = 4	shock = 3	manuever = 3	siege = 0	death_date = 1532.1.1 } }
 
 1531.1.1 = { religion = protestant }
 
@@ -193,7 +193,7 @@ capital = 62 # Leipzig
 		adm = 1
 		dip = 1
 		mil = 4
-		leader = { name = "Moritz von Wettin"	type = general	rank = 0	fire = 3	shock = 3	manuever = 4	siege = 1 }
+		leader = { name = "Moritz von Wettin"	type = general	fire = 3	shock = 3	manuever = 4	siege = 1 }
 	}
 }
 		
@@ -205,7 +205,7 @@ capital = 62 # Leipzig
 		dip = 1
 		adm = 1
 		mil = 4
-		leader = { name = "Moritz von Wettin"	type = general	rank = 0	fire = 3	shock = 3	manuever = 4	siege = 1 }
+		leader = { name = "Moritz von Wettin"	type = general	fire = 3	shock = 3	manuever = 4	siege = 1 }
 	}
 }
 
@@ -225,7 +225,7 @@ capital = 62 # Leipzig
 
 1547.5.19 = { elector = yes }
 
-1550.1.1 = { leader = {	name = "F. von Leignitz"	type = general	rank = 0	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1570.12.15 } }
+1550.1.1 = { leader = {	name = "F. von Leignitz"	type = general	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1570.12.15 } }
 
 1553.7.11 = {
 	monarch = {
@@ -327,7 +327,7 @@ capital = 62 # Leipzig
 	}
 }
 
-1624.1.1 = { leader = {	name = "Hans Georg von Arnim"		type = general	rank = 1	fire = 3	shock = 2	manuever = 2	siege = 0	death_date = 1641.4.28 } }
+1624.1.1 = { leader = {	name = "Hans Georg von Arnim"		type = general	fire = 3	shock = 2	manuever = 2	siege = 0	death_date = 1641.4.28 } }
 
 1631.8.30 = {
 	join_league = protestant
@@ -345,7 +345,7 @@ capital = 62 # Leipzig
 	leave_league = catholic
 }
 
-1650.1.1 = { leader = {	name = "Augustus von Wettin"           	type = general	rank = 0	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1680.6.4 } }
+1650.1.1 = { leader = {	name = "Augustus von Wettin"           	type = general	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1680.6.4 } }
 
 1656.10.9 = {
 	monarch = {
@@ -372,11 +372,11 @@ capital = 62 # Leipzig
 	}
 }
 
-1670.1.1 = { leader = {	name = "Schönfeld"             	type = general	rank = 1	fire = 2	shock = 3	manuever = 2	siege = 1	death_date = 1690.1.1 } }
+1670.1.1 = { leader = {	name = "Schönfeld"             	type = general	fire = 2	shock = 3	manuever = 2	siege = 1	death_date = 1690.1.1 } }
 
-1675.1.1 = { leader = {	name = "Toppauer"              	type = general	rank = 2	fire = 3	shock = 2	manuever = 2	siege = 1	death_date = 1699.1.1 } }
+1675.1.1 = { leader = {	name = "Toppauer"              	type = general	fire = 3	shock = 2	manuever = 2	siege = 1	death_date = 1699.1.1 } }
 
-1680.1.1 = { leader = {	name = "von Saxe-Merseburg"	type = general	rank = 3	fire = 3	shock = 3	manuever = 2	siege = 1	death_date = 1694.10.20 } }
+1680.1.1 = { leader = {	name = "von Saxe-Merseburg"	type = general	fire = 3	shock = 3	manuever = 2	siege = 1	death_date = 1694.10.20 } }
 
 1680.8.23 = {
 	monarch = {
@@ -435,6 +435,7 @@ capital = 62 # Leipzig
 		name = "Friedrich August I"
 		dynasty = "von Wettin"
 		birth_date = 1670.5.12
+		religion = catholic
 		adm = 2
 		dip = 1
 		mil = 0
@@ -460,8 +461,24 @@ capital = 62 # Leipzig
 		name = "Friedrich August II"
 		dynasty = "von Wettin"
 		birth_date = 1696.10.17
+		culture = saxon
+		religion = catholic
 		adm = 1
 		dip = 3
+		mil = 0
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = industrious_personality
+	queen = {
+		country_of_origin = HAB
+		name = "Maria Jozefa"
+		dynasty = "von Habsburg"
+		birth_date = 1699.12.8
+		death_date = 1757.11.17
+		female = yes
+		adm = 3
+		dip = 1
 		mil = 0
 	}
 }
@@ -480,9 +497,9 @@ capital = 62 # Leipzig
 	}
 }
 
-1737.1.1 = { leader = {	name = "F.A. von Cosel"		type = general	rank = 4	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1770.1.1 } }
+1737.1.1 = { leader = {	name = "F.A. von Cosel"		type = general	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1770.1.1 } }
 
-1745.1.1 = { leader = {	name = "F.A. Rutowski"		type = general	rank = 1	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1764.3.16 } }
+1745.1.1 = { leader = {	name = "F.A. Rutowski"		type = general	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1764.3.16 } }
 
 1763.10.6 = {
 	monarch = {

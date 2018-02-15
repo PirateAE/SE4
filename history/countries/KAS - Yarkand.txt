@@ -1,8 +1,9 @@
-government = tribal_federation
+government = iqta
 primary_culture = uyghur
 religion = sunni
 technology_group = chinese
 capital = 739	# kashgar
+religious_school = hanafi_school
 
 1434.1.1 = {
 	monarch = {

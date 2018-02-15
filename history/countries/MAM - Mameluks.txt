@@ -1,4 +1,4 @@
-government = iqta
+government = mamluk_government
 primary_culture = al_misr_arabic
 add_accepted_culture = al_suryah_arabic
 religion = sunni
@@ -7,11 +7,14 @@ historical_rival = TUR
 historical_rival = TIM
 historical_friend = HED
 capital = 361 # Cairo
+add_army_professionalism = 0.1
+religious_school = shafii_school
 
 1399.1.1 = {
 	monarch = {
 		name = "al-Nasr Faraj"
 		dynasty = "Burji"
+		culture = circassian
 		adm = 2
 		dip = 2
 		mil = 3
@@ -23,6 +26,7 @@ capital = 361 # Cairo
 	monarch = {
 		name = "Shaikh al-Mahmudi"
 		dynasty = "Burji"
+		culture = circassian
 		adm = 2
 		dip = 3
 		mil = 1
@@ -32,6 +36,7 @@ capital = 361 # Cairo
 1421.1.1 = {
 	monarch = {
 		name = "Muhammad IV"
+		culture = circassian
 		dynasty = "Burji"
 		adm = 1
 		dip = 1
@@ -43,6 +48,7 @@ capital = 361 # Cairo
 	monarch = {
 		name = "Barsbai"
 		dynasty = "Burji"
+		culture = circassian
 		adm = 2
 		dip = 3
 		mil = 1
@@ -54,7 +60,8 @@ capital = 361 # Cairo
 		name = "Jaqmaq"
 		birth_date = 1372.1.1
 		dynasty = "Burji"
-		adm = 1
+		culture = circassian
+		adm = 2
 		dip = 2
 		mil = 3
 	}
@@ -144,7 +151,7 @@ capital = 361 # Cairo
 		adm = 1
 		dip = 1
 		mil = 3
-		leader = {	name = "Al Kansur"             	type = general	rank = 0	fire = 1	shock = 4	manuever = 5	siege = 0 }
+		leader = {	name = "Al Kansur"             	type = general	fire = 1	shock = 4	manuever = 5	siege = 0 }
 	}
 }
 
@@ -155,7 +162,7 @@ capital = 361 # Cairo
 		adm = 0
 		dip = 0
 		mil = 2
-		leader = {	name = "Tûmân Bay II"		type = general	rank = 0	fire = 3	shock = 3	manuever = 3	siege = 1 }
+		leader = {	name = "Tûmân Bay II"		type = general	fire = 3	shock = 3	manuever = 3	siege = 1 }
 	}
 }
 
@@ -189,9 +196,9 @@ capital = 361 # Cairo
 	}
 }
 
-1792.1.1 = { leader = {	name = "Ibrahim Bey"           	type = general	rank = 1	fire = 2	shock = 2	manuever = 4	siege = 0	death_date = 1804.3.14 } }
+1792.1.1 = { leader = {	name = "Ibrahim Bey"           	type = general	fire = 2	shock = 2	manuever = 4	siege = 0	death_date = 1804.3.14 } }
 
-1792.1.1 = { leader = {	name = "Murad Bey"             	type = general	rank = 2	fire = 1	shock = 3	manuever = 4	siege = 0	death_date = 1801.4.22 } }
+1792.1.1 = { leader = {	name = "Murad Bey"             	type = general	fire = 1	shock = 3	manuever = 4	siege = 0	death_date = 1801.4.22 } }
 
 1801.4.23 = {
 	monarch = {
@@ -210,6 +217,6 @@ capital = 361 # Cairo
 		adm = 6
 		dip = 4
 		mil = 6
-		leader = { name = "Mehmet Ali"		type = general	rank = 0	fire = 1	shock = 4	manuever = 5	siege = 0 }
+		leader = { name = "Mehmet Ali"		type = general	fire = 1	shock = 4	manuever = 5	siege = 0 }
 	}
 }

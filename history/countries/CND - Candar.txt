@@ -4,7 +4,7 @@ primary_culture = turkish
 religion = sunni
 technology_group = ottoman
 capital = 328	# Sinop
-
+religious_school = hanafi_school
 
 1385.1.1 = {
 	monarch = {

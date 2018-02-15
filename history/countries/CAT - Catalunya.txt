@@ -18,6 +18,6 @@ capital = 213	# Barcelona
 
 1444.11.11 = { government_rank = 2 }
 
-1711.4.18 = { government = bureaucratic_despotism }
+1711.4.18 = { government = constitutional_monarchy }
 
 1759.8.12 = { government = enlightened_despotism }

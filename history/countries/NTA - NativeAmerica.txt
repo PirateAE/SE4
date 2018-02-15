@@ -1,0 +1,7 @@
+government = native_council
+primary_culture = inuit
+religion = angakkunngurniq
+technology_group = north_american
+capital = 998 # Qikirmiut
+
+#Formable filled for filling needs

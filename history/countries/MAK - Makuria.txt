@@ -1,4 +1,4 @@
-government = despotic_monarchy
+government = tribal_kingdom
 primary_culture = nubian
 religion = coptic
 technology_group = east_african

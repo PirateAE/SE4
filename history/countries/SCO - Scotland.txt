@@ -7,7 +7,7 @@ religion = catholic
 technology_group = western
 historical_friend = DAN
 historical_friend = BRI			#This is really just to prevent Scotland and Brittany rivaling each other at day 1, as they historically got on well, but game mechanics encouraged them to rival
-historical_rival = ENG			#I shouldn't really have to explain this?
+#is this removed? -Pirate #historical_rival = ENG			#I shouldn't really have to explain this?
 capital = 248 # Edinburgh
 national_focus = MIL
 

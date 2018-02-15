@@ -1,4 +1,4 @@
-government = feudal_monarchy
+government = principality
 technology_group = eastern
 religion = orthodox
 primary_culture = ruthenian

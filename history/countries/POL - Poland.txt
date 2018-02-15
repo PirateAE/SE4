@@ -68,7 +68,7 @@ national_focus = ADM
 	leader = {
 		name = "Piotr Dunin"
 		type = general
-		rank = 1
+
 		fire = 2
 		shock = 3
 		manuever = 3
@@ -81,7 +81,7 @@ national_focus = ADM
 	leader = {
 		name = "Feliks Paniewski"
 		type = general
-		rank = 2
+
 		fire = 2
 		shock = 3
 		manuever = 2
@@ -95,7 +95,7 @@ national_focus = ADM
 	leader = {
 		name = "Dobieslaw Kurozwecki"
 		type = general
-		rank = 1
+
 		fire = 2
 		shock = 3
 		manuever = 2
@@ -232,26 +232,12 @@ national_focus = ADM
 	leader = {
 		name = "Jan Tarnowski"
 		type = general
-		rank = 1
+
 		fire = 2
 		shock = 4
 		manuever = 4
 		siege = 1
 		death_date = 1561.5.16
-	}
-}
-
-1543.5.6 = {
-	queen = {
-		country_of_origin = HAB
-		name = "Elzbieta"
-		dynasty = "von Habsburg"
-		birth_date = 1526.7.9
-		death_date = 1545.6.15
-		female = yes
-		adm = 0
-		dip = 0
-		mil = 0
 	}
 }
 
@@ -267,6 +253,20 @@ national_focus = ADM
 	clear_scripted_personalities = yes
 	add_ruler_personality = infertile_personality
 	add_ruler_personality = industrious_personality
+}
+
+1543.5.6 = {
+	queen = {
+		country_of_origin = HAB
+		name = "Elzbieta"
+		dynasty = "von Habsburg"
+		birth_date = 1526.7.9
+		death_date = 1545.6.15
+		female = yes
+		adm = 0
+		dip = 0
+		mil = 0
+	}
 }
 
 1550.12.7 = {
@@ -301,7 +301,7 @@ national_focus = ADM
 	leader = {
 		name = "Sebastian Lubomirski"
 		type = general
-		rank = 3
+
 		fire = 2
 		shock = 3
 		manuever = 3
@@ -314,7 +314,7 @@ national_focus = ADM
 	leader = {
 		name = "Andrzej Kurbski"
 		type = general
-		rank = 3
+
 		fire = 2
 		shock = 1
 		manuever = 3

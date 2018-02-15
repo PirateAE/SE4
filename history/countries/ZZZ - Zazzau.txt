@@ -22,7 +22,7 @@ capital = 1154	# Niani
 		leader = {
 			name = "Amina"
 			type = general
-			rank = 1
+
 			fire = 4
 			shock = 4
 			manuever = 5

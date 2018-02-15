@@ -1,4 +1,4 @@
-government = feudal_monarchy
+government = iqta
 government_rank = 1
 technology_group = indian
 religion = shaivism	#Until 1710
@@ -103,6 +103,7 @@ capital = 2060
 		MIL = 5
 	}
 	religion = sunni
+	religious_school = hanafi_school
 }
 
 1710.1.1 = {

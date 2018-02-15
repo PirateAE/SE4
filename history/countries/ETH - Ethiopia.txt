@@ -344,7 +344,7 @@ historical_friend = PAX
 		adm = 1
 		dip = 3
 		mil = 6
-		leader = {	name = "Sarsa Dengel"          	type = general	rank = 0	fire = 1	shock = 3	manuever = 4	siege = 0}
+		leader = {	name = "Sarsa Dengel"          	type = general	fire = 1	shock = 3	manuever = 4	siege = 0}
 	}
 }
 		
@@ -355,7 +355,7 @@ historical_friend = PAX
 		adm = 1
 		dip = 3
 		mil = 6
-		leader = {	name = "Sarsa Dengel"          	type = general	rank = 0	fire = 1	shock = 3	manuever = 4	siege = 0}
+		leader = {	name = "Sarsa Dengel"          	type = general	fire = 1	shock = 3	manuever = 4	siege = 0}
 	}
 }
 
@@ -466,7 +466,7 @@ historical_friend = PAX
 		adm = 4
 		dip = 6
 		mil = 6
-		leader = {	name = "Iyâsû I"               	type = general	rank = 0	fire = 1	shock = 3	manuever = 3	siege = 0}
+		leader = {	name = "Iyâsû I"               	type = general	fire = 1	shock = 3	manuever = 3	siege = 0}
 	}
 }
 
@@ -477,7 +477,7 @@ historical_friend = PAX
 		adm = 4
 		dip = 6
 		mil = 6
-		leader = {	name = "Iyâsû I"               	type = general	rank = 0	fire = 1	shock = 3	manuever = 3	siege = 0}
+		leader = {	name = "Iyâsû I"               	type = general	fire = 1	shock = 3	manuever = 3	siege = 0}
 	}
 }
 

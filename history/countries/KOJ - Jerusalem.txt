@@ -33,4 +33,4 @@ historical_rival = CYP
 	}
 }
 
-1444.11.1 = { leader = {	name = "Gilles de Rais"		type = general		rank = 1	fire = 2	shock = 2	manuever = 3	siege = 0 } }
+1444.11.1 = { leader = {	name = "Gilles de Rais"		type = general	fire = 2	shock = 2	manuever = 3	siege = 0 } }

@@ -132,8 +132,8 @@
  #France
  ANJ: "Anjou"
  ANJ_ADJ: "Anjou"
- PRS: "Paris"
- PRS_ADJ: "Parisian"
+ PRI: "Paris"
+ PRI_ADJ: "Parisian"
  #British Isles
  ANR: "Antrim"
  ANR_ADJ: "Antrim"
@@ -411,8 +411,8 @@
  KYK_ADJ: "Kalmykian"
  LAZ: "Laksia"
  LAZ_ADJ: "Laks"
- LRI: "Lori"
- LRI_ADJ: "Lorian"
+ LOI: "Lori"
+ LOI_ADJ: "Lorian"
  LYN: "Layzan"
  LYN_ADJ: "Layzani"
  LZA: "Lezgia"

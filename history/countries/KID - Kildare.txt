@@ -5,7 +5,6 @@ religion = catholic
 primary_culture = anglo_irish
 add_accepted_culture = irish
 capital = 4120	# Kildare
-fixed_capital = 4120
 
 
 1427.1.1 = {

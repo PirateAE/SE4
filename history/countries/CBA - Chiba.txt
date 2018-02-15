@@ -1,10 +1,10 @@
 government = daimyo
 government_rank = 1
-primary_culture = togoku
-religion = shinto
+primary_culture = kantoreligion = shinto
 technology_group = chinese
+historical_rival = UES
 capital = 4190	# Shimousa
-
+	
 1426.7.12 = { 
 	monarch = {
 		name = "Kanetane" #1392.8.10 - 1430.7.7
@@ -285,6 +285,26 @@ capital = 4190	# Shimousa
 		birth_date = 1557.4.21
 		adm = 3
 		dip = 2
+		mil = 3
+	}
+}
+
+1582.1.1 = { 
+	monarch = {
+		name = "Kunitane"
+		dynasty = "Chiba"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1585.6.4 = { 
+	monarch = {
+		name = "Naoshige"
+		dynasty = "Chiba"
+		adm = 3
+		dip = 3
 		mil = 3
 	}
 }

@@ -1,7 +1,6 @@
 government = daimyo
 government_rank = 1
-primary_culture = japanese
-religion = shinto
+primary_culture = tokaidoreligion = shinto
 technology_group = chinese
 capital = 4185	# Tango
 

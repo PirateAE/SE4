@@ -1,8 +1,8 @@
 government = daimyo
 government_rank = 1
-primary_culture = togoku
-religion = shinto
+primary_culture = kantoreligion = shinto
 technology_group = chinese
+historical_rival = UES
 capital = 1027	# Hitachi
 
 1328.1.1 = {

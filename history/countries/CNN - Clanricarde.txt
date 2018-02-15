@@ -1,9 +1,12 @@
-government = feudal_monarchy
+government = provincial_kingdom
 government_rank = 1
 technology_group = western
 primary_culture = irish
 religion = catholic
 capital = 376	# Galway
+
+#emptied by Draiocht because this tag is a formable with no land- Readded Pirate... may or maynot be with shatter
+
 
 #House Burke / De Burgh
 1430.1.1 = {

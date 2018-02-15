@@ -262,11 +262,11 @@ custodian_of_the_two_holy_mosques = {
 
 	trigger = {
 		is_free_or_tributary_trigger = yes
-		owns_or_vassal_of = 385
-		owns_or_vassal_of = 384
+		owns = 385
+		owns = 384
 	}
 
-	legitimacy = 0.5
+	prestige = 0.5
 	missionaries = 1
 }
 
@@ -406,6 +406,7 @@ submission_to_emperor = {
 	trigger = {
 		is_emperor = no
 		NOT = { tag = ITA }
+		NOT = { tag = ITL }
 		capital_scope = {
 			is_part_of_hre = yes
 		}
@@ -477,6 +478,7 @@ reaction = {
 		is_revolution_target = no
 		is_free_or_tributary_trigger = yes
 		OR = {
+			government = enlightened_despotism
 			government = despotic_monarchy
 			government = feudal_monarchy
 			government = administrative_monarchy
@@ -573,6 +575,36 @@ pentarchy_mod = {
 		2313 = { religion = orthodox }
 		379 = { religion = orthodox }
 		358 = { religion = orthodox }
+	}
+	
+	prestige = 0.5
+	missionaries = 1
+}
+
+pentarchy_copts = {
+	potential = {
+		normal_or_historical_nations = yes
+		religion = coptic
+		OR = {
+			has_discovered = 118 	# Rome
+			has_discovered = 151 	# Constantinople
+			has_discovered = 2313 	# Antioch
+			has_discovered = 379 	# Jerusalem
+			has_discovered = 358 	# Alexandria
+		}
+	}
+
+	trigger = {
+		owns = 118 	# Rome
+		owns = 151 	# Constantinople
+		owns = 2313 # Antioch
+		owns = 379 	# Jerusalem
+		owns = 358 	# Alexandria
+		118 = { religion = coptic }
+		151 = { religion = coptic }
+		2313 = { religion = coptic }
+		379 = { religion = coptic }
+		358 = { religion = coptic }
 	}
 	
 	prestige = 0.5

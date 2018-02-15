@@ -111,9 +111,12 @@
  MSL_ADJ:0 "Mosalskiy"
  BLV:0 "Belyov"
  BLV_ADJ:0 "Belyovskiy"
+ 
  #Missing? -Pirate 
  VLG:0 "Vologda"
  VLG_ADJ:0 "Vologdan"
+ HDS:0 "Hidatsa"
+ HDS_ADJ:0 "Hidatsan"
  
  #Old World Countries - Neprut's old tags repurposed for BT
  GTA:0 "Gotaland"

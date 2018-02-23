@@ -414,7 +414,7 @@ cb_sengoku = {
 	war_goal = annex_country
 }
 
-# Revolutionary CB
+# Revolutionary CB NepNep
 cb_revolutionary = {
 	valid_for_subject = no
 
@@ -422,29 +422,65 @@ cb_revolutionary = {
 		is_neighbor_of = FROM
 		cb_on_government_enemies = yes
 		NOT = {
+			government = mamluk_government
 			government = papal_government
 			government = steppe_horde
 			government = dutch_republic
 			government = celestial_empire
 			government = iqta
-			government = mamluk_government
 			government = daimyo
 			government = shogunate
 			government = colonial_government
 			government = native_council
+			government = celestial_empire_SE
+			government = irish_clann
+			government = norman_lordship
+			government = provincial_kingdom
+			government = norman_duchy
+			government = high_kingship
+			government = anglo_irish_monarchy
+			government = regnum_dei
+			government = occitan_monarchy
+			government = catalan_monarchy
+			government = occitan_republic
+			government = catalan_republic
+			government = occitan_theocracy
+			government = papal_copts
+			government = maratha_confederacy
+			government = archduchy
+			government = american_republic
+			government = federal_republic
 		}
 		FROM = {
 			NOT = {
+				government = mamluk_government
 				government = papal_government
 				government = steppe_horde
 				government = dutch_republic
 				government = celestial_empire
 				government = iqta
-				government = mamluk_government
 				government = daimyo
 				government = shogunate
 				government = colonial_government
 				government = native_council
+				government = celestial_empire_SE
+				government = irish_clann
+				government = norman_lordship
+				government = provincial_kingdom
+				government = norman_duchy
+				government = high_kingship
+				government = anglo_irish_monarchy
+				government = regnum_dei
+				government = occitan_monarchy
+				government = catalan_monarchy
+				government = occitan_republic
+				government = catalan_republic
+				government = occitan_theocracy
+				government = papal_copts
+				government = maratha_confederacy
+				government = archduchy
+				government = american_republic
+				government = federal_republic
 			}
 		}
 		OR = {
@@ -501,6 +537,7 @@ cb_crusade = {
 				religion = catholic
 			}
 			cb_on_religious_enemies = yes
+			government = regnum_dei
 		}
 		is_revolution_target = no
 	}
@@ -921,7 +958,7 @@ cb_maya_expansion = {
 		is_religion_reformed = no
 		FROM = {
 			NOT = { is_subject_of = ROOT }
-			religion_group = pagan
+			is_pagan_trigger = yes
 		}
 		is_neighbor_of = FROM
 	}
@@ -956,7 +993,7 @@ cb_humiliate_rotw = {
 	war_goal = humiliate_rotw
 }
 
-# Reunification of China
+# Reunification of China NepNep Pira
 cb_chinese_unification = {
 	valid_for_subject = no
 
@@ -969,11 +1006,17 @@ cb_chinese_unification = {
 			}
 			AND = {
 				NOT = { has_dlc = "Mandate of Heaven" }
+			OR ={	
 				culture_group = east_asian #Chinese
+				primary_culture = miao
+				primary_culture = yi
+				primary_culture = bai
+				primary_culture = zhuang
 				OR = {	#Manchus won't get this unless they unify
 					tag = MCH
 					tag = QNG
 					NOT = { primary_culture = manchu }
+					}
 				}
 			}
 		}
@@ -983,6 +1026,11 @@ cb_chinese_unification = {
 			OR = {
 				has_dlc = "Mandate of Heaven"
 				culture_group = east_asian #Chinese
+				primary_culture = manchu
+				primary_culture = miao
+				primary_culture = yi
+				primary_culture = bai
+				primary_culture = zhuang
 			}
 			any_owned_province = {
 				OR = {
@@ -992,6 +1040,7 @@ cb_chinese_unification = {
 				}
 			}
 			NOT = { has_country_modifier = the_mandate_of_heaven }
+			NOT = { has_country_modifier = the_mandate_of_heaven_SE }
 		}
 		is_neighbor_of = FROM
 	}
@@ -1009,8 +1058,15 @@ cb_take_mandate = {
 		is_neighbor_of = FROM
 		FROM = { is_emperor_of_china = yes }
 		OR = {
-			religion_group = pagan
-			religion_group = eastern
+			culture_group = altaic
+			culture_group = burman
+			culture_group = thai
+			culture_group = mon_khmer 
+			culture_group = malay
+			culture_group = korean_g
+			culture_group = japanese_g
+			culture_group = east_asian
+			culture_group = miao_g
 		}
 	}
 

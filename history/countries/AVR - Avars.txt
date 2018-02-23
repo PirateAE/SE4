@@ -86,16 +86,6 @@ religious_school = shafii_school
 	}
 }
 
-1668.1.1 = { 
-	monarch = {
-		name = "Muhammad Khan II"
-		dynasty = "Avari"
-		adm = 2
-		dip = 1
-		mil = 2
-	}
-}
-
 1720.1.1 = { 
 	monarch = {
 		name = "Umma Khan II"

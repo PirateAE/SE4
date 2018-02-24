@@ -1,8 +1,8 @@
-# Do not change tags in here without changing every other reference to them.
-# If adding new groups or cultures, make sure they are unique.
+# change in here without changing every other reference to them.
+# adding new groups or cultures, make sure they unique.
 #
-# Union tags do not suffer from the 'same_culture_group' tax penalty.
-# Primary tags are the first choice for rebel factions seeking cultural independence.
+# Union do suffer from 'same_culture_group' tax penalty.
+# Primary tags are choice for rebel factions seeking cultural independence.
 #
 # graphical_culture = westerngfx
 # second_graphical_culture = muslimgfx (fallback if the first does not exist)
@@ -101,10 +101,10 @@ septrional_creoles = {
 			Young Yelverton
 		}
 		male_names = {
-			Henry Edward Charles James William Richard Philip Henry Frederick Arthur Charles James Edgar Thomas Edmund 
-			George John Jacob Humphrey Robert Stephen Adam Alexander Albert Alfred Ambrose Andrew Anthony Archibald 
-			Benjamin Christopher Daniel David Ernest Francis Geoffrey Guy Horatio Hugh Isaac Jeremy Jonathan Joseph 
-			Lawrence Matthew Nehemiah Oliver Samuel Sydney
+ Frederick Charles James Edgar 
+ 
+ 
+
 
 			Adam Alan Albert Alexander Alfred Andrew Anselm Arnold Arthur Aubrey Christopher David 		
 			Edmund Edward Eric Erik Eustace Fulk Folke Geoffrey George Gerald Gilbert Godfrey Gregory Guy 
@@ -134,7 +134,7 @@ septrional_creoles = {
 		male_names = {
 			James Robert Henry Alexander Arthur Walter John Charles Malcolm Donald David Duncan Andrea 
 			Alan Ailpein Archibald Barclay Beathan Bruce Cameron Cináed Conall Douglas Duff Edan Evander 
-			Fraser Garry Glen Ian Keir Kennedy Lennox Logan Micheil Mungo Munroe Scott Wallace Adam 
+			Fraser Garry Glen Ian Keir Kennedy Lennox Logan Micheil Munroe Scott Wallace Adam 
 			Alpin Alwin Alastair Andrew Angus Arran Aulay Olaf Brian Brice Cailean Calum Carbrey Colban 
 			Kolbein Colin Nicholas Conan Constantine Dermid Dugald Edgar Edward Edwin Eric Ivar Ewan 
 			Eugene Farquhar Fergus Fingal Finn Findlay Frang Francis Gavin Gilbride Gilbert Gilchrist 
@@ -147,7 +147,7 @@ septrional_creoles = {
 			Waldeve Waltheof William
 		}
 		female_names = {
-			Mary Ada Affraic Agnes Aileen Alice Anna Annabella Aufrica Euphemia Barabal Barbara Beileag 
+ Ada Affraic Agnes Aileen Alice Anna Annabella Aufrica Euphemia Barabal Barbara Beileag 
 			Beitris Beathoc Beatrice Bride Brigit Catriona Catherine Cecilia Deirdre Derilla Dervorgilla 
 			Donada Donella Edith Edna Effie Eilionoir Eimhir Emer Eithne Ela Eleanor Elspeth Euna Eva 
 			Fenella Fingola Flora Forflissa Galiena Glenna Gormelia Gormflaith Gruoch Helen Innes Iona 

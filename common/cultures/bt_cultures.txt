@@ -1,8 +1,8 @@
-# Do not change tags in here without changing every other reference to them.
-# If adding new groups or cultures, make sure they are unique.
+# change in here without changing every other reference to them.
+# adding new groups or cultures, make sure they unique.
 #
-# Union tags do not suffer from the 'same_culture_group' tax penalty.
-# Primary tags are the first choice for rebel factions seeking cultural independence.
+# Union do suffer from 'same_culture_group' tax penalty.
+# Primary tags are choice for rebel factions seeking cultural independence.
 #
 # graphical_culture = westerngfx
 # second_graphical_culture = muslimgfx (fallback if the first does not exist)
@@ -797,7 +797,7 @@ siouan = {
 			Wabasha Petette Tartunkanasiah Keejee Tarsega Wamadetunka Wannata Kokomako Shacope Penision Etaseepa 
 			Wakauhee Poehapa Takewapa Tenchzepart Mascpulochastosh Tetekarmunch Wasaota Oeyakoca Maktowahkeark 
 			Matowayouwe Makatozaza Belotonkatanga Nakapagigi Maktosabichis Mewatanihanska Thathanka Iyotake 
-			Iyapato Thasunke Witko Maphiya Luta Hehaka Sapa Sinte Gleska Ite Omagazu Ogle Luta Mahpiya
+			Iyapato Thasunke Witko Maphiya Hehaka Sapa Sinte Gleska Ite Omagazu Ogle Luta Mahpiya
 		}
 		female_names = {
 			Tasinasapewin Thasinamani Tasinahlahlawin Dohumme Chapa Chapawee Chumani Dowanhowee Ehawee Hantaywee Kimimela 
@@ -815,7 +815,7 @@ siouan = {
 			Wabasha Petette Tartunkanasiah Keejee Tarsega Wamadetunka Wannata Kokomako Shacope Penision Etaseepa 
 			Wakauhee Poehapa Takewapa Tenchzepart Mascpulochastosh Tetekarmunch Wasaota Oeyakoca Maktowahkeark 
 			Matowayouwe Makatozaza Belotonkatanga Nakapagigi Maktosabichis Mewatanihanska Thathanka Iyotake 
-			Iyapato Thasunke Witko Maphiya Luta Hehaka Sapa Sinte Gleska Ite Omagazu Ogle Luta Mahpiya
+			Iyapato Thasunke Witko Maphiya Hehaka Sapa Sinte Gleska Ite Omagazu Ogle Luta Mahpiya
 		}
 		female_names = {
 			Tasinasapewin Thasinamani Tasinahlahlawin Dohumme Chapa Chapawee Chumani Dowanhowee Ehawee Hantaywee Kimimela 
@@ -833,7 +833,7 @@ siouan = {
 			Wabasha Petette Tartunkanasiah Keejee Tarsega Wamadetunka Wannata Kokomako Shacope Penision Etaseepa 
 			Wakauhee Poehapa Takewapa Tenchzepart Mascpulochastosh Tetekarmunch Wasaota Oeyakoca Maktowahkeark 
 			Matowayouwe Makatozaza Belotonkatanga Nakapagigi Maktosabichis Mewatanihanska Thathanka Iyotake 
-			Iyapato Thasunke Witko Maphiya Luta Hehaka Sapa Sinte Gleska Ite Omagazu Ogle Luta Mahpiya
+			Iyapato Thasunke Witko Maphiya Hehaka Sapa Sinte Gleska Ite Omagazu Ogle Luta Mahpiya
 		}
 		female_names = {
 			Tasinasapewin Thasinamani Tasinahlahlawin Dohumme Chapa Chapawee Chumani Dowanhowee Ehawee Hantaywee Kimimela 
@@ -851,7 +851,7 @@ siouan = {
 			Wabasha Petette Tartunkanasiah Keejee Tarsega Wamadetunka Wannata Kokomako Shacope Penision Etaseepa 
 			Wakauhee Poehapa Takewapa Tenchzepart Mascpulochastosh Tetekarmunch Wasaota Oeyakoca Maktowahkeark 
 			Matowayouwe Makatozaza Belotonkatanga Nakapagigi Maktosabichis Mewatanihanska Thathanka Iyotake 
-			Iyapato Thasunke Witko Maphiya Luta Hehaka Sapa Sinte Gleska Ite Omagazu Ogle Luta Mahpiya
+			Iyapato Thasunke Witko Maphiya Hehaka Sapa Sinte Gleska Ite Omagazu Ogle Luta Mahpiya
 		}
 		female_names = {
 			Tasinasapewin Thasinamani Tasinahlahlawin Dohumme Chapa Chapawee Chumani Dowanhowee Ehawee Hantaywee Kimimela 
@@ -913,7 +913,7 @@ na_dene = {
 			Popé Ku-htihth Galisteo Xenome Ollito Tagu Bolsas Naranjo Catiti
 		}
 		female_names = {
-			Ootcakao Kahavasooah Ootcakao Sacagawea Chipeta Tocmetone
+ Kahavasooah Ootcakao Sacagawea Chipeta Tocmetone
 		}
 	}
 	kiowa = {
@@ -929,7 +929,7 @@ na_dene = {
 			Tena Pulkuptima Sallaf Hoipkenek Yeptah Satinvose 
 		}
 		female_names = {
-			Elvamox Ethete Natane Bly Dae Cocheta Ekta Ela Elina Ila Imala Inayat Kushala Kusuma Liluye Lipika Lolaksi 
+			Elvamox Ethete Bly Dae Cocheta Ekta Ela Elina Ila Imala Inayat Kushala Kusuma Liluye Lipika Lolaksi 
 			Lolotea Nascha Nashota Natane Nita Nitara Niti Nitika Nittawosew Onawa Onawah Preyasi Prita PreetiHalf Smita 
 			Smriti Surabhi Tapi Tara
 		}
@@ -944,7 +944,7 @@ na_dene = {
 			Popé Ku-htihth Galisteo Xenome Ollito Tagu Bolsas Naranjo Catiti
 		}
 		female_names = {
-			Ootcakao Kahavasooah Ootcakao Sacagawea Chipeta Tocmetone
+ Kahavasooah Ootcakao Sacagawea Chipeta Tocmetone
 		}
 	}
 	hopi = {
@@ -957,7 +957,7 @@ na_dene = {
 			Popé Ku-htihth Galisteo Xenome Ollito Tagu Bolsas Naranjo Catiti
 		}
 		female_names = {
-			Ootcakao Kahavasooah Ootcakao Sacagawea Chipeta Tocmetone
+ Kahavasooah Ootcakao Sacagawea Chipeta Tocmetone
 		}
 	}
 	zuni = {
@@ -970,7 +970,7 @@ na_dene = {
 			Popé Ku-htihth Galisteo Xenome Ollito Tagu Bolsas Naranjo Catiti
 		}
 		female_names = {
-			Ootcakao Kahavasooah Ootcakao Sacagawea Chipeta Tocmetone
+ Kahavasooah Ootcakao Sacagawea Chipeta Tocmetone
 		}
 	}
 }
@@ -990,21 +990,21 @@ caddoan = {
 			Tena Pulkuptima Sallaf Hoipkenek Yeptah Satinvose Pulican Pulktah Talsapeer
 		}
 		female_names = {
-			Elvamox Ethete Natane Bly Dae Cocheta Ekta Ela Elina Ila Imala Inayat Kushala Kusuma Liluye Lipika Lolaksi 
+			Elvamox Ethete Bly Dae Cocheta Ekta Ela Elina Ila Imala Inayat Kushala Kusuma Liluye Lipika Lolaksi 
 			Lolotea Nascha Nashota Natane Nita Nitara Niti Nitika Nittawosew Onawa Onawah Preyasi Prita PreetiHalf Smita 
 			Smriti Surabhi Tapi Tara
 		}
 	}
 }
 
-carribean = {	#The vanilla group. Note there are no vanilla cultures left in this group in the base file, these are all new.
+carribean = {	#The Note there no vanilla cultures left this group in the base file, these are all new.
 	graphical_culture = northamericagfx
 
 	guanahatabey = {
 		#primary = YZY
 		male_names = {
-			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
-			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+			Áhari Ebedimu Gunfuli Ilumani Semén
+			Wiwakaleme Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
 		}
 		female_names = {
 			Hayá Isani Takuiba Twengga
@@ -1015,8 +1015,8 @@ carribean = {	#The vanilla group. Note there are no vanilla cultures left in thi
 	}
 	macoris = {
 		male_names = {
-			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
-			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+			Áhari Ebedimu Gunfuli Ilumani Semén
+			Wiwakaleme Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
 		}
 		female_names = {
 			Hayá Isani Takuiba Twengga
@@ -1027,8 +1027,8 @@ carribean = {	#The vanilla group. Note there are no vanilla cultures left in thi
 	}
 	ciguayo = {
 		male_names = {
-			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
-			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+			Áhari Ebedimu Gunfuli Ilumani Semén
+			Wiwakaleme Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
 		}
 		female_names = {
 			Hayá Isani Takuiba Twengga
@@ -1039,8 +1039,8 @@ carribean = {	#The vanilla group. Note there are no vanilla cultures left in thi
 	}
 	warao = {			#A real life OSV language... quirky
 		male_names = {
-			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
-			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+			Áhari Ebedimu Gunfuli Ilumani Semén
+			Wiwakaleme Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
 		}
 		female_names = {
 			Hayá Isani Takuiba Twengga
@@ -1049,11 +1049,11 @@ carribean = {	#The vanilla group. Note there are no vanilla cultures left in thi
 			Eregu Heliya Nenege Waricha Kapongong Makushi Korobahado Panapi Muritaro Fararinno Kafotay Mudaukaho Waia Madinina
 		}
 	}
-	waikeri = {			#'According to Alexander von Humboldt, the Waikerí said that their language and that of the Warao were related.' - per wiki... well... I can't say I've done things with less evidence, but sure, why not.
+	waikeri = {			#'According to Alexander von Humboldt, Waikerí said their language and that of the Warao were related.' - per wiki... well... I can't say I've done things with less evidence, but sure, why not.
 		#primary = YZV
 		male_names = {
-			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
-			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+			Áhari Ebedimu Gunfuli Ilumani Semén
+			Wiwakaleme Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
 		}
 		female_names = {
 			Hayá Isani Takuiba Twengga
@@ -1069,8 +1069,8 @@ arawakan_g = {
 	
 	arawak = { #Taino
 		male_names = {
-			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
-			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+			Áhari Ebedimu Gunfuli Ilumani Semén
+			Wiwakaleme Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
 		}
 		female_names = {
 			Hayá Isani Takuiba Twengga
@@ -1081,8 +1081,8 @@ arawakan_g = {
 	}
 	west_taino = {
 		male_names = {
-			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
-			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+			Áhari Ebedimu Gunfuli Ilumani Semén
+			Wiwakaleme Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
 		}
 		female_names = {
 			Hayá Isani Takuiba Twengga
@@ -1093,8 +1093,8 @@ arawakan_g = {
 	}
 	east_taino = {
 		male_names = {
-			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
-			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+			Áhari Ebedimu Gunfuli Ilumani Semén
+			Wiwakaleme Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
 		}
 		female_names = {
 			Hayá Isani Takuiba Twengga
@@ -1105,8 +1105,8 @@ arawakan_g = {
 	}
 	ineri = {
 		male_names = {
-			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
-			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+			Áhari Ebedimu Gunfuli Ilumani Semén
+			Wiwakaleme Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
 		}
 		female_names = {
 			Hayá Isani Takuiba Twengga
@@ -1117,8 +1117,8 @@ arawakan_g = {
 	}
 	shebaya = {
 		male_names = {
-			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
-			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+			Áhari Ebedimu Gunfuli Ilumani Semén
+			Wiwakaleme Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
 		}
 		female_names = {
 			Hayá Isani Takuiba Twengga
@@ -1130,7 +1130,7 @@ arawakan_g = {
 	guajiro = { #	Lokono / Northern Mainland Arawak
 		primary = ARW
 		male_names = {
-			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+			Wiwakaleme Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
 		}
 		female_names = {
 			Takuiba Twengga
@@ -1141,8 +1141,8 @@ arawakan_g = {
 	}
 	maipurean = {
 		male_names = {
-			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
-			Wiwakaleme Haubariria Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
+			Áhari Ebedimu Gunfuli Ilumani Semén
+			Wiwakaleme Toratora Amorotahe Haubariria Kaigouchi Shoko Laliwa Arah Pirijá Arata Toruí Mbicy 
 		}
 		female_names = {
 			Hayá Isani Takuiba Twengga
@@ -1179,7 +1179,7 @@ cariban_g = {
 			Eregu Heliya Nenege Waricha Kapongong Makushi Korobahado Panapi Muritaro Fararinno Kafotay Mudaukaho Waia Madinina
 		}
 	}
-	yao_carib = {			#Poorly attested, might or might not Carib, but whatever... best info we have says it probably is
+	yao_carib = {			#Poorly attested, or might not Carib, but whatever... best info we have says it probably is
 		male_names = {
 			Áhari Ebedimu Gunfuli Kaigouchi Ilumani Pirijá Semén
 		}
@@ -1257,16 +1257,16 @@ french	= {
 			Raymonde Sarrazine Solène Sophie Stéphanie Sybille Tiburge Valence Yolande
 		}
 		dynasty_names = {
-			"de Valois" "de Bourbon" Bonaparte "de la Tour" "de Anjou" 
-			"de Lorraine" "de Foix" "de Montfort" "de Blois" "de Penthievre" "de Dreux"
-			"de Rohan" "de Bar" "d'Albert" "d'Escoubleau" "de Neufville" 
-			"de Valois" "de Bourbon" "de la Tour" "de Anjou" 
+ Bonaparte 
+
+ 
+			"de Valois" "de Bourbon" "de Tour" "de Anjou" 
 			"de Lorraine" "de Foix" "de Montfort" "de Blois" "de Penthievre" "de Dreux"
 			"de Rohan" "de Bar" "d'Albert" "d'Escoubleau" "de Neufville" "de Bourgogne"
 			"de Castellane" "d'Auvergne" "de Montbéliard" "de Metz" 
 			#CKII Frankish
-			"de Laval" "de la Tour du Pin" "de La Trémoille" "de Créquy" "de Broglie"
-			"de Montesquiou" "de Courtenay" "d'Harcourt" "de La Croix" "Le Tellier"
+			"de Laval" "de Tour du Pin" "de Trémoille" "de Créquy" "de Broglie"
+			"de Montesquiou" "de Courtenay" "d'Harcourt" "de Croix" "Le Tellier"
 			"de Rochechouart" "d'Aumont" "de Vergy" "de Saboulin" "de Gramont" "de Bissy"
 			"de Barrau" "de La Fayette" "d'Armagnac" "de Rougé" "du Quenoy" "de Ficquelmont"
 			"de Talleyrand" "de Saintignon" "von Luxemburg" "de Montmorency" "de Savoie"

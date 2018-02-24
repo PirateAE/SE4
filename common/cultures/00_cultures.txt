@@ -1050,7 +1050,32 @@ iberian	= {
 			Marinha Marine Mor Mayor Ouroana Sancha Teresa Urraca Gotruda Constança
 		}
 	}
-
+	basqueiberia = {
+		primary = SPA
+		dynasty_names = {
+			"de Navarra" "de Beaumont" "de Lerín" "de Monteagudo" Escors 
+			# CKII
+			"de Haro"
+		}
+		male_names = {
+			Enrique Carlos Francisco Juan Luis Gastón Pedro Buenaventura Godofredo Jaime Lanzarote 
+			Martín García Felipe Teobaldo Alfonso Agustín Alejandro Álvaro Andrés Antonio Bernardo César 
+			Cristóbal Diego Esteban Fernando Gaspar José Melchor Nicolás Simón Leonel
+			Alfontso Alphonse Alvar Oliver Antso Sancho Aznar Belasko Vasco Bermudo Vermudo 
+			Bernard Diaco Donato Donatus Egidio Egidius Eneko Inigo Erramun Raymond
+			Fortun Galindo Gartzia Garcia Gilen William Gontzal Gonzalo Herramel Joanes John 
+			Lope Lupo Louis Manrike Amalric Martin Munio Nuño Nuno Obeko Ordoño 
+			Ordono Pelaio Pelagius Piarres Peter Ramiro Rodrigo Roderick Vela Ximeno Simon 
+			Zentulo Centule Ladron Ferdinand Bernart
+		}
+		female_names = {
+			Juana Catalina Leonor Blanca
+			Aines Agnes Aldontza Aldonza Andregoto Antsa Sancha Belaskita Berengaria Blanka 
+			Blanche Elbira Elvira Eliza Emili Emily Estefania Stephania Joana Joan Konstantzia Constance 
+			Maior Mayor Maria Mentzia Mencia Munia Nuña Oneka Oria Plazentzia
+			Teresa Toda Urraka Urraca Ximena Plaisance
+		}
+	}
 }
 	
 french	= {
@@ -1692,7 +1717,49 @@ east_slavic = {
 			Gavriila Larisa Aleksandra Alla Bronislava Svetlana Yuliya Yaroslava Vladislava Lyudmila Nadejda Rostislava
 		}
 	}
-	
+	karelian = {
+		primary = KRL
+		male_names = {
+			Mohkku Mokci Náhkol Náinnas Njulgu Oaván Orddot Rástos Riibma Ruigi Sárra Speaidna Viggu Kaarel Kaaren Kahus Kaido 
+			Kalev Kalju Kaljuvald Kalle Kaomeel Karuvald Kaugemeel Kaupo Pihl Piho Pikne Päevalemb Pärt Raak Raho Rahuleid Sulev 
+			Sutepelg Tambet Tarva Tarvet Dobrinya Dokya Dondy Gazheg Hulyen Inzhay Irter Lyneg Lysko Kezhapa Kezhay Kezhedey 
+			Shypicha Shyrpuzh Spira Tuhan Tyutyuk Kezhevat Kichay Koksha 
+			Kuaz Kudym-Osh Kya Kyldysin Malyaka Malyy Meltsayka Mosheg Nalka Turush Uchva Varaka Vechkas Velmayka Virdyan Viryas 
+			Viryay Vokan Yirkap Ylvan Zarny Tugan Parush Pivtsay Pokshayka Putyayka Setyamka Shindyay Shoksha Syrka Tikshayka 
+			Tyueykezhut Tylmache Tylze Tyushten Tyushtya Uzhara Varmanpaz
+		}
+		female_names = {
+			Nyayka Olota Ordava Oshama Parava Pekshayka Pemka Pokshava Poshayka Potekay Potyava Putyayka Ravzhava Ruzava 
+			Sanal'ka Sangasa Sernyava Serzhay Setyamka Seyamka Shonzhava Shukshtoroyka Sinyava Siyamka Slyugan'ka Sochava Styaka 
+			Syryava Tatka Tekay Tetyava Tikshayka Toyaksha Tundava Tundya Unzhutka Upurga Utyayka Valdava Vergava Vezhav Vidyava 
+			Virtyava Yalgava Litova Mastorava Noroava
+		}
+	}
+	cossack = {
+		primary = ZAZ
+		dynasty_names = {
+			"Doroshenko" "Khmelnytsky" "Sahaidachny" "Mazepa" "Pugachev" "Razin" "Sirko" "Shkuro" "Skoropadskyi" "Timofeyevich"
+			"Vyhovsky" "Bulavin" "Nalyvaiko" "Kosinski"
+		}
+		male_names = {
+			Afanasiy Akim Aleksandr Alexei Anatoliy Andrei Andriy Arkadiy Bogdan Bohuslav Boris Borysko Boyko Daniil Danylo
+			Demyan Dmitriy Dmytro Dorofey Fedir Feodosiy Feofilakt Fyodor Gavriil Gleb Hedeon Hryhoriy Igor Ingvar Innokentiy
+			Iosif Ivan Izyaslav Kristiya Kyrilo Lavrentiy Makariy Maksym Marko Matveiy Matviyko Mecheslav Mikhail Mstislav
+			Mykhaylo Mykola Myroslav Nazariy Nikifor Nykon Oleg Olek Oleksander Oleksiy Onisim Pavel Pavlo Petro Prokopiy
+			Pylip Pyotr Radomir Radomyr Roman Rostislav Ryurik Sava Saveliy Semen Sergei Stanislav Stepan Svyatoslav Symon
+			Taras Terentiy Valeriy Vassyl Vladimir Volodymyr Vsevolod Vyacheslav Yakim Yakiv Yaropolk Yaroslav Yevgeniy
+			Yevhevniy Yosip Yuriy
+		}
+		female_names = {
+			Aleksandra Alla Bogdana Bronislava Gavriila Larisa Lyudmila Nadejda Rostislava Svetlana Vladislava Yaroslava Yesfir Yuliya
+		}
+		dynasty_names = {
+			Rurikovich Godunov Shuisky Romanov Sheremetev Golitsyn Naryshkin Khilkov Gorchakov
+			Belosselsky Chelyadnin Potyomkin Poloch Izbor Tversky Lukisky Pleskov Toropetsky Dukhovsky
+			Koroviev Woland Tyvertsky Buzhansky Slutsky Pinesky Zhytomyrsky Vynnytsky Polan Ulich Drevl 
+			Lyubech Roslavsky Turov
+		}
+	}
 	dynasty_names = {
 		Rurikovich Godunov Shuisky Romanov Sheremetev Golitsyn Naryshkin Khilkov Gorchakov
 		Belosselsky Chelyadnin Potyomkin Poloch Izbor Tversky Lukisky Pleskov Toropetsky Dukhovsky

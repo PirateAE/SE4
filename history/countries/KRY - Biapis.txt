@@ -67,7 +67,7 @@ religious_school = zaidi_school
 	}
 }
 
-1538.1.1 = {
+1558.1.1 = {
 	monarch = {
 		name = "Ahmad"
 		dynasty = "Kiya"

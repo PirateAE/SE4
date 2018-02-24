@@ -131,7 +131,7 @@ religious_school = shafii_school
 	}
 }
 
-1465.9.1 = {
+1475.9.1 = {
 	monarch = {
 		name = "Dughaym bin Khasram" #2nd Time
 		dynasty = "Husaynid"

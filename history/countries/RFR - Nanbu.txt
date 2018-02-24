@@ -9,7 +9,7 @@ capital = 4131 # Mutsu
 	monarch = {
 		name = "Tokimasa" 
 		dynasty = "Nanbu"
-		birth_date = 1410
+		birth_date = 1420.1.1
 		adm = 3
 		dip = 4
 		mil = 2
@@ -162,6 +162,21 @@ capital = 4131 # Mutsu
 	}
 }
 
+1546.4.1 = {
+	heir = {
+		name = "Nobunao"
+		monarch_name = "Nobunao"
+		dynasty = "Nanbu"
+		birth_date = 1546.4.1
+		death_date = 1599.11.22
+		claim = 90
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
+
+
 1570.1.1 = {
 	heir = {
 		name = "Harutsugu"
@@ -183,20 +198,6 @@ capital = 4131 # Mutsu
 		adm = 1
 		dip = 1
 		mil = 1
-	}
-}
-
-1546.4.1 = {
-	heir = {
-		name = "Nobunao"
-		monarch_name = "Nobunao"
-		dynasty = "Nanbu"
-		birth_date = 1546.4.1
-		death_date = 1599.11.22
-		claim = 90
-		adm = 5
-		dip = 3
-		mil = 4
 	}
 }
 

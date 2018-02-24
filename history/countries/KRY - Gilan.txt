@@ -1,10 +1,10 @@
 government = iqta
-mercantilism = 25
+government_rank = 1
 primary_culture = mazandarani
 religion = shiite #Zaidiyyah
 technology_group = muslim
 capital = 417 # Lahijan
-religious_school = zaidi_school
+ 
 
 1430.1.1 = {
 	monarch = {

@@ -127,7 +127,7 @@ turko_semitic = {
 
 	syriac_culture = {
 		graphical_culture = muslimgfx
-		primary = LEB			#Imperfect, but calling the Lebanon a Syriac tag, for now. May come back later with a proper Christian -Marionite ER Orthodox- tag and make lebanon a druze tag, or something
+		primary = LEB			#Imperfect, but calling the a Syriac for now. May come back later with a proper Christian -Marionite ER Orthodox- and make lebanon a druze tag, or something
 		dynasty_names = {
 			"Mirdasid" "Maanid" "al-Shihab"  Yakubid Hassanid
 			Katkhuda Abaza Qasimiyya Qitas al-Qazdughli 
@@ -188,7 +188,7 @@ turko_semitic = {
 		}
 		male_names = {
 			Mani Rabi'a Markhan Watban "'Abd-Allah" Sa'ud Zayid
-			'Abdullah Turki Al-Rahman Fahd Abu-Bakr Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir 
+ Turki Al-Rahman Fahd Abu-Bakr Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir 
 			Abdul-Wahab Abdul Aghlab Akin Alim Aram Azam Bahir Burhanaddin
 			Fadil Fadl Faruk Ghalib Hafiz Halil Hasan Husam Idris 
 			Is'mail Jabir Jalil Jibril Khaireddin Mahdi Mahmud
@@ -276,7 +276,7 @@ turko_semitic = {
 		}
 		male_names = {
 			Mani Rabi'a Markhan Watban "'Abd-Allah" Sa'ud Zayid
-			'Abdullah Turki Al-Rahman Fahd Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir 
+ Turki Al-Rahman Fahd Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir 
 			Abdul-Wahab Abdul Aghlab Akin Alim Aram Azam Bahir Burhanaddin
 			Fadil Fadl Faruk Ghalib Hafiz Halil Hasan Husam Idris 
 			Is'mail Jabir Jalil Jibril Khaireddin Mahdi Mahmud

@@ -1653,7 +1653,7 @@ new_american = {
 			"de Bar" "de Neufville" "de Bourgogne"
 			"de Castellane" "d'Auvergne" "de Montbéliard" "de Metz" 
 			#CKII Frankish
-			"de Laval" "de la Tour du Pin" "de Trémoille" "de Créquy" "de Broglie"
+			"de Laval" "de Tour du Pin" "de Trémoille" "de Créquy" "de Broglie"
 			"de Montesquiou" "de Courtenay" "d'Harcourt" "de Croix" "Le Tellier"
 			"de Rochechouart" "d'Aumont" "de Vergy" "de Saboulin" "de Gramont" "de Bissy"
 			"de Barrau" "de La Fayette" "d'Armagnac" "de Rougé" "du Quenoy" "de Ficquelmont"

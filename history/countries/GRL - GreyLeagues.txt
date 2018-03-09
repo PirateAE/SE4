@@ -5,7 +5,6 @@ government_rank = 1
 technology_group = western
 religion = catholic
 primary_culture = swiss
-add_accepted_culture = romanch_culture
 historical_friend = SWI
 capital = 1873 # Chur
 

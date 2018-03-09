@@ -1,5 +1,5 @@
 government = native_council government_rank = 1
-primary_culture = crow
+primary_culture = shoshone
 religion = wakan_tanka
 technology_group = north_american
 capital = 2504 # Eeelalapito

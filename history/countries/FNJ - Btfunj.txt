@@ -1,6 +1,6 @@
 government_rank = 1
 government = tribal_federation
-primary_culture = luo_culture
+primary_culture = nubian
 religion = shamanism
 technology_group = east_african
 unit_type = sub_saharan

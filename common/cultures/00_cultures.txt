@@ -8159,3 +8159,18 @@ kamchatkan_g = {
 		}
 	}
 }
+lost_cultures_group = {
+		graphical_culture = inuitgfx
+		jan_mayenese = {
+			primary = JMN
+			dynasty_names = {
+				Beliy Medved Bjorn Rawrrorr Rrrrr Grrr Gyp Qoi Styrbjorn Blomstfjellet
+			}
+			male_names = {
+				Björn Bamse Brum Grawr Nanuk Ursus Isbjorn Grrrowr Grrgrrr Rawr
+			}
+			female_names = {
+				Brummelisa Ursa Brumma
+			}
+	}
+}

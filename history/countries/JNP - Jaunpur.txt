@@ -103,11 +103,8 @@ religious_school = hanafi_school
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = naive_personality
-}
-
 #While Muhammad Shah is away his brother hussain usurps the throne
-
-1457.1.1 = {
+#1457.1.1 
 	heir = {
 		name = "Hussain"
 		monarch_name = "Hussain Shah"
@@ -119,7 +116,6 @@ religious_school = hanafi_school
 		DIP = 0
 		MIL = 3
 	}
-	clear_scripted_personalities = yes
 	add_heir_personality = strict_personality
 }
 

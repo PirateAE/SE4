@@ -1,6 +1,6 @@
 government = feudal_monarchy
-primary_culture = bosnian
-add_accepted_culture = serbian
+primary_culture = serbian
+add_accepted_culture = croatian
 religion = catholic
 technology_group = eastern
 capital = 3002	# Sarajevo

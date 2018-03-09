@@ -1,5 +1,5 @@
 government = despotic_monarchy 
-primary_culture = cappadocian
+primary_culture = turkish
 religion = orthodox
 technology_group = eastern
 capital = 5155						# Rough guess

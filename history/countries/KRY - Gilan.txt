@@ -67,7 +67,7 @@ capital = 417 # Lahijan
 	}
 }
 
-1538.1.1 = {
+1558.1.1 = {
 	monarch = {
 		name = "Ahmad"
 		dynasty = "Kiya"

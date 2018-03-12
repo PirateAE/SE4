@@ -32,16 +32,6 @@ religious_school = ismaili_school
 
 1500.1.1 = {
 	monarch = {
-		name = "Mushin"
-		dynasty = "Musha'sha'iya"
-		adm = 3
-		dip = 4
-		mil = 3
-	}
-}
-
-1500.1.1 = {
-	monarch = {
 		name = "Ali"
 		dynasty = "Musha'sha'iya"
 		adm = 4
@@ -87,6 +77,16 @@ religious_school = ismaili_school
 		adm = 1
 		dip = 2
 		mil = 4
+	}
+}
+
+1585.1.1 = {
+	monarch = {
+		name = "Mushin"
+		dynasty = "Musha'sha'iya"
+		adm = 3
+		dip = 4
+		mil = 3
 	}
 }
 

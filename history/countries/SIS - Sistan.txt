@@ -19,6 +19,16 @@ religious_school = shafii_school
 	}
 }
 
+1459.1.1 = {
+	monarch = {
+		name = "Mahmud"
+		dynasty = "Mihrabanid"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
 1480.1.1 = {
 	monarch = {
 		name = "Shams al-Din Muhammad"
@@ -26,15 +36,5 @@ religious_school = shafii_school
 		adm = 1
 		dip = 2
 		mil = 1
-	}
-}
-
-1439.1.1 = {
-	monarch = {
-		name = "Mahmud"
-		dynasty = "Mihrabanid"
-		adm = 3
-		dip = 4
-		mil = 4
 	}
 }

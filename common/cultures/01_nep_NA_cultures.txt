@@ -266,6 +266,9 @@ chitimachan = {
 siouan = {
 	graphical_culture = northamericagfx
 
+	crow = {
+		primary = CRW
+	}
 	tutelo = {
 		primary = XXR
 	}

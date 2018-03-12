@@ -1988,29 +1988,15 @@ east_slavic = {
 			Gavriila Larisa Aleksandra Alla Bronislava Svetlana Yuliya Yaroslava Vladislava Lyudmila Nadejda Rostislava
 		}
 	}
-	karelian = {
-		primary = KRL
-		male_names = {
-			Mohkku Mokci Náhkol Náinnas Njulgu Oaván Orddot Rástos Riibma Ruigi Sárra Speaidna Viggu Kaarel Kaaren Kahus Kaido 
-			Kalev Kalju Kaljuvald Kalle Kaomeel Karuvald Kaugemeel Kaupo Pihl Piho Pikne Päevalemb Pärt Raak Raho Rahuleid Sulev 
-			Sutepelg Tambet Tarva Tarvet Dobrinya Dokya Dondy Gazheg Hulyen Inzhay Irter Lyneg Lysko Kezhapa Kezhay Kezhedey 
-			Shypicha Shyrpuzh Spira Tuhan Tyutyuk Kezhevat Kichay Koksha 
-			Kuaz Kudym-Osh Kya Kyldysin Malyaka Malyy Meltsayka Mosheg Nalka Turush Uchva Varaka Vechkas Velmayka Virdyan Viryas 
-			Viryay Vokan Yirkap Ylvan Zarny Tugan Parush Pivtsay Pokshayka Putyayka Setyamka Shindyay Shoksha Syrka Tikshayka 
-			Tyueykezhut Tylmache Tylze Tyushten Tyushtya Uzhara Varmanpaz
-		}
-		female_names = {
-			Nyayka Olota Ordava Oshama Parava Pekshayka Pemka Pokshava Poshayka Potekay Potyava Putyayka Ravzhava Ruzava 
-			Sanal'ka Sangasa Sernyava Serzhay Setyamka Seyamka Shonzhava Shukshtoroyka Sinyava Siyamka Slyugan'ka Sochava Styaka 
-			Syryava Tatka Tekay Tetyava Tikshayka Toyaksha Tundava Tundya Unzhutka Upurga Utyayka Valdava Vergava Vezhav Vidyava 
-			Virtyava Yalgava Litova Mastorava Noroava
-		}
-	}
 	cossack = {
 		primary = ZAZ
 		dynasty_names = {
 			"Doroshenko" "Khmelnytsky" "Sahaidachny" "Mazepa" "Pugachev" "Razin" "Sirko" "Shkuro" "Skoropadskyi" "Timofeyevich"
 			"Vyhovsky" "Bulavin" "Nalyvaiko" "Kosinski"
+			Rurikovich Godunov Shuisky Romanov Sheremetev Golitsyn Naryshkin Khilkov Gorchakov
+			Belosselsky Chelyadnin Potyomkin Poloch Izbor Tversky Lukisky Pleskov Toropetsky Dukhovsky
+			Koroviev Woland Tyvertsky Buzhansky Slutsky Pinesky Zhytomyrsky Vynnytsky Polan Ulich Drevl 
+			Lyubech Roslavsky Turov
 		}
 		male_names = {
 			Afanasiy Akim Aleksandr Alexei Anatoliy Andrei Andriy Arkadiy Bogdan Bohuslav Boris Borysko Boyko Daniil Danylo
@@ -2023,12 +2009,6 @@ east_slavic = {
 		}
 		female_names = {
 			Aleksandra Alla Bogdana Bronislava Gavriila Larisa Lyudmila Nadejda Rostislava Svetlana Vladislava Yaroslava Yesfir Yuliya
-		}
-		dynasty_names = {
-			Rurikovich Godunov Shuisky Romanov Sheremetev Golitsyn Naryshkin Khilkov Gorchakov
-			Belosselsky Chelyadnin Potyomkin Poloch Izbor Tversky Lukisky Pleskov Toropetsky Dukhovsky
-			Koroviev Woland Tyvertsky Buzhansky Slutsky Pinesky Zhytomyrsky Vynnytsky Polan Ulich Drevl 
-			Lyubech Roslavsky Turov
 		}
 	}
 	dynasty_names = {
@@ -3099,36 +3079,6 @@ caucasian = {
 			Elisu Gulandash Aamnat Ajmaani Ajsyat Ajza Ajzan Albiika Albiina Amiina Asma Asyat Azman Aznii Beliita Bilquis 
 			Busana Dagman Dagmani Dagmara Deshi Dikman Duqyaakha Eliina Eliita Eliiza Esiila Havaa Kamiila Kamiisa Kariina 
 			
-		}
-	}
-	armenian = {
-		graphical_culture = greekgfx
-		primary = ARM
-		dynasty_names = { 
-			Bagratuni Rubenid Pahlavuni
-			Tumanishvili Abamelik Amatuni "Argutinsky-Dolgorukov" Bebutov "Hasan-Jalalyan" Khojaminasishvili
-			Melikov Orbelid 
-			#CK2
-			"Bagdazarian" "Melik-Avanyan" 
-		}
-		male_names = {
-			Mkhitar Abbas Smbat Vagram Musegh Sahak Tachar Arakel Ari Armen 
-			Arshavir Badouagan Berjouhi Ghoukas Haig Jirair 
-			Kevork Khajag Krikor Movses Nairi Sevan Taniel Vahan Zadig Zoravan
-			Abas Abirad Aboughamr Aboulgharib Aleksandr Alexander Artashes Artashir Ardeshir Artavazd Arsen 
-			Arshak Ashot Athom Atrnerseh Avag Avedis Bagour Bagrat Bedros Peter 
-			Boghos Paul Davit David Eshkhan Gagik Gevorg George Karayan
-			Gosdantin Constantine Grigor Gregory Gurgen Lupo Hagop Hamazasp Hethum Hovhannes John Hovsep 
-			Joseph Ishkhan Ivane Kapriel Gabriel Khachik Khosrov Khosrau Levon Leo Malkhas 
-			Mamigon Manuel Margos Marcus Melek Mihrdat Mithridates Mikayel Michael Mleh Mushegh 
-			Mushel Mzhezh Nerseh Narses Oshin Roupen Reuben Sahag Isaac Sarkis Sergius Sevag Shahanshah 
-		}
-		female_names = {
-			Aghavni Alitz Alice Almasd Anahid Anna Anoush Arda Arevig Arin Baydzar Berjanoush Berjouhi 
-			Datevig Dalita Eliz Eloise Gadar Gorandoukht Gorandukht Hasmig Houri Hranoush Hripsimeh 		
-			Keghanoush Keran Khorishah Kohar Latavri Leyli Lousin Mara Margarid Margaret Maria 
-			Mariyam Mariam Meghranoush Nane Nazani Ovsanna Pounig Razmouhi Rita Satenik Satinik Seta Siran 
-			Sirvart Srpouhi Shoushanig Takouhi Tamar Vartanoush Vartouhi Vosgi Yeva Zabel Elizabeth 
 		}
 	}
 	dynasty_names = {
@@ -5168,32 +5118,6 @@ muskogean = {
 sonoran = {
 	graphical_culture = northamericagfx
 	
-	pueblo = {
-		primary = PUE
-		dynasty_names = {
-			Acoma Cochiti Isleta Jemez Laguna Nambe "Ohkay Owingeh" Picuris Pojoaque Sandia 
-			Taos Tesuque Zia Zuni Hopi Piru
-		}
-		male_names = {
-			Popé Ku-htihth Galisteo Xenome Ollito Tagu Bolsas Naranjo Catiti
-		}
-		female_names = {
- Kahavasooah Ootcakao Sacagawea Chipeta Tocmetone
-		}
-	}
-	piman = {
-		primary = PIM
-		dynasty_names = {
-			Akimel Tohono "Hia Ced" Sobaipuri Otama Kina Equituni Uturituc Sacaton "Onk Akimal"
-			Yoreme Hiakim Potam Vicam Torim Bacum Cocorit Huirivis Benem Rahum
-		}
-		male_names = {
-			Oacpicagiguya Kaviu Papago Panhop Cajemé
-		}
-		female_names = {
-			Kahavasooah Ootcakao Sacagawea Chipeta Tocmetone
-		}
-	}
 	shoshone = {
 		primary = SHO
 		dynasty_names = {
@@ -5205,24 +5129,6 @@ sonoran = {
 		}
 		female_names = {
 			Kahavasooah Ootcakao Sacagawea Chipeta Tocmetone
-		}
-	}
-	kiowa = {
-		primary = KIO
-		dynasty_names = {
-			Clatsop Cathlamet Skilloot Cathlapotle Multnomah Watlala Clowwewalla Clackamas Chiluckittequaw 
-			Wishram Wasco Atfalati Yamel Lakmiut Chepenafa Santiam Chelamela Calapooya Yoncalla
-		}
-		male_names = {
-			Comcomly Tumulth Napesa Injice Tasyah Nessick Etnama Cheenlenten Nasyah Absaquil Quintioosan Talsapeer 
-			Myneletta Quiaquatty Yalkus Kawkama Kiles Kowahtough Anta Quilala Mequah Yackatee Tophor Hallale Pulktah 
-			Tumwalth Obanahah Watchano Teapinick Wallahpicate Lalbick Cuckamanna Towyecolla Laham Senegertta Pulican 
-			Tena Pulkuptima Sallaf Hoipkenek Yeptah Satinvose 
-		}
-		female_names = {
-			Elvamox Ethete Bly Dae Cocheta Ekta Ela Elina Ila Imala Inayat Kushala Kusuma Liluye Lipika Lolaksi 
-			Lolotea Nascha Nashota Natane Nita Nitara Niti Nitika Nittawosew Onawa Onawah Preyasi Prita PreetiHalf Smita 
-			Smriti Surabhi Tapi Tara
 		}
 	}
 }
@@ -6741,7 +6647,7 @@ western_aryan = {
 			"Ghanshani" "Doolani" "Khetpal" "Lohi" "Notani" "Sawai" "Bhambhani" 
 		}
 		male_names = {
-			"Ali Sher" "Fath Khan" "Tughluq" "Nizam ad-Din" "Furuz Salah ad-Din" "Shah Shuja' Beg" "Nanda" 
+			"Fath Khan" "Tughluq" "Nizam ad-Din" "Furuz Salah ad-Din" "Shah Shuja' Beg" "Nanda" 
 			"Shah Husayn" "Mirza 'Isa" "Mirza Baqi" "Mirza Jani Beg" "Yar Khan" 
 			"Muhammad Murad" "Gulam Shah" "Sarfaraz Khan" "Gulam Nabi Khan" "'Abd an-Nabi Khan" 
 			"'Abd Allah Khan Talpur" "Mir Fath Ali" "Thara" "Mohammed 'Isa" "Mohammed Baqi" "Nur Mahammad" "Mohammad" 
@@ -6916,7 +6822,7 @@ dravidian = {
 		}
 		male_names = {
 			"Chera Udaya" "Mootha" "Sri Martanda" "Aditya" "Bala Rama" "Martanda" 
-			"Sri Vira" "Udaya Martanda" "Gouri Laksmi Bai" "Gouri Parvati Bai" "Kotha Aditya" "Ravi Ravi" "Rama" "Sri Vira Udaya" "Sri Vira" "Udaya" "Ravi" "Unni" "Kallada" "Marthanda" "Raman" "Eman" "Ramayyan" 
+			"Udaya Martanda" "Gouri Laksmi Bai" "Gouri Parvati Bai" "Kotha Aditya" "Ravi Ravi" "Rama" "Sri Vira Udaya" "Sri Vira" "Udaya" "Ravi" "Unni" "Kallada" "Marthanda" "Raman" "Eman" "Ramayyan" 
 			"Thiruvattar" "Kodassery" "Koratty"
 		}
 		female_names = {
@@ -7365,25 +7271,7 @@ sahelian = {
 			Waheeda Wahida Widad Yasmeen Yusra Zaahira Zahia Zahida Zahira Zahra Zahrah Zaida Zaina Zainab Zakiah 
 			Zakiya Zakiyya Zaray Zayna Zaynab Zinat Zubaida Zulaykha Zulekha
 		}
-	}
-	tuareg = {
-		primary = AIR
-		dynasty_names = {
-			Magsharen Stanbulewa "Ait Loaien" "Dag Rali" Iregenaten
-			"Kel Rela" "Kel Silet" Taituq "Tgéhé Millet" "Kel Afella"
-			"Kel Taghlit" "Kel Essouk" "Kel Ouzzeyn" Ifergoumessen Iriyaken
-			"Taghat Mellet" Idnan
-		}
-		male_names = {
-			Agg-Abba al-Amin al-Wali al-Mu'min Uthman Agg-A'isha Humad Guma al-Adil ad-Dani al-Baqiri Ibrahim 
-			Waffa al-Qadir ar-Raffa ad-Dusuki Mikitan ar-Rahman Umaru ag-Ibrahim Salah al-Khir Yunus Ag Mama al-Hajj 
-			Ahmad Aytarel Attici Musa Akhamuk Meslar Bayy
-		}
-		female_names = {
-			"Tin Hinan" Takama Tanteflest Tarayna Aygul Aygün AylIn Aynur Aysel Fatma FIdan Firuza Gulnar Gulnara 
-			Günay Günel Konul Leyla Parvana Parvin Sevda SevInc SevInj Tarana Vüsala Zemfira Zeynab
-		}
-	}		
+	}	
 	senegambian = {
 		primary = JOL
 		dynasty_names = {
@@ -7992,103 +7880,13 @@ evenks = {
 			Naryiaana Aiyyna Kydaana Tuskulaana Khaarchaana Temülen Börte Mandukhai Samar Zaufishan 
 		}
 	}
-	yakut = {
-		dynasty_names = {
-			Badarhan Tabangut 
-		}
-		male_names = {
-			Aiaan Atch-ytagyn Giv-ynkeev Nute-nli Gyrgol-gyrgyn Tanat Darkhan Dokhsun Duolan Dygyn Dulustaan Kyytymei 
-			Kencheeri Keskil Manchaary Michil Modun Nurgun Nuolan Sulustaan Tolluman Timir Tygyn Tuskul Uolan Ergis 
-			Erchim Erkin Yrgel Kharyskhan
-		}
-		female_names = {
-			Naryiaana Aiyyna Kydaana Tuskulaana Khaarchaana Temülen Börte Mandukhai Samar Zaufishan 
-		}
-	}
-	yukagyr = {
-		primary = HOD
-		dynasty_names = {
-			Uygulaan Khorints
-		}
-		male_names = {
-			Aiaan Atch-ytagyn Giv-ynkeev Nute-nli Gyrgol-gyrgyn Tanat Darkhan Dokhsun Duolan Dygyn Dulustaan Kyytymei 
-			Kencheeri Keskil Manchaary Michil Modun Nurgun Nuolan Sulustaan Tolluman Timir Tygyn Tuskul Uolan Ergis 
-			Erchim Erkin Yrgel Kharyskhan
-		}
-		female_names = {
-			Naryiaana Aiyyna Kydaana Tuskulaana Khaarchaana Temülen Börte Mandukhai Samar Zaufishan 
-		}
-	}
-	buryat = {
-		primary = BRT
-		dynasty_names = {
-			Badarhan "Chagatay" "Edigüid" "Giray" "Borjigin" "Shaybanid" "Janid" "Mangit"
-		}
-		male_names = {
-			Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligtü Dayan Darayisung 
-			Delbeg Ejei Elbeg Engke Güyük Gün Gulichi Irinchibal Jorightu Kublai Köke Ligdan Markörgis Möngke Mulan 
-			Manduulun Öljei Örüg Oyiradai Ögödei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Temür Toghun Tümen 
-			Tolui Toq Uskhal Yesün Ariq Batu Eljigidei Joichi
-		}
-		female_names = {
-			Temülen Börte Mandukhai Samar Zaufishan 
-		}
-	}
-	tungus = {
-		dynasty_names = {
-			Bulagat Ekhirit Khongodor
-		}
-		male_names = {
-			Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligtü Dayan Darayisung 
-			Delbeg Ejei Elbeg Engke Güyük Gün Gulichi Irinchibal Jorightu Kublai Köke Ligdan Markörgis Möngke Mulan 
-			Manduulun Öljei Örüg Oyiradai Ögödei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Temür Toghun Tümen 
-			Tolui Toq Uskhal Yesün Ariq Batu Eljigidei Joichi
-		}
-		female_names = {
-			Naryiaana Aiyyna Kydaana Tuskulaana Khaarchaana Temülen Börte Mandukhai Samar Zaufishan 
-		}
-	}
-	manchu = {
-		country = { has_banners = 1}
-		province = { local_has_banners = 1}
-		primary = MCH
-		dynasty_names = {
-			"Aisin Gioro" Wanyan "Yehe Nara" "Ula Nara" "Magiya Hala" Niohuru
-			Heseri Guwalgiya Tunggiya Hata Hoifa Yeren Udige
-		}
-		male_names = {
-			"Bukuri Yongson" "Sibeoci Fiyanggu" "Dudu Mengtemu" "Huang Taiji" "Hiowan Yei" "In Jen" "Hung Li" "Yong Yan"
-			"Min Ning" Cungsan Tolo Fuman Giocangga Taksi Nurhachi Dorgon Hooge Fulin Fanca Hoogle Yinzhi Yinreng 
-			Yinti Daisan Abatai Ajige Dodo Yinxiang Yinsi Yintang Hongshi Hongzhou Yongqi Akjan Ayan Baohu Chengjun 
-			Dorgide Eje Encehen Fisin Fulu Ganyong Ganzhan Hurong Jabsan Jakdan Leli Liyi Lung Mergen Muduri Mujin Oori 
-			Radi Talman Wehe Yelu Yongyi Zhanhung Zhenghu Zhengrong Zhongcheng Zhongchun Zhongho Zhonghu Zhonghung 
-			Zongqian Zhongxian Zhongyong Zhongyu
-		}
-		female_names = {
-			Fen Jian Wen Hejing Hejia Hexiao Zhuangjing 
-		}
-	}
-	dynasty_names = {
-		Khorints Tabangut Sartul Daur Khorchin Bulagat Ekhirit Khongodor
-	}
 }
 
 
 kamchatkan_g = {
 	graphical_culture = inuitgfx
 	
-	ainu = {
-		primary = ANU
-		dynasty_names = {
-			Shibushari Hae Betsu Shiraoi Kurasi Kakizaki Ponyanpe Shirokani Otona Ekashi Saru Usu
-		}
-		male_names = {
-			Koshamain Shakushain Kamokutain Onibishi Penri Piripos Takatsuki
-		}
-		female_names = {
-			Monashir Etunrachich Toitoi
-		}
-	}
+
 	kamchatkan = {
 		primary = KMC
 		dynasty_names = {

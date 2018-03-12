@@ -63,7 +63,7 @@ tartar	= {
 		}
 		male_names = {
 			"Ulugh Muhammad" "Muhammad" "Mahmudak" "Khalil" "Ibrahim" "Ilham" "Muhammad Amin" "Abdul-Latif" "Shah Ali" 
-			"Sahib" "Safa" "Jan Ali" "Otemesh" "Shah Ali" "Yadigar Muhammad" "Ahmyetgali" "Airat" "Akhmed" "Alikber" 
+			"Sahib" "Safa" "Jan Ali" "Otemesh" "Yadigar Muhammad" "Ahmyetgali" "Airat" "Akhmed" "Alikber" 
 			"Amazat" "Amerhan" "Ansar" "Anvar" "Ahmat" "Aydar" "Ayrat" "Azgar" "Cingi" "Farit" "Ildus" "Ilgiz" "Ilsat" 
 			"Irek" "Nariman" "Radiq" "Ramil" "Rasit" "Rawil" "Risat" "Rusan" "Timer" "Toktamish" "Yasher" 
 			"Zagip" "Zamanbyek" "Zaribzyan" "Gabdulla" "Zofar"

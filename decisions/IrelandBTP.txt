@@ -526,16 +526,17 @@ country_decisions = {
 				limit = { NOT = { culture_group = gaelic } }
 				373 = { rename_capital = "Dublin" }
 			}
-			if = {
-				limit = { 373 = { has_owner_culture = no } }
-				373 = {
-					add_culture_construction = {
-					culture = ROOT
-					speed = 0.5
-					cost = 0.0
-					}
-				}
-			}
+			#not sure if this is properly setup... making error in validator
+#			if = {
+#				limit = { 373 = { has_owner_culture = no } }
+#				373 = {
+#					add_culture_construction = {
+#					culture = ROOT
+#					speed = 0.5
+#					cost = 0.0
+#					}
+#				}
+#			}
 			373 = {
 			 	add_base_tax = 2
 				add_base_production = 2
@@ -852,7 +853,7 @@ country_decisions = {
 			}
 			create_subject = {
 				subject_type = viceroyalty_bt
-				subject = KOI
+				who = KOI
 			}
 			add_country_modifier = {
 				name = "huzzah_for_devolution"

@@ -1533,7 +1533,7 @@ country_decisions = {
 			religion_group = pagan
 			NOT = { religion = tengri_pagan_reformed }
 			any_owned_province = {
-				religion_group = zoroastrian_group
+				religion = zoroastrian
 			}
 			is_free_or_tributary_trigger = yes
 		}
@@ -1560,7 +1560,9 @@ country_decisions = {
 			religion_group = pagan
 			NOT = { religion = tengri_pagan_reformed }
 			any_owned_province = {
-				religion_group = zoroastrian_group
+				religion = jewish
+				religion = samaritan_faith
+				religion = karaite_faith
 			}
 			is_free_or_tributary_trigger = yes
 		}

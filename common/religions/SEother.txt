@@ -282,7 +282,7 @@ dharmic = {
 			heretic = { BHAKTI }
 	}
 		
-		jain = {
+	jain = {
 			icon = 99
 			color = { 51 77 153 }
 			country = {

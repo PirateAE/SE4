@@ -27,7 +27,7 @@ country_decisions = {
 		}
 		
 		effect = {
-			IF = {
+			if = {
 				limit = { primary_culture = gotlander }
 				change_primary_culture = swedish
 			}

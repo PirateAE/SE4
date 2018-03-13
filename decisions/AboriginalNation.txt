@@ -1,0 +1,84 @@
+country_decisions = {
+
+	aboriginal_nation = {
+		major = yes
+		potential = {
+			primary_culture = aboriginal
+			capital_scope = { 
+				or = {
+					region = western_australia_region 
+					region = eastern_australia_region
+					region = nothern_australia_region
+					region = southern_australia_region
+				}
+			}
+			OR = {
+				ai = no
+				num_of_cities = 3	
+			}
+			NOT = { exists = AUS }
+			NOT = { exists = ABO }
+		}
+		allow = {
+			adm_tech = 10
+			is_free_or_tributary_trigger = yes
+			is_at_war = no
+			custom_trigger_tooltip = {
+				tooltip = one_third_of_australia_tooltip
+				num_of_owned_provinces_with = {
+					value = 30
+					OR = {
+						region = western_australia_region
+						region = eastern_australia_region
+						region = nothern_australia_region
+						region = southern_australia_region
+					}
+					is_core = ROOT
+				}
+			}
+		}
+		effect = {
+			change_tag = ABO
+			#change_government = constitutional_republic
+			if = {
+				limit = {
+					is_part_of_hre = yes
+					is_elector = no
+				}
+				every_owned_province = {
+					limit = { is_part_of_hre = yes }
+					set_in_empire = no
+				}
+			}
+			if = {
+				limit = { NOT = { government_rank = 2 } }
+				set_government_rank = 2
+			}
+			western_australia_region = {
+				limit = { NOT = { owned_by = ROOT } }
+				add_permanent_claim = ABO
+			}		
+			eastern_australia_region = {
+				limit = { NOT = { owned_by = ROOT } }
+				add_permanent_claim = ABO
+			}		
+			nothern_australia_region = {
+				limit = { NOT = { owned_by = ROOT } }
+				add_permanent_claim = ABO
+			}		
+			southern_australia_region = {
+				limit = { NOT = { owned_by = ROOT } }
+				add_permanent_claim = ABO
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+}

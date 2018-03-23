@@ -105,7 +105,7 @@ discovered_by = eastern
 	controller = REB 
 }	#Irish Rebellion of 1798
 
-1798.9.24 = {
+1798.10.24 = {
 	revolt = {}
 } # Rebellion defeated
 

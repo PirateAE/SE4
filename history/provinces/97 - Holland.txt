@@ -35,7 +35,7 @@ discovered_by = eastern
 		name = center_of_trade_modifier
 		duration = -1
 	}
-	extra_cost = 15
+	#extra_cost = 15
 	base_tax = 15
 	base_production = 15
 	base_manpower = 8

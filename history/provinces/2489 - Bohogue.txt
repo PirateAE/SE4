@@ -16,8 +16,6 @@ native_hostileness = 3
 
 discovered_by = north_american
 
-1806.1.1 = { discovered_by = USA } #Lewis and Clark
-
 1760.1.1 = {
 	owner = SHO
 	controller = SHO
@@ -25,3 +23,5 @@ discovered_by = north_american
 	trade_goods = wool
 	is_city = yes 
 } #Great Plain tribes spread over vast territories
+
+1806.1.1 = { discovered_by = USA } #Lewis and Clark

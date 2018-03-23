@@ -11,12 +11,18 @@ country_decisions = {
 			}
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
+			NOT = { tag = ROM }
+			NOT = { tag = LAE }
 			NOT = { tag = ITL }
 			NOT = { tag = ITA }
 			NOT = { tag = TUS }
 			NOT = { tag = SPI }
 			NOT = { tag = EMR }
 			NOT = { tag = LMV }
+			OR = {
+				primary_culture = tuscan
+				tag = PGI
+			}
 			OR = {
 				ai = no
 				AND = {

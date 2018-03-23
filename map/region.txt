@@ -383,7 +383,6 @@ mashriq_region = {
 		aleppo_area
 		syrian_desert_area			#Repurposed to Sinai
 		trans_jordan_area
-		syrian_desert_area
 		#BTADDITIONS
 		cyprus_area
 		tripoli_area
@@ -434,9 +433,6 @@ khorasan_region = {
 		sistan_area
 		makran_area
 		kalat_area
-		birjand_area
-		herat_area
-		mashhad_area
 		birjand_area
 		herat_area
 		mashhad_area
@@ -528,16 +524,6 @@ sahel_region = {
 		southeast_sahara_area
 		#Shattered
 		west_desert_inland_area
-		sahel_wastelands1_area
-		sahel_wastelands2_area
-		sahel_wastelands3_area
-		sahel_wastelands4_area
-		sahel_wastelands5_area
-		sahel_wastelands6_area
-		sahel_wastelands7_area
-		sahel_wastelands8_area
-		sahel_wastelands9_area
-		sahel_wastelands10_area
 		sahel_nameless_area
 		sahel_nameless2_area
 		sahel_nameless3_area

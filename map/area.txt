@@ -3970,36 +3970,6 @@ sibera_nameless2_area = {
 west_desert_inland_area = { #5
 	3741 3735 3736 3737 3738
 }
-sahel_wastelands1_area = {
-	1793 3742 3743
-}
-sahel_wastelands2_area = {
-	3747 3748 3749
-}
-sahel_wastelands3_area = {
-	3745 3755
-}
-sahel_wastelands4_area = {
-	3760 3761
-}
-sahel_wastelands5_area = {
-	3763 3764
-}
-sahel_wastelands6_area = {
-	3770 3771
-}
-sahel_wastelands7_area = {
-	3752 3753
-}
-sahel_wastelands8_area = {
-	3781 3782
-}
-sahel_wastelands9_area = {
-	3772 3773 3775
-}
-sahel_wastelands10_area = {
-	1794 3778 3784
-}
 sahel_nameless_area = {
 	3776 3777 3774
 }

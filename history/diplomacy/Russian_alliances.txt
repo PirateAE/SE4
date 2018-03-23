@@ -33,7 +33,7 @@ vassal = {
 # Muscovy and Rostov
 vassal = {
 	first = MOS
-	second = RSO
+	second = RST
 	start_date = 1444.1.1
 	end_date = 1474.1.1
 }

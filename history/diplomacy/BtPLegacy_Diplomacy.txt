@@ -302,7 +302,7 @@ royal_marriage = {
 vassal = {
 	first = MOS
 	second = MOZ
-	start_date = 1447.6.1
+	start_date = 1446.2.13
 	end_date = 1456.1.1
 }	#In the aftermath of the Great Feudal War, Mozhaysk becomes a de facto vassal to Moscovy
 
@@ -332,13 +332,6 @@ alliance = {
 	second = MOZ
 	start_date = 1444.1.1
 	end_date = 1446.2.13	#Shemyaka takes Moscow
-}
-
-vassal = {
-	first = MOS
-	second = MOZ
-	start_date = 1446.2.13
-	end_date = 1447.6.1	#Vasily regains control
 }
 
 alliance = {

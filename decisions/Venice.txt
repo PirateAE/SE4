@@ -13,6 +13,9 @@ confirm_thalassocracy = {
 				1308 = { # Venice
 					is_strongest_trade_power = ROOT
 				}
+				121 = { # Napoli
+					is_strongest_trade_power = ROOT
+				}
 				341 = { #Tunis
 					is_strongest_trade_power = ROOT
 				}
@@ -29,7 +32,10 @@ confirm_thalassocracy = {
 				1926 = { #Baltic Sea
 					is_strongest_trade_power = ROOT
 				}
-				1744 = { #Antwerpen
+				1744 = { #English Channel
+					is_strongest_trade_power = ROOT
+				}
+				1284 = { #Irish Sea
 					is_strongest_trade_power = ROOT
 				}
 				1975 = { #North Sea
@@ -69,6 +75,9 @@ confirm_thalassocracy = {
 					1308 = { # Venice
 						is_strongest_trade_power = ROOT
 					}
+					121 = { # Napoli
+						is_strongest_trade_power = ROOT
+					}
 					341 = { #Tunis
 						is_strongest_trade_power = ROOT
 					}
@@ -86,7 +95,10 @@ confirm_thalassocracy = {
 					1926 = { #Baltic Sea
 						is_strongest_trade_power = ROOT
 					}
-					1744 = { #Antwerpen
+					1744 = { #English Channel
+						is_strongest_trade_power = ROOT
+					}
+					1284 = { #Irish Sea
 						is_strongest_trade_power = ROOT
 					}
 					1975 = { #North Sea
@@ -117,8 +129,7 @@ confirm_thalassocracy = {
 					}
 				}
 			}
-		}		
-
+		}
 		effect = {
 			add_country_modifier = {
 				name = "thalassocracy"
@@ -129,6 +140,6 @@ confirm_thalassocracy = {
 		ai_will_do = {
 			factor = 1
 		}
-	}
 
+	}
 }

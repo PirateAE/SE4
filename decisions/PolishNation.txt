@@ -18,8 +18,10 @@ country_decisions = {
 					num_of_cities = 6
 				}
 			}
-			NOT = { tag = HLR }
 			NOT = { tag = PAP }
+			NOT = { tag = HLR }
+			NOT = { tag = ROM }
+			NOT = { tag = LAE }
 			NOT = { tag = GMV }
 			OR = {
 				primary_culture = polish

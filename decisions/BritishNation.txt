@@ -12,7 +12,13 @@ country_decisions = {
 			NOT = { exists = GBR }
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
+			NOT = { tag = ROM }
+			NOT = { tag = LAE }
+			NOT = { tag = ANV }
 			NOT = { tag = CEL }
+			NOT = { tag = HBE }
+			NOT = { tag = TNA }
+			NOT = { tag = YYK }
 			OR = {
 				culture_group = british
 				primary_culture = welsh
@@ -21,7 +27,7 @@ country_decisions = {
 				ai = no
 				AND = {
 					ai = yes
-					num_of_cities = 3
+					num_of_cities = 8
 				}
 			}
 			is_colonial_nation = no
@@ -58,22 +64,45 @@ country_decisions = {
 				}
 				set_government_rank = 2
 			}
+			custom_tooltip = cornishassim
+			custom_tooltip = welshassim
+			hidden_effect = {
+				if = {
+					limit = { primary_culture = welsh }
+					change_primary_culture = welshbrit
+				}
+				if = {
+					limit = { primary_culture = cornish }
+					change_primary_culture = cornishbrit
+				}
+				every_core_province = { 
+					limit = { culture = welsh }
+					change_culture = welshbrit
+				}
+				every_core_province = { 
+					limit = { culture = cornish }
+					change_culture = cornishbrit
+				}
+			}
 			british_isles_region = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}
 				add_permanent_claim = GBR
 			}
-			add_prestige = 25
+			ireland_area = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = GBR
+			}
 			add_country_modifier = {
 				name = "centralization_modifier"
 				duration = 7300
 			}
-			set_country_flag = formed_great_britain_flag
+			add_prestige = 25
 		}
-		ai_will_do = {
-			factor = 1
-		}
+		ai_will_do = { factor = 1 }
 		ai_importance = 400
 	}
 	
@@ -177,8 +206,13 @@ country_decisions = {
 				}
 				add_permanent_claim = GBR
 			}
-			add_prestige = 25
-			
+			ireland_area = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = GBR
+			}
+			add_prestige = 25			
 			add_country_modifier = {
 				name = "centralization_modifier"
 				duration = 7300

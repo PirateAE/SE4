@@ -16,6 +16,8 @@ country_decisions = {
 			NOT = { exists = ITL }
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
+			NOT = { tag = ROM }
+			NOT = { tag = LAE }
 			culture_group = latin
 			OR = {
 				ai = no

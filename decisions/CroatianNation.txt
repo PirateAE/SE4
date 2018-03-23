@@ -10,9 +10,11 @@ country_decisions = {
 				is_playing_custom_nation = no
 			}
 			NOT = { tag = HLR }
+			NOT = { tag = ROM }
 			NOT = { tag = CRO }
 			NOT = { tag = PAP }
 			NOT = { tag = ILY }
+			NOT = { tag = LAE }
 			OR = {
 				NOT = { exists = CRO}
 				ai = no

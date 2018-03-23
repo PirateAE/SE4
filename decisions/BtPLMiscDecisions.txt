@@ -6,16 +6,16 @@ country_decisions = {
 			OR = {
 				AND = {
 					primary_culture = swedish
-					accepted_culture = gotlander
+					accepted_culture = geatish
 				}
 				AND = {
-					primary_culture = gotlander
+					primary_culture = geatish
 					accepted_culture = swedish
 				}
 			}
 			num_of_owned_provinces_with = {
 				value = 4
-				culture = gotlander
+				culture = geatish
 				is_core = ROOT
 			} #Dont want this decision appearing constantly everytime a new province is taken. Need at least 4 provinces with Gotlander culture
 		}
@@ -28,12 +28,12 @@ country_decisions = {
 		
 		effect = {
 			if = {
-				limit = { primary_culture = gotlander }
+				limit = { primary_culture = geatish }
 				change_primary_culture = swedish
 			}
 			every_core_province = {
 				limit = {
-					culture = gotlander
+					culture = geatish
 					NOT = { province_id = 25 }	#will not change Gotlands culture
 				}
 				change_culture = swedish

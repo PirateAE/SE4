@@ -12,6 +12,8 @@ country_decisions = {
 			NOT = { exists = SPI }
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
+			NOT = { tag = ROM }
+			NOT = { tag = LAE }
 			NOT = { tag = ITL }
 			NOT = { tag = ITA }
 			NOT = { tag = TUS }
@@ -36,13 +38,13 @@ country_decisions = {
 			is_free_or_tributary_trigger = yes
 			is_nomad = no
 			is_at_war = no
-			OR = {
-				AND = {
-					tag = SAR
+			AND = {
+				OR = {
+					primary_culture = piedmontese
 					NOT = { exists = SAV }
 				}
-				AND = {
-					tag = SAV
+				OR = {
+					primary_culture = sardinian
 					NOT = { exists = SAR }
 				}
 			}

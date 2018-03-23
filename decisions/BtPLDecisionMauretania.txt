@@ -2,16 +2,14 @@ country_decisions = {
 
 	move_trade_to_mogador = {
 		potential = { 
-			tag = MOR
+			primary_culture = moroccan
 			owns = 345
 			owns = 2470
 			345 = { has_province_modifier = center_of_trade_modifier }
 			num_of_owned_provinces_with = {
 				value = 5
-				AND = {
-					region = maghreb_region
-					has_port = yes
-				}
+				region = maghreb_region
+				has_port = yes
 			}	#must control at least 3 other ports in the Maghreb
 			
 		}

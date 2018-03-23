@@ -9,8 +9,10 @@ country_decisions = {
 				ai = no
 				is_playing_custom_nation = no
 			}
-			NOT = { tag = HLR }
 			NOT = { tag = PAP }
+			NOT = { tag = HLR }
+			NOT = { tag = ROM }
+			NOT = { tag = LAE }
 			NOT = { exists = RMN }
 			primary_culture = romanian
 			is_colonial_nation = no
@@ -48,12 +50,6 @@ country_decisions = {
 				}
 				set_government_rank = 2
 			}
-			wallachia_area = {
-				limit = {
-					NOT = { owned_by = ROOT }
-				}
-				add_permanent_claim = RMN
-			}
 			moldavia_area = {
 				limit = {
 					NOT = { owned_by = ROOT }
@@ -61,6 +57,24 @@ country_decisions = {
 				add_permanent_claim = RMN
 			}
 			transylvania_area = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = RMN
+			}
+			southern_transylvania_area = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = RMN
+			}
+			wallachia_area = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = RMN
+			}
+			lower_danube_area = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}

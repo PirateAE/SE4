@@ -16,10 +16,13 @@ country_decisions = {
 			NOT = { tag = PAP }
 			NOT = { tag = NED }
 			NOT = { tag = HLR }
+			NOT = { tag = ROM }
+			NOT = { tag = LAE }
 			NOT = { tag = BEL }
 			OR = {
 				primary_culture = dutch
 				primary_culture = flemish
+				primary_culture = frisian
 				tag = BUR
 			}
 			OR = {

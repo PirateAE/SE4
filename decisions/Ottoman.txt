@@ -3,6 +3,7 @@ country_decisions = {
 	make_constantinople_capital = {
 		potential = {
 			OR = {
+				primary_culture = turkish
 				tag = TUR
 				tag = RUM
 			}
@@ -27,6 +28,27 @@ country_decisions = {
 		}
 		effect = {
 			set_country_flag = relocated_capital_constantinople
+			if = {
+				limit = { #like to clean this up to the three areas but only way i can think of right now -Pirate
+					and = {
+						controls = 151
+						owns = 3170
+						owns = 149
+						owns = 3171
+						owns = 2296
+						owns = 5156
+						owns = 5130
+						owns = 5131
+						owns = 317
+						owns = 5157
+						owns = 316
+						owns = 5168
+						owns = 322
+						owns = 4312
+						}
+					add_stability = 1 #re below: added as its wasn't so much the new capital but the fact there was no longer a backdoor attacker, they could fully turn outwards; checking that that is the case imo justifies the stab
+					}
+				}
 			#add_stability = 1			#Driaocht removing stability, why would the Ottomans become more stable with a new capital? They didn't have the history with it the greeks did. Plus TUR now gets a bigger dev bonus with the restored decision
 			add_core = 151
 			151 = {
@@ -71,7 +93,7 @@ country_decisions = {
 
 	provincial_system = {
 		potential = {
-			tag = TUR
+			primary_culture = turkish
 			NOT = { has_country_modifier = the_provincial_system }
 			normal_or_historical_nations = yes
 			OR = {

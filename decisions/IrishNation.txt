@@ -11,9 +11,13 @@ country_decisions = {
 			}
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
+			NOT = { tag = ROM }
+			NOT = { tag = LAE }
 			NOT = { tag = CEL }
+			NOT = { tag = KOI }
 			NOT = { tag = TNA }
-			NOT = { tag = IRE }			#Now decision disappears when formed
+			NOT = { tag = IRE }
+			NOT = { tag = KOI }
 			primary_culture = irish
 			OR = {
 				tag = LEI

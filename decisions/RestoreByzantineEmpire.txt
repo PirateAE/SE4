@@ -10,9 +10,12 @@ country_decisions = {
 				is_playing_custom_nation = no
 			}
 			NOT = { exists = BYZ }
+			NOT = { tag = PAP }
 			NOT = { tag = HLR }
 			NOT = { tag = ROM }
+			NOT = { tag = LAE }
 			NOT = { tag = TUR }
+			NOT = { tag = TRK }
 			culture_group = byzantine
 			religion = orthodox
 			num_of_owned_provinces_with = {

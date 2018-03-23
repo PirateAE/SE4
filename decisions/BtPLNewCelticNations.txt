@@ -13,8 +13,13 @@ country_decisions = {
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
 			NOT = { tag = GBR }
-			NOT = { tag = TNA }
-			culture_group = gaelic
+			NOT = { tag = ROM }
+			NOT = { tag = YYK }
+			NOT = { exists = TNA }
+			OR = {
+				culture_group = gaelic
+				primary_culture = scottish
+			}
 			OR = {
 				tag = IRE
 				tag = KOI
@@ -25,10 +30,6 @@ country_decisions = {
 					num_of_cities = 8
 				}
 			}
-			OR = {
-				ai = no
-				NOT = { exists = TNA }
-			}	#Copied from France. Player will still see the option if it already exists, but cannot form it unless they topple the current one.
 			OR = {
 				is_former_colonial_nation = no
 				AND = {
@@ -128,6 +129,11 @@ country_decisions = {
 			if = {
 				limit = { NOT = { government_rank = 2 } }
 				set_government_rank = 2
+				capital_scope = {
+					add_base_tax = 1
+					add_base_production = 1
+					add_base_manpower = 1
+				}	#If tag missed the first formable boost
 			}
 			add_country_modifier = {
 				name = "centralization_modifier"
@@ -155,7 +161,9 @@ country_decisions = {
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
 			NOT = { tag = GBR }
-			NOT = { tag = YYK }
+			NOT = { tag = ROM }
+			NOT = { tag = TNA }
+			NOT = { exists = YYK }
 			culture_group = brythonic
 			OR = {
 				tag = WLS
@@ -172,10 +180,6 @@ country_decisions = {
 					}
 				}			#Little detail to encourage Brittany to go for Gaul/Gall/Bro C'hall (not done yet) or France unless it owns equal land in Britain to the size of Brittany.
 			}
-			OR = {
-				ai = no
-				NOT = { exists = YYK }
-			}	#Copied from France. Player will still see the option if it already exists, but cannot form it unless they topple the current one.
 			OR = {
 				is_former_colonial_nation = no
 				AND = {
@@ -207,6 +211,13 @@ country_decisions = {
 				limit = {
 					NOT = { owned_by = ROOT }
 					NOT = { area = southern_isles_area }
+				}
+				add_permanent_claim = YYK
+			}
+			brittany_area = {
+				limit = {
+					NOT = { owned_by = ROOT }
+					culture_group = brythonic
 				}
 				add_permanent_claim = YYK
 			}
@@ -246,12 +257,16 @@ country_decisions = {
 			if = {
 				limit = { NOT = { government_rank = 2 } }
 				set_government_rank = 2
+				capital_scope = {
+					add_base_tax = 1
+					add_base_production = 1
+					add_base_manpower = 1
+				}	#If tag missed the first formable boost
 			}
 			add_country_modifier = {
 				name = "centralization_modifier"
 				duration = 7300
-			}
-			add_prestige = 20		#Extra prestige for Albion. Long live King Arthur!
+			}			add_prestige = 20		#Extra prestige for Albion. Long live King Arthur!
 			set_country_flag = formed_ynys_y_cedyrn_flag_bt
 		}
 		ai_will_do = {

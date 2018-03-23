@@ -14,6 +14,8 @@ country_decisions = {
 			NOT = { tag = SPA }
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
+			NOT = { tag = ROM }
+			NOT = { tag = LAE }
 			NOT = { tag = CAS }
 			NOT = { tag = ARA }
 			NOT = { tag = GRA }

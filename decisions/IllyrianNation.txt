@@ -12,6 +12,8 @@ country_decisions = {
 			NOT = { exists = ILY }
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
+			NOT = { tag = ROM }
+			NOT = { tag = LAE }
 			OR = {
 				culture_group = south_slavic
 				culture_group = illyrian
@@ -53,6 +55,7 @@ country_decisions = {
 		}
 		effect = {
 			change_tag = ILY
+			change_government = absolute_empire
 			remove_non_electors_emperors_from_empire_effect = yes
 			if = {
 				limit = {
@@ -78,6 +81,7 @@ country_decisions = {
 				duration = 7300
 			}
 			set_country_flag = formed_illyria_flag_btp
+#			country_event = { id = ideagroups.1 } #Swap Ideas
 		}
 		ai_will_do = {
 			factor = 1

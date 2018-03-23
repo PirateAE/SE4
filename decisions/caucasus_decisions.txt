@@ -16,7 +16,7 @@ country_decisions = {
 			OR = {
 				primary_culture = georgian
 				primary_culture = abkhaz
-				primary_culture = laz
+				primary_culture = laz_culture
 			}
 			is_colonial_nation = no
 			OR = {
@@ -251,8 +251,14 @@ country_decisions = {
 			random_owned_province = {
 				add_base_tax = 1
 			}
-			armenia_area = { add_permanent_claim = ARM }
-			north_kurdistan_area = { add_permanent_claim = ARM }
+			armenia_area = {
+				limit = { NOT = { owned_by = ROOT } }
+				add_permanent_claim = ARM
+			}
+			north_kurdistan_area = {
+				limit = { NOT = { owned_by = ROOT } }
+				add_permanent_claim = ARM
+			}
 			3255 = { add_permanent_claim = ARM }
 			420 = { add_permanent_claim = ARM }
 			add_country_modifier = {
@@ -426,7 +432,7 @@ country_decisions = {
 				primary_culture = georgian
 				primary_culture = armenian
 				primary_culture = azerbaijani
-				primary_culture = laz
+				primary_culture = laz_culture
 			}
 			is_colonial_nation = no
 			OR = {
@@ -637,7 +643,7 @@ country_decisions = {
 				limit = { NOT = { owned_by = ROOT } }
 				add_permanent_claim = GAR
 			}
-			cilicia_area = {
+			cukurova_area = {
 				limit = { NOT = { owned_by = ROOT } }
 				add_permanent_claim = GAR
 			}

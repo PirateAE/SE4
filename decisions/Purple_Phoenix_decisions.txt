@@ -4,7 +4,11 @@ country_decisions = {
 
 	triumph_greece = {
 		potential = {
-			tag = BYZ
+			OR = {
+				tag = BYZ
+				tag = LAE
+				tag = ROM
+			}
 			normal_or_historical_nations = yes
 			OR = {
 				ai = no
@@ -13,15 +17,15 @@ country_decisions = {
 			has_dlc = "Purple Phoenix"
 			NOT = { has_country_flag = triumph_greece }
 			OR = {
-				morea_area = { owned_by = BYZ }
-				northern_greece_area = { owned_by = BYZ }
-				western_aegean_area = { owned_by = BYZ }
+				morea_area = { owned_by = ROOT }
+				northern_greece_area = { owned_by = ROOT }
+				western_aegean_area = { owned_by = ROOT }
 			}
 		}
 		allow = {
-			northern_greece_area = { type = all owned_by = BYZ }
-			morea_area = { type = all owned_by = BYZ }
-			western_aegean_area = { type = all owned_by = BYZ }
+			northern_greece_area = { type = all owned_by = ROOT }
+			morea_area = { type = all owned_by = ROOT }
+			western_aegean_area = { type = all owned_by = ROOT }
 		}
 		effect = {
 			add_prestige = 10
@@ -35,7 +39,11 @@ country_decisions = {
 
 	triumph_balkans = {
 		potential = {
-			tag = BYZ
+			OR = {
+				tag = BYZ
+				tag = LAE
+				tag = ROM
+			}
 			normal_or_historical_nations = yes
 			OR = {
 				ai = no
@@ -43,20 +51,13 @@ country_decisions = {
 			}
 			has_dlc = "Purple Phoenix"
 			NOT = { has_country_flag = triumph_balkans }
-			balkan_region = { owned_by = BYZ }
+			balkan_region = { owned_by = ROOT }
 		}
 		allow = {
-			owns = 159
-			owns = 1764
-			owns = 149
-			owns = 150
-			owns = 1765
-			owns = 148
-			owns = 1853
-			owns = 143
-			owns = 138
-			owns = 137
-			owns = 136
+			balkan_region = { 
+				type = all 
+				owned_by = ROOT 
+			}
 		}
 		effect = {
 			add_prestige = 20
@@ -70,7 +71,11 @@ country_decisions = {
 	
 	triumph_asia = {
 		potential = {
-			tag = BYZ
+			OR = {
+				tag = BYZ
+				tag = LAE
+				tag = ROM
+			}
 			normal_or_historical_nations = yes
 			OR = {
 				ai = no
@@ -79,13 +84,13 @@ country_decisions = {
 			has_dlc = "Purple Phoenix"
 			NOT = { has_country_flag = triumph_asia }
 			OR = {
-				aydin_area = { owned_by = BYZ }
-				hudavendigar_area = { owned_by = BYZ }
+				aydin_area = { owned_by = ROOT }
+				hudavendigar_area = { owned_by = ROOT }
 			}
 		}
 		allow = {
-			aydin_area = { type = all owned_by = BYZ }
-			hudavendigar_area = { type = all owned_by = BYZ }
+			aydin_area = { type = all owned_by = ROOT }
+			hudavendigar_area = { type = all owned_by = ROOT }
 		}
 		effect = {
 			add_prestige = 10
@@ -99,7 +104,11 @@ country_decisions = {
 	
 	triumph_anatolia = {
 		potential = {
-			tag = BYZ
+			OR = {
+				tag = BYZ
+				tag = LAE
+				tag = ROM
+			}
 			normal_or_historical_nations = yes
 			OR = {
 				ai = no
@@ -107,10 +116,10 @@ country_decisions = {
 			}
 			has_dlc = "Purple Phoenix"
 			NOT = { has_country_flag = triumph_anatolia }
-			anatolia_region = { owned_by = BYZ }
+			anatolia_region = { owned_by = ROOT }
 		}
 		allow = {
-			anatolia_region = { type = all owned_by = BYZ }
+			anatolia_region = { type = all owned_by = ROOT }
 		}
 		effect = {
 			add_prestige = 20
@@ -124,7 +133,11 @@ country_decisions = {
 	
 	triumph_italy = {
 		potential = {
-			tag = BYZ
+			OR = {
+				tag = BYZ
+				tag = LAE
+				tag = ROM
+			}
 			normal_or_historical_nations = yes
 			OR = {
 				ai = no
@@ -132,10 +145,10 @@ country_decisions = {
 			}
 			has_dlc = "Purple Phoenix"
 			NOT = { has_country_flag = triumph_italy }
-			italy_region = { owned_by = BYZ }
+			italy_region = { owned_by = ROOT }
 		}
 		allow = {
-			italy_region = { type = all owned_by = BYZ }
+			italy_region = { type = all owned_by = ROOT }
 			
 		}
 		effect = {

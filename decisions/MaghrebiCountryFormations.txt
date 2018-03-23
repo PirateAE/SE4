@@ -15,6 +15,8 @@ country_decisions = {
 			NOT = { tag = ALG }
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
+			NOT = { tag = ROM }
+			NOT = { tag = MGB }
 			OR = {
 				primary_culture = moroccan
 				AND = {
@@ -134,7 +136,7 @@ country_decisions = {
 			change_primary_culture = moroccan
 			set_country_flag = formed_morocco_flag
 			if = {
-				limit = { has_custom_ideas = no }
+				limit = { NOT = { has_idea_group = MOR_ideas } }
 				country_event = { id = ideagroups.1 } #Swap Ideas
 			}
 		}
@@ -159,6 +161,8 @@ country_decisions = {
 			NOT = { tag = ALG }
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
+			NOT = { tag = ROM }
+			NOT = { tag = MGB }
 			OR = {
 				primary_culture = algerian
 				AND = {
@@ -261,7 +265,7 @@ country_decisions = {
 			add_prestige = 25
 			set_country_flag = formed_algiers_flag
 			if = {
-				limit = { has_custom_ideas = no }
+				limit = { NOT = { has_idea_group = ALG_ideas } }
 				country_event = { id = ideagroups.1 } #Swap Ideas
 			}
 		}
@@ -286,6 +290,8 @@ country_decisions = {
 			NOT = { tag = ALG }
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
+			NOT = { tag = ROM }
+			NOT = { tag = MGB }
 			OR = {
 				primary_culture = tunisian
 				AND = {
@@ -360,7 +366,7 @@ country_decisions = {
 			add_prestige = 25
 			set_country_flag = formed_tunisia_flag
 			if = {
-				limit = { has_custom_ideas = no }
+				limit = { NOT = { has_idea_group = tunisian_ideas } }
 				country_event = { id = ideagroups.1 } #Swap Ideas
 			}
 		}
@@ -386,6 +392,8 @@ country_decisions = {
 			NOT = { tag = TRP }
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
+			NOT = { tag = ROM }
+			NOT = { tag = MGB }
 			OR = {
 				primary_culture = tunisian
 				AND = {
@@ -450,7 +458,7 @@ country_decisions = {
 			add_prestige = 25
 			set_country_flag = formed_tripoli_flag
 			if = {
-				limit = { has_custom_ideas = no }
+				limit = { NOT = { has_idea_group = tunisian_ideas } }
 				country_event = { id = ideagroups.1 } #Swap Ideas
 			}
 		}

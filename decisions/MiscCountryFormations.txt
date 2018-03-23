@@ -9,8 +9,10 @@ country_decisions = {
 				ai = no
 				is_playing_custom_nation = no
 			}
-			NOT = { tag = HLR }
 			NOT = { tag = PAP }
+			NOT = { tag = HLR }
+			NOT = { tag = ROM }
+			NOT = { tag = LAE }
 			NOT = { tag = GER }
 			NOT = { tag = PRU }
 			NOT = { tag = HSA }
@@ -105,9 +107,11 @@ country_decisions = {
 				ai = no
 				is_playing_custom_nation = no
 			}
-			NOT = { tag = HLR }
-			NOT = { tag = HAN }
 			NOT = { tag = PAP }
+			NOT = { tag = HLR }
+			NOT = { tag = ROM }
+			NOT = { tag = LAE }
+			NOT = { tag = HAN }
 			NOT = { tag = GER }
 			NOT = { tag = PRU }
 			NOT = { tag = SWI }
@@ -227,7 +231,10 @@ country_decisions = {
 			NOT = { tag = HLR }
 			NOT = { tag = PAP }
 			NOT = { tag = TUR }
+			NOT = { tag = TRK }
 			NOT = { tag = BYZ }
+			NOT = { tag = ROM }
+			NOT = { tag = LAE }
 			NOT = { exists = BYZ }
 			NOT = { exists = GRE }
 			primary_culture = greek

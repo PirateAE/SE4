@@ -191,6 +191,10 @@ country_decisions = {
 				}
 				set_government_rank = 3
 			}
+			if = {
+				limit = { NOT = { government = high_kingship } }
+				change_government = high_kingship
+			}
 			custom_tooltip = permanent_claim_on_all_celtic_lands_tooltip			#Cleaning things up with two custom tooltips, and hiding the various claims
 			hidden_effect = {
 				ireland_area = {

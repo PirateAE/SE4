@@ -12,8 +12,10 @@ country_decisions = {
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
 			NOT = { tag = ROM }
+			NOT = { tag = LAE }
 			NOT = { tag = SPA }
 			NOT = { tag = ADU }
+			NOT = { tag = MGB }
 			is_colonial_nation = no
 			OR = {
 				is_former_colonial_nation = no
@@ -23,6 +25,7 @@ country_decisions = {
 				}
 			}
 			OR = {
+				primary_culture = andalucian
 				primary_culture = andalusi_culture
 				primary_culture = tunisian
 				primary_culture = moroccan
@@ -34,7 +37,7 @@ country_decisions = {
 				ai = no
 				AND = {
 					NOT = { exists = ADU }
-					num_of_cities = 6
+					num_of_cities = 15 #6
 					any_owned_province = {
 						OR = {
 							area = upper_andalucia_area
@@ -93,9 +96,42 @@ country_decisions = {
 			}
 			if = {
 				limit = {
-					NOT = { primary_culture = andalusi_culture }
+					any_owned_province = {
+						culture_group = maghrebi
+						OR = {
+							has_owner_culture = yes
+							has_owner_accepted_culture = yes
+						}
+					}
 				}
-				change_primary_culture = andalusi_culture
+				every_owned_province = {
+					limit = { 
+						culture_group = maghrebi
+						OR = {
+							has_owner_culture = yes
+							has_owner_accepted_culture = yes
+						}
+					}
+					change_culture = andalucian
+				}
+			}
+			if = {
+				limit = {
+					NOT = { primary_culture = andalucian }
+				}
+				change_primary_culture = andalucian
+			}
+			random_owned_province = {
+				limit = { 
+						culture = andalucian
+						NOT = 255
+						}
+				add_base_tax = 1
+			}
+			225 = {
+			 	add_base_tax = 1
+				add_base_production = 1
+			 	add_base_manpower = 1
 			}
 			if = {
 				limit = {

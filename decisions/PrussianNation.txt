@@ -23,13 +23,11 @@ country_decisions = {
 			}
 		}
 		allow = {
-			NOT = { exists = PRU }
 			adm_tech = 10
-			OR = {
-				religion = protestant
-				religion = reformed
-			}
-			owns_core_province = 41			# Königsberg
+			NOT = { exists = PRU }
+			west_christian_religion = yes
+			NOT = { religion = catholic }
+			owns_core_province = 41			# Ostpreussen
 			OR = {
 				owns_core_province = 43		# Danzig
 				owns_core_province = 2995	# Stolp
@@ -134,14 +132,12 @@ country_decisions = {
 			}
 		}
 		allow = {
-			NOT = { exists = PRU }
 			adm_tech = 10
 			is_at_war = no
-			OR = {
-				religion = reformed
-				religion = protestant
-			}
-			owns_core_province = 41 # Königsberg
+			NOT = { exists = PRU }
+			west_christian_religion = yes
+			NOT = { religion = catholic }
+			owns_core_province = 41		# Königsberg
 		}
 		effect = {
 			41 = {
@@ -216,7 +212,10 @@ country_decisions = {
 				ai = no
 			}
 			NOT = { tag = GER }
+			NOT = { tag = PAP }
 			NOT = { tag = HLR }
+			NOT = { tag = ROM }
+			NOT = { tag = LAE }
 			NOT = { tag = BRA }
 			NOT = { government = celestial_empire } 
 			NOT = {
@@ -225,16 +224,14 @@ country_decisions = {
 			}
 		}
 		allow = {
-			NOT = { exists = PRU }
 			adm_tech = 10
 			is_free_or_tributary_trigger = yes
 			is_nomad = no
 			is_at_war = no
-			OR = {
-				religion = reformed
-				religion = protestant
-			}
-			owns_core_province = 41			# Königsberg
+			NOT = { exists = PRU }
+			west_christian_religion = yes
+			NOT = { religion = catholic }
+			owns_core_province = 41			# Ostpreussen
 			owns_core_province = 42			# Warmia
 			owns_core_province = 43			# Danzig
 		}

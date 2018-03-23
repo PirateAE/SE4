@@ -6,6 +6,7 @@ country_decisions = {
 			OR = {
 				tag = POR
 				tag = SPA
+				tag = IBE
 			}
 			religion = catholic
 			NOT = { has_country_modifier = the_societas_jesu }
@@ -262,10 +263,7 @@ country_decisions = {
 		potential = {
 			NOT = { has_country_modifier = the_declaration_of_indulgence }
 			NOT = { has_country_modifier = the_test_act }
-			OR = {
-				religion = protestant
-				religion = reformed
-			}
+			west_christian_religion = yes
 		}
 		allow = {
 			adm_tech = 10
@@ -285,8 +283,10 @@ country_decisions = {
 		potential = {
 			NOT = { has_country_modifier = the_dissolution_of_the_monasteries }
 			OR = {
-				religion = protestant
-				religion = reformed
+				AND = {
+					west_christian_religion = yes
+					NOT = { religion = catholic }
+				}
 				AND = {
 					religion = catholic
 					has_country_modifier = the_statue_in_restraint_of_appeals
@@ -315,10 +315,7 @@ country_decisions = {
 	popery_act = {
 		potential = {
 			NOT = { has_country_modifier = the_popery_act }
-			OR = {
-				religion = protestant
-				religion = reformed
-			}
+			west_christian_religion = yes
 			adm_tech = 11
 		}
 		allow = {
@@ -391,6 +388,7 @@ country_decisions = {
 		potential = {
 			NOT = { has_ruler_modifier = sect_practices }
 			religion_group = muslim
+			uses_piety = yes
 		}
 		allow = {
 			dip = 3
@@ -516,7 +514,7 @@ country_decisions = {
 	
 	adopt_vajrayana = {
 		potential = {
-			religion_group = pagan
+			is_pagan_trigger = yes
 			any_owned_province = {
 				religion = vajrayana
 			}
@@ -815,7 +813,7 @@ country_decisions = {
 	divination = {
 		potential = {
 			NOT = { has_country_modifier = godly_inspiration }
-			religion_group = pagan
+			is_pagan_trigger = yes
 		}
 		allow = {
 			is_at_war = no
@@ -846,7 +844,7 @@ country_decisions = {
 	religious_sacrifice = {
 		potential = {
 			NOT = { has_country_modifier = religious_sacrifices }
-			religion_group = pagan
+			is_pagan_trigger = yes
 			NOT = { religion = nahuatl }
 			NOT = { religion = inti }
 			NOT = { religion = mesoamerican_religion }
@@ -877,7 +875,7 @@ country_decisions = {
 	vision_quest = {
 		potential = {
 			NOT = { has_country_modifier = rite_of_passage }
-			religion_group = pagan
+			is_pagan_trigger = yes
 		}
 		allow = {
 			ADM = 3
@@ -1214,7 +1212,7 @@ country_decisions = {
 	animism_ritual_education = {
 		potential = {
 			NOT = { has_country_modifier = ritual_education_modifier }
-			religion = animism
+			is_animist_trigger = yes
 			any_owned_province = {
 				NOT = { religion = owner }
 			}
@@ -1244,7 +1242,7 @@ country_decisions = {
 	shamanism_wondering_shamans = {
 		potential = {
 			NOT = { has_country_modifier = wandering_shamans_modifier }
-			religion = shamanism
+			is_shaman_trigger = yes
 			any_owned_province = {
 				NOT = { religion = owner }
 			}
@@ -1274,7 +1272,17 @@ country_decisions = {
 	totemism_purification_movement = {
 		potential = {
 			NOT = { has_country_modifier = purification_movement_modifier }
-			religion = totemism
+			OR = {
+				religion = totemism
+				religion = mahoma
+				religion = midewiwin
+				religion = orenda
+				religion = wakan_tanka
+				religion = pohakantenna
+				religion = southern_cult
+				religion = sgaanaang
+				religion = wakanda
+			}
 			any_owned_province = {
 				NOT = { religion = owner }
 			}
@@ -1422,7 +1430,8 @@ country_decisions = {
 	
 	pagan_conversion_to_christianity = {
 		potential = {
-			religion_group = pagan
+			is_pagan_trigger = yes
+			NOT = { religion_group = elder_gods }
 			NOT = { religion = tengri_pagan_reformed }
 			any_owned_province = {
 				religion_group = christian
@@ -1449,7 +1458,8 @@ country_decisions = {
 	}
 	pagan_conversion_to_islam = {
 		potential = {
-			religion_group = pagan
+			is_pagan_trigger = yes
+			NOT = { religion_group = elder_gods }
 			NOT = { religion = tengri_pagan_reformed }
 			any_owned_province = {
 				religion_group = muslim
@@ -1476,10 +1486,12 @@ country_decisions = {
 	}
 	pagan_conversion_to_buddhism = {
 		potential = {
-			religion_group = pagan
+			is_pagan_trigger = yes
+			NOT = { religion_group = elder_gods }
 			NOT = { religion = tengri_pagan_reformed }
 			any_owned_province = {
 				religion_group = eastern
+				NOT = { religion = moism }
 			}
 			is_free_or_tributary_trigger = yes
 		}
@@ -1503,7 +1515,8 @@ country_decisions = {
 	}
 	pagan_conversion_to_dharmic = {
 		potential = {
-			religion_group = pagan
+			is_pagan_trigger = yes
+			NOT = { religion_group = elder_gods }
 			NOT = { religion = tengri_pagan_reformed }
 			any_owned_province = {
 				religion_group = dharmic
@@ -1530,6 +1543,7 @@ country_decisions = {
 	}
 	pagan_conversion_to_zoroastrian = {
 		potential = {
+			always = no #NepNep #raised eyebrow -Pirate
 			religion_group = pagan
 			NOT = { religion = tengri_pagan_reformed }
 			any_owned_province = {
@@ -1560,9 +1574,11 @@ country_decisions = {
 			religion_group = pagan
 			NOT = { religion = tengri_pagan_reformed }
 			any_owned_province = {
-				religion = jewish
-				religion = samaritan_faith
-				religion = karaite_faith
+				or = {
+					religion = jewish
+					religion = samaritan_faith
+					religion = karaite_faith
+				}
 			}
 			is_free_or_tributary_trigger = yes
 		}

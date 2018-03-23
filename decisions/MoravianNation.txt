@@ -12,13 +12,15 @@ country_decisions = {
 			NOT = { exists = GMV }
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
+			NOT = { tag = ROM }
+			NOT = { tag = LAE }
 			NOT = { tag = PLC }
 			culture_group = west_slavic
 			OR = {
 				ai = no
 				AND = {
 					ai = yes
-					num_of_cities = 3
+					num_of_cities = 7
 				}
 			}
 			is_colonial_nation = no
